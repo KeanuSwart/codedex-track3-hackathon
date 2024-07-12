@@ -1,4 +1,6 @@
 # codedex-track3-hackathon
+
+## Please read below!
 The purpose behind this Track was to predict the winners of the 2024 Paris Summer Olympics.
 
 
