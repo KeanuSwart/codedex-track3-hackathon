@@ -41,3 +41,61 @@ This was great, however, I wanted to clean this up so that we only have the pred
 
 
 And from this point forward, I made use of processed_olympic_predictions.csv as my prediction set :)
+
+In order to run this application on your side, I would suggest installing the latest versions of:
+- Python
+- Pip
+- Flask
+- sklearn
+- pandas
+- plotly
+
+Once these have been installed, you can navigate to app.py and run the following:
+python app.py
+
+You will be met with the following screen (Yes, I know my frontend skills aren't the greatest haha but I did make sure to use the Paris 2024 colours. I also didn't want to use the logos because of potentialy copyright? I wasn't sure but I hope  you enjoy):
+![image](https://github.com/user-attachments/assets/82c8e0b2-ad4e-460b-b9b1-0a818db4f0ef)
+
+Following this you can click on the 'Let's Predict' button, where the winner will be announced!:
+![image](https://github.com/user-attachments/assets/33d73ec5-0900-4d53-b79c-d2bb8df9452a)
+
+I am sure you guys are happy with the predicted winner! Anyways, you can click on the 'Show Predictions' button and will be met with the predictions page:
+![image](https://github.com/user-attachments/assets/c45bd0cf-0cf2-4d88-9ad6-58f678566e95)
+
+This is your 2024 Summer Olympics Prediction Dashboard! You are met with a table that displays the Top 5 Rankings. This table includes how many Golds, Silvers and Bronzes each nation is predicted to win.
+
+I would like to mention that all plots are interactive, so if you want to see hwo well a specific nation did, you can click on the nam,e of the nation in the plot and it will show you their analysis! (Double-click to return to default analysis).
+
+Underneath this, you will see a Filters Tab. This tab works with the plots below the tab (Bar Graph, Pie Chart and Table). Let's say, for example, you wanted to see who got Gold medals at the Athletics. You will enter the following:
+![image](https://github.com/user-attachments/assets/a10bccb7-1c68-474f-9cbd-b19629d7870e)
+
+And you can view the analysis below!:
+![image](https://github.com/user-attachments/assets/10c88fef-0804-47df-8755-145147a09f5c)
+![image](https://github.com/user-attachments/assets/2aff2495-b363-48a6-8685-6573abe1d7a9)
+
+I would advise playing around with the filters, it is vewry fun to see the different predictions for each event :)
+
+Moving on, we can navigate to the 'Compare Nations' tab at the top of the page, where you will be met with the following:
+![image](https://github.com/user-attachments/assets/5e533167-0fc2-4e19-ac90-1000b476f98b)
+
+Woah, it's so empty :( It's because you will need to select the two nations you want to compare! For example, let's compare USA to China (1st and 2nd Place based on the predictions):
+![image](https://github.com/user-attachments/assets/76e5037b-3e69-4055-9f98-aa06fa9dfd51)
+
+And if you scroll down, you will see the following table, helping visualize the data that is in the bar graph:
+![image](https://github.com/user-attachments/assets/b9c813f5-76c6-4841-9b7a-36704cec4df9)
+
+Once again, feel free to play around, it is pretty fun.
+
+If you navigate to 'View All Data', you will be met with the following screen:
+![image](https://github.com/user-attachments/assets/8242bbf6-01f7-4126-b120-c4d5dfd312e0)
+
+There is a brief analysis of which nation achieved the highest amount of Gold, SIlver and Bronze medals as well as the nation with the least! Below this is a table of all the nations that achieved at least one medal at the Olympics.
+
+If you navigate to 'Data Description', you will be met with descriptions of the datasets that have been used, as well as the process and scripts used to clean and engineer the data that has been used. Feel free to go through this - it is informative, but not as informative as this readme :):
+![image](https://github.com/user-attachments/assets/2714adf7-666d-4160-b536-346b41152694)
+
+
+With regards to the challenges that I faced when creating this application, the largest hurdle to get over was definitely the data preperation steps ... It was a real struggle trying to find data that c ould be used appropriately - some datasets would have different anmes for the same sports, and it looked very scruffy when applying that into a UI. So, cleaning, preparing and engineering tghe data definitely took the longest. I think it is also very apparent that I am not an Front-End Dev, however I really enjoyed making use of Flask and being able to visualize the data that I had predicted was very rewarding!
+
+And that is all! Thanks a lot for setting up this hackathon, it has been a great pleasure to be involved in it and I would like tto extend my thanks to the mentors/collaborators and members of the team that spent countless hours setting the tracks up! I hope you enjoyed my project and I hope to be involved in more in the future :) Have a gret day further! Also, if you have any question please feel free to reach out to me! I have included my LinkedIn below:
+https://www.linkedin.com/in/keanu-swart-930013210/
