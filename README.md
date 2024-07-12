@@ -11,6 +11,6 @@ So, initially I got the following dataset from Kaggle: https://www.kaggle.com/da
 I started cleaning this dataset, since I realised we will only need historic data for the Summer Olympics and fiured that it wouldn't really be relevant to include data so old that it would not effect current predictions. With this in mind, deleted all Winter Olympics records as well as all Summer Olympics records older than London 2012. In addition, I simplified the data into the following fields:
 discipline_title,event_title,slug_game,medal_type,rank_equal,rank_position,country_name,country_code,country_3_letter_code
 
-This can be seen in the cleaned dataset [updated_filtered_results.csv].
-
+This can be seen in the cleaned dataset [updated_filtered_results.csv]:
+![image](https://github.com/user-attachments/assets/0d8f2f80-2c60-48d7-aacd-8b1ebb75528f)
 
