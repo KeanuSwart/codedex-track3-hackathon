@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Paris 2024 Predictions</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to bottom, #15B7AF, #075C6C);
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar {
+            background-color: #075C6C; 
+            padding: 10px 0;
+            text-align: center;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .navbar a {
+            color: #f2f2f2;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        .visualization {
+            margin: 10px;
+            background-color: #075C6C;
+            border: 1px solid #075C6C;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .main-visualizations {
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+        }
+        .bar-visualization {
+            flex: 0 0 50%;
+        }
+        .pie-visualization {
+            flex: 0 0 40%;
+        }
+        .data-table-container {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        .scrollable-table {
+            width: 50%;
+            height: 400px;
+            overflow-y: scroll;
+            background-color: #f2f2f2;
+            border: 1px solid #075C6C;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .top-5-table-container {
+            width: 55%; 
+            background-color: #f2f2f2;
+            border: 1px solid #075C6C;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 10px auto; 
+        }
+        .filter-container {
+            width: 60%; 
+            background-color: #f2f2f2;
+            border: 1px solid #d2d2d2;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px auto; 
+            text-align: center; 
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #d2d2d2;
+        }
+        th {
+            background-color: #81B1BD;
+            color: #f7f9fc;
+        }
+        th:nth-child(3) {
+            background-color: #ffd700;
+        }
+        th:nth-child(4) {
+            background-color: #C0C0C0;
+        }
+        th:nth-child(5) {
+            background-color: #CD7F32;
+        }
+        h2 {
+            text-align: center;
+            color: #075C6C; 
+        }
+        h1 {
+            text-align: center;
+            color: #f7f9fc; 
+        }
+        select {
+            padding: 5px;
+            margin: 0 10px;
+            border-radius: 5px;
+            border: 1px solid #d2d2d2;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .button {
+            background-color: #075C6C; 
+            color: #f2f2f2;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .button:hover {
+            background-color: #ffcd00;
+            color: #075C6C;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="{{ url_for('predictions') }}">Predictions</a>
+        <a href="{{ url_for('compare_nations') }}">Compare Nations</a>
+        <a href="{{ url_for('view_all_data') }}">View All Data</a>
+        <a href="{{ url_for('data_description') }}">Data Description</a>
+    </div>
+    <h1>Paris 2024 Summer Olympics Predictions</h1>
+    <div class="top-5-table-container">
+        <h2>Top 5 Rankings</h2>
+        <table border="1">
+            <tr>
+                <th>Ranking</th>
+                <th>Nation</th>
+                <th>Gold</th>
+                <th>Silver</th>
+                <th>Bronze</th>
+                <th>Total</th>
+            </tr>
+            {% for row in top_5_countries %}
+            <tr>
+                <td>{{ row.ranking }}</td>
+                <td>{{ row.country_name }}</td>
+                <td>{{ row.gold_count }}</td>
+                <td>{{ row.silver_count }}</td>
+                <td>{{ row.bronze_count }}</td>
+                <td>{{ row.total }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+    <div class="filter-container">
+        <label for="discipline">Event:</label>
+        <select id="discipline" onchange="updateFilters()">
+            {% for discipline in disciplines %}
+            <option value="{{ discipline }}" {% if discipline == selected_discipline %}selected{% endif %}>{{ discipline }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="medal">Medal Type:</label>
+        <select id="medal" onchange="updateFilters()">
+            {% for medal in medals %}
+            <option value="{{ medal }}" {% if medal == selected_medad %}selected{% endif %}>{{ medal }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div class="container main-visualizations">
+        <div class="visualization bar-visualization">
+            <div id="bar-plotly-div"></div>
+        </div>
+        <div class="visualization pie-visualization">
+            <div id="pie-plotly-div"></div>
+        </div>
+    </div>
+    <div class="container data-table-container">
+        <div class="table-container scrollable-table">
+            <table border="1">
+                <tr>
+                    <th>Nation</th>
+                    <th>Total Predicted Medals</th>
+                </tr>
+                {% for row in table_data %}
+                <tr>
+                    <td>{{ row.country_name }}</td>
+                    <td>{{ row.total_predicted_medals }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+    <script>
+        var bar_graph = {{ bar_graph_json|safe }};
+        Plotly.react('bar-plotly-div', bar_graph.data, bar_graph.layout);
+
+        var pie_chart = {{ pie_chart_json|safe }};
+        Plotly.react('pie-plotly-div', pie_chart.data, pie_chart.layout);
+
+        {% if top_10_bar_graph_json %}
+        var top_10_bar_graph = {{ top_10_bar_graph_json|safe }};
+        Plotly.react('top-10-bar-plotly-div', top_10_bar_graph.data, top_10_bar_graph.layout);
+        {% endif %}
+
+        function updateFilters() {
+            var discipline = document.getElementById("discipline").value;
+            var medal = document.getElementById("medal").value;
+            var url = `/predictions?discipline=${discipline}&medal=${medal}`;
+            window.location.href = url;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Data Description</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to bottom, #15B7AF, #075C6C);
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar {
+            background-color: #075C6C;
+            padding: 10px 0;
+            text-align: center;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .navbar a {
+            color: #f2f2f2;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+        .content {
+            padding: 20px;
+            background-color: #f2f2f2;
+            border: 1px solid #075C6C;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            margin: 20px auto;
+            max-width: 1000px;
+        }
+        .centered-text {
+            text-align: center;
+        }
+        h1, h2, h3 {
+            text-align: center;
+            color: #075C6C;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ddd;
+            overflow: auto;
+            border-radius: 5px;
+        }
+        ul, ol {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="{{ url_for('predictions') }}">Predictions</a>
+        <a href="{{ url_for('compare_nations') }}">Compare Nations</a>
+        <a href="{{ url_for('view_all_data') }}">View All Data</a>
+        <a href="{{ url_for('data_description') }}">Data Description</a>
+    </div>
+    <div class="content">
+        <p class="centered-text"><i>The data that can be viewed in this application is based off predictions done on historical data from the previous 3 Olympic Games results.<br>Descriptions of the dataset's used as well as the scripts used have been included below.</i></p>
+        <h1>Data Description</h1>
+        <h2>Datasets</h2>
+        <ul>
+            <li><strong>results.csv</strong>: Original dataset containing results from various Olympics.</li>
+            <li><strong>updated_filtered_results.csv</strong>: Filtered dataset with unnecessary columns and data older than 2012 removed.</li>
+            <li><strong>olympic_rank_counts.csv</strong>: Further cleaned dataset from remove_data.py script.</li>
+            <li><strong>olympic_predictions_2024.csv</strong>: Predicted winners for each event from predict_script.py script.</li>
+            <li><strong>processed_olympic_predictions_2024.csv</strong>: Final cleaned dataset with only the position of the nation for each specific event.</li>
+        </ul>
+        <h2>Scripts</h2>
+        <h3>remove_data.py</h3>
+        <pre>{{ remove_data_script }}</pre>
+        <h3>clean_data.py</h3>
+        <pre>{{ clean_data_script }}</pre>
+        <h3>predict_script.py</h3>
+        <pre>{{ predict_script }}</pre>
+        <h2>Data Cleaning and Engineering Steps</h2>
+        <p>Step-by-step explanation of the data cleaning and engineering process:</p>
+        <ol>
+            <li>Loaded the original dataset <code>results.csv</code>.</li>
+            <li>Removed unnecessary columns and filtered out data older than 2012, resulting in <code>updated_filtered_results.csv</code>.</li>
+            <li>Used <code>remove_data.py</code> script to clean the data further and create <code>olympic_rank_counts.csv</code>.</li>
+            <li>Predicted the winners for each event using <code>predict_script.py</code> and saved the results in <code>olympic_predictions_2024.csv</code>.</li>
+            <li>Finally, used <code>clean_data.py</code> to clean the dataset further, keeping only the position of the nation for each event, resulting in <code>processed_olympic_predictions_2024.csv</code>.</li>
+        </ol>
+    </div>
+</body>
+</html>

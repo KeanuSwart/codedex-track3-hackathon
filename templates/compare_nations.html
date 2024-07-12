@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Compare Nations - Paris 2024 Predictions</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background:  #15B7AF;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar {
+            background-color: #075C6C; /* Paris 2024 blue */
+            padding: 10px 0;
+            text-align: center;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .navbar a {
+            color: #f2f2f2;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center; 
+            margin: 20px 0;
+        }
+        .visualization {
+            margin: 10px;
+            background-color: #075C6C;
+            border: 1px solid #075C6C;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .compare-container {
+            width: 60%;
+            background-color: #f2f2f2;
+            border: 1px solid #075C6C;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px auto;
+            text-align: center;
+        }
+        .table-container {
+            width: 60%;
+            background-color: #f2f2f2;
+            border: 1px solid #075C6C;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px auto;
+            overflow-y: scroll;
+            height: 400px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #d2d2d2;
+        }
+        th {
+            background-color: #81B1BD;
+            color: #f7f9fc;
+        }
+        h2 {
+            text-align: center;
+            color: #075C6C;
+        }
+        h1 {
+            text-align: center;
+            color: #f7f9fc;
+        }
+        select {
+            padding: 5px;
+            margin: 0 10px;
+            border-radius: 5px;
+            border: 1px solid #d2d2d2;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .button {
+            background-color: #075C6C;
+            color: #f2f2f2;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .button:hover {
+            background-color: #ffcd00;
+            color: #075C6C;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="{{ url_for('predictions') }}">Predictions</a>
+        <a href="{{ url_for('compare_nations') }}">Compare Nations</a>
+        <a href="{{ url_for('view_all_data') }}">View All Data</a>
+        <a href="{{ url_for('data_description') }}">Data Description</a>
+    </div>
+    <h1>Compare Nations - Paris 2024 Summer Olympics Predictions</h1>
+    <div class="compare-container">
+        <label for="country1">Nation 1:</label>
+        <select id="country1" onchange="updateComparison()">
+            <option value="None">Select a Nation</option>
+            {% for country in countries %}
+            <option value="{{ country }}" {% if country == selected_country1 %}selected{% endif %}>{{ country }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="country2">Nation 2:</label>
+        <select id="country2" onchange="updateComparison()">
+            <option value="None">Select a Nation</option>
+            {% for country in countries %}
+            <option value="{{ country }}" {% if country == selected_country2 %}selected{% endif %}>{{ country }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    {% if top_10_bar_graph_json and top_10_table_data %}
+    <div class="container top-10-container">
+        <div class="visualization">
+            <div id="top-10-bar-plotly-div"></div>
+        </div>
+        <div class="table-container">
+            <table border="1">
+                <tr>
+                    <th>Event</th>
+                    <th>Nation</th>
+                    <th>Total Predicted Medals</th>
+                </tr>
+                {% for row in top_10_table_data %}
+                <tr>
+                    <td>{{ row.discipline }}</td>
+                    <td>{{ row.country_name }}</td>
+                    <td>{{ row.total_predicted_medals }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+    {% endif %}
+    <script>
+        function updateComparison() {
+            var country1 = document.getElementById("country1").value;
+            var country2 = document.getElementById("country2").value;
+            var url = `/compare_nations?country1=${country1}&country2=${country2}`;
+            window.location.href = url;
+        }
+
+        {% if top_10_bar_graph_json %}
+        var top_10_bar_graph = {{ top_10_bar_graph_json|safe }};
+        Plotly.react('top-10-bar-plotly-div', top_10_bar_graph.data, top_10_bar_graph.layout);
+        {% endif %}
+    </script>
+</body>
+</html>

@@ -1,0 +1,2002 @@
+discipline,olympic_event,country_name,country_code,country_3_letter_code,first,second,third,fourth,fifth
+3x3 Basketball,tokyo-2020,Belgium,BE,BEL,0,0,0,1,0
+3x3 Basketball,tokyo-2020,France,FR,FRA,0,0,0,1,0
+3x3 Basketball,tokyo-2020,Japan,JP,JPN,0,0,0,0,1
+3x3 Basketball,tokyo-2020,Latvia,LV,LAT,1,0,0,0,0
+3x3 Basketball,tokyo-2020,Netherlands,NL,NED,0,0,0,0,1
+3x3 Basketball,tokyo-2020,People's Republic of China,CN,CHN,0,0,1,0,0
+3x3 Basketball,tokyo-2020,ROC,ROC,ROC,0,2,0,0,0
+3x3 Basketball,tokyo-2020,Serbia,RS,SRB,0,0,1,0,0
+3x3 Basketball,tokyo-2020,United States of America,US,USA,1,0,0,0,0
+Archery,london-2012,Japan,JP,JPN,0,1,1,0,0
+Archery,london-2012,Netherlands,NL,NED,0,0,0,1,0
+Archery,london-2012,People's Republic of China,CN,CHN,0,1,1,0,0
+Archery,london-2012,United States of America,US,USA,0,1,0,1,0
+Archery,london-2012,Chinese Taipei,TW,TPE,0,0,0,0,1
+Archery,london-2012,Italy,IT,ITA,1,0,0,0,0
+Archery,london-2012,Mexico,MX,MEX,0,1,1,1,0
+Archery,london-2012,Republic of Korea,KR,KOR,3,0,1,0,1
+Archery,london-2012,Russian Federation,RU,RUS,0,0,0,1,1
+Archery,london-2012,Ukraine,UA,UKR,0,0,0,0,1
+Archery,rio-2016,France,FR,FRA,0,1,0,0,1
+Archery,rio-2016,Netherlands,NL,NED,0,0,0,1,0
+Archery,rio-2016,People's Republic of China,CN,CHN,0,0,0,1,0
+Archery,rio-2016,United States of America,US,USA,0,1,1,0,0
+Archery,rio-2016,Chinese Taipei,TW,TPE,0,0,1,0,1
+Archery,rio-2016,Italy,IT,ITA,0,0,0,1,0
+Archery,rio-2016,Mexico,MX,MEX,0,0,0,1,1
+Archery,rio-2016,Republic of Korea,KR,KOR,4,0,1,0,0
+Archery,rio-2016,Russian Federation,RU,RUS,0,1,0,0,0
+Archery,rio-2016,Australia,AU,AUS,0,0,1,0,1
+Archery,rio-2016,Germany,DE,GER,0,1,0,0,0
+Archery,tokyo-2020,France,FR,FRA,0,0,0,0,1
+Archery,tokyo-2020,Japan,JP,JPN,0,0,2,0,1
+Archery,tokyo-2020,Netherlands,NL,NED,0,1,0,1,0
+Archery,tokyo-2020,ROC,ROC,ROC,0,2,0,0,0
+Archery,tokyo-2020,United States of America,US,USA,0,0,0,1,0
+Archery,tokyo-2020,Chinese Taipei,TW,TPE,0,1,0,1,0
+Archery,tokyo-2020,Italy,IT,ITA,0,1,1,0,0
+Archery,tokyo-2020,Mexico,MX,MEX,0,0,1,0,1
+Archery,tokyo-2020,Republic of Korea,KR,KOR,4,0,0,0,1
+Archery,tokyo-2020,Germany,DE,GER,0,0,1,0,1
+Archery,tokyo-2020,Belarus,BY,BLR,0,0,0,1,0
+Archery,tokyo-2020,Great Britain,GB,GBR,0,0,0,0,1
+Archery,tokyo-2020,Turkey,TR,TUR,1,0,0,1,0
+Artistic Gymnastics,tokyo-2020,Belgium,BE,BEL,1,0,0,0,0
+Artistic Gymnastics,tokyo-2020,France,FR,FRA,0,0,0,1,0
+Artistic Gymnastics,tokyo-2020,Japan,JP,JPN,2,1,2,0,4
+Artistic Gymnastics,tokyo-2020,People's Republic of China,CN,CHN,3,3,2,3,0
+Artistic Gymnastics,tokyo-2020,ROC,ROC,ROC,2,2,4,2,3
+Artistic Gymnastics,tokyo-2020,United States of America,US,USA,2,2,2,1,2
+Artistic Gymnastics,tokyo-2020,Chinese Taipei,TW,TPE,0,1,0,0,0
+Artistic Gymnastics,tokyo-2020,Italy,IT,ITA,0,1,0,1,0
+Artistic Gymnastics,tokyo-2020,Mexico,MX,MEX,0,0,0,1,0
+Artistic Gymnastics,tokyo-2020,Republic of Korea,KR,KOR,1,0,1,1,0
+Artistic Gymnastics,tokyo-2020,Australia,AU,AUS,0,0,0,0,1
+Artistic Gymnastics,tokyo-2020,Germany,DE,GER,0,1,0,0,1
+Artistic Gymnastics,tokyo-2020,Great Britain,GB,GBR,1,0,1,1,0
+Artistic Gymnastics,tokyo-2020,Turkey,TR,TUR,0,0,1,0,1
+Artistic Gymnastics,tokyo-2020,Armenia,AM,ARM,0,0,1,0,0
+Artistic Gymnastics,tokyo-2020,Brazil,BR,BRA,1,1,0,0,1
+Artistic Gymnastics,tokyo-2020,Canada,CA,CAN,0,0,0,1,0
+Artistic Gymnastics,tokyo-2020,Croatia,HR,CRO,0,1,0,0,0
+Artistic Gymnastics,tokyo-2020,Greece,GR,GRE,0,0,1,0,0
+Artistic Gymnastics,tokyo-2020,Israel,IL,ISR,1,0,0,0,0
+Artistic Gymnastics,tokyo-2020,Kazakhstan,KZ,KAZ,0,0,0,0,1
+Artistic Gymnastics,tokyo-2020,Philippines,PH,PHI,0,0,0,1,0
+Artistic Gymnastics,tokyo-2020,Spain,ES,ESP,0,1,0,0,0
+Artistic Swimming,tokyo-2020,Japan,JP,JPN,0,0,0,2,0
+Artistic Swimming,tokyo-2020,People's Republic of China,CN,CHN,0,2,0,0,0
+Artistic Swimming,tokyo-2020,ROC,ROC,ROC,2,0,0,0,0
+Artistic Swimming,tokyo-2020,Italy,IT,ITA,0,0,0,0,1
+Artistic Swimming,tokyo-2020,Ukraine,UA,UKR,0,0,2,0,0
+Artistic Swimming,tokyo-2020,Canada,CA,CAN,0,0,0,0,1
+Athletics,london-2012,Belgium,BE,BEL,0,0,0,2,2
+Athletics,london-2012,France,FR,FRA,1,1,1,1,2
+Athletics,london-2012,Japan,JP,JPN,0,0,1,1,0
+Athletics,london-2012,Latvia,LV,LAT,0,0,0,1,0
+Athletics,london-2012,Netherlands,NL,NED,0,0,0,0,3
+Athletics,london-2012,People's Republic of China,CN,CHN,1,4,4,3,3
+Athletics,london-2012,United States of America,US,USA,10,11,7,12,7
+Athletics,london-2012,Italy,IT,ITA,0,0,1,1,1
+Athletics,london-2012,Russian Federation,RU,RUS,3,3,2,1,1
+Athletics,london-2012,Ukraine,UA,UKR,0,0,3,2,0
+Athletics,london-2012,Australia,AU,AUS,2,1,0,0,0
+Athletics,london-2012,Germany,DE,GER,1,5,2,3,3
+Athletics,london-2012,Great Britain,GB,GBR,4,2,0,5,1
+Athletics,london-2012,Brazil,BR,BRA,0,0,0,0,1
+Athletics,london-2012,Canada,CA,CAN,0,1,0,0,4
+Athletics,london-2012,Croatia,HR,CRO,1,0,0,0,0
+Athletics,london-2012,Kazakhstan,KZ,KAZ,1,0,0,0,0
+Athletics,london-2012,Spain,ES,ESP,0,0,1,0,1
+Athletics,london-2012,Algeria,DZ,ALG,1,0,0,0,0
+Athletics,london-2012,Bahamas,BS,BAH,1,0,0,1,1
+Athletics,london-2012,Bahrain,BH,BRN,1,0,0,0,0
+Athletics,london-2012,Barbados,BB,BAR,0,0,0,0,1
+Athletics,london-2012,Botswana,BW,BOT,0,1,0,1,0
+Athletics,london-2012,Burundi,BI,BDI,0,0,0,0,1
+Athletics,london-2012,Colombia,CO,COL,0,1,0,0,0
+Athletics,london-2012,Cuba,CU,CUB,0,1,2,0,1
+Athletics,london-2012,Czech Republic,CZ,CZE,1,0,2,0,1
+Athletics,london-2012,Dominican Republic,DO,DOM,1,1,0,0,0
+Athletics,london-2012,Estonia,EE,EST,0,0,1,0,0
+Athletics,london-2012,Ethiopia,ET,ETH,3,2,3,4,3
+Athletics,london-2012,Finland,FI,FIN,0,1,0,1,0
+Athletics,london-2012,Grenada,GD,GRN,1,0,0,0,0
+Athletics,london-2012,Guatemala,GT,GUA,0,1,0,0,0
+Athletics,london-2012,Hungary,HU,HUN,1,0,0,0,0
+Athletics,london-2012,Ireland,IE,IRL,0,0,1,0,0
+Athletics,london-2012,Islamic Republic of Iran,IR,IRI,0,1,0,0,0
+Athletics,london-2012,Jamaica,JM,JAM,4,5,3,2,1
+Athletics,london-2012,Kenya,KE,KEN,2,4,7,2,3
+Athletics,london-2012,Lithuania,LT,LTU,0,0,1,1,0
+Athletics,london-2012,Morocco,MA,MAR,0,0,1,0,0
+Athletics,london-2012,New Zealand,NZ,NZL,1,0,0,0,0
+Athletics,london-2012,Nigeria,NG,NGR,0,0,0,1,0
+Athletics,london-2012,Poland,PL,POL,2,0,0,0,1
+Athletics,london-2012,Puerto Rico,PR,PUR,0,0,1,0,0
+Athletics,london-2012,Qatar,QA,QAT,0,1,0,0,0
+Athletics,london-2012,Slovakia,SK,SVK,0,0,0,0,2
+Athletics,london-2012,Slovenia,SI,SLO,0,1,0,0,0
+Athletics,london-2012,South Africa,ZA,RSA,1,0,0,1,0
+Athletics,london-2012,Sweden,SE,SWE,0,0,0,1,0
+Athletics,london-2012,Trinidad and Tobago,TT,TTO,1,1,2,0,0
+Athletics,london-2012,Tunisia,TN,TUN,1,0,0,0,0
+Athletics,london-2012,Uganda,UG,UGA,1,0,0,0,0
+Athletics,rio-2016,Belgium,BE,BEL,1,0,0,1,0
+Athletics,rio-2016,France,FR,FRA,0,3,3,2,1
+Athletics,rio-2016,Japan,JP,JPN,0,1,1,0,0
+Athletics,rio-2016,Latvia,LV,LAT,0,0,0,1,0
+Athletics,rio-2016,Netherlands,NL,NED,0,1,0,0,3
+Athletics,rio-2016,People's Republic of China,CN,CHN,2,2,2,3,4
+Athletics,rio-2016,Serbia,RS,SRB,0,0,1,0,0
+Athletics,rio-2016,United States of America,US,USA,13,10,9,5,5
+Athletics,rio-2016,Italy,IT,ITA,0,0,0,1,2
+Athletics,rio-2016,Mexico,MX,MEX,0,1,0,1,0
+Athletics,rio-2016,Ukraine,UA,UKR,0,0,1,1,1
+Athletics,rio-2016,Australia,AU,AUS,0,1,1,2,0
+Athletics,rio-2016,Germany,DE,GER,2,0,1,5,3
+Athletics,rio-2016,Belarus,BY,BLR,0,1,0,0,2
+Athletics,rio-2016,Great Britain,GB,GBR,2,1,4,3,3
+Athletics,rio-2016,Turkey,TR,TUR,0,0,1,0,0
+Athletics,rio-2016,Brazil,BR,BRA,1,0,0,1,1
+Athletics,rio-2016,Canada,CA,CAN,1,1,4,4,0
+Athletics,rio-2016,Croatia,HR,CRO,2,0,1,0,0
+Athletics,rio-2016,Greece,GR,GRE,1,0,0,0,0
+Athletics,rio-2016,Israel,IL,ISR,0,0,0,0,1
+Athletics,rio-2016,Kazakhstan,KZ,KAZ,0,0,1,0,0
+Athletics,rio-2016,Spain,ES,ESP,1,1,0,0,0
+Athletics,rio-2016,Algeria,DZ,ALG,0,2,0,0,1
+Athletics,rio-2016,Bahamas,BS,BAH,1,0,1,0,0
+Athletics,rio-2016,Bahrain,BH,BRN,1,1,0,0,0
+Athletics,rio-2016,Botswana,BW,BOT,0,0,0,0,2
+Athletics,rio-2016,Burundi,BI,BDI,0,1,0,0,0
+Athletics,rio-2016,Colombia,CO,COL,1,0,0,0,1
+Athletics,rio-2016,Cuba,CU,CUB,0,0,1,0,0
+Athletics,rio-2016,Czech Republic,CZ,CZE,0,0,1,2,0
+Athletics,rio-2016,Estonia,EE,EST,0,0,0,1,1
+Athletics,rio-2016,Ethiopia,ET,ETH,1,2,5,2,2
+Athletics,rio-2016,Grenada,GD,GRN,0,1,0,0,0
+Athletics,rio-2016,Hungary,HU,HUN,0,0,1,0,0
+Athletics,rio-2016,Ireland,IE,IRL,0,0,0,1,0
+Athletics,rio-2016,Jamaica,JM,JAM,6,3,2,1,2
+Athletics,rio-2016,Kenya,KE,KEN,6,6,1,3,2
+Athletics,rio-2016,Morocco,MA,MAR,0,0,0,1,1
+Athletics,rio-2016,New Zealand,NZ,NZL,0,1,3,0,0
+Athletics,rio-2016,Nigeria,NG,NGR,0,0,0,0,1
+Athletics,rio-2016,Poland,PL,POL,1,1,1,2,1
+Athletics,rio-2016,Qatar,QA,QAT,0,1,0,0,0
+Athletics,rio-2016,Slovakia,SK,SVK,1,0,0,0,1
+Athletics,rio-2016,South Africa,ZA,RSA,2,2,0,0,1
+Athletics,rio-2016,Trinidad and Tobago,TT,TTO,0,0,1,1,1
+Athletics,rio-2016,Bulgaria,BG,BUL,0,1,0,0,0
+Athletics,rio-2016,Congo,CG,CGO,0,0,0,1,0
+Athletics,rio-2016,Denmark,DK,DEN,0,1,0,0,0
+Athletics,rio-2016,Djibouti,DJ,DJI,0,0,0,1,0
+Athletics,rio-2016,Eritrea,ER,ERI,0,0,0,1,0
+Athletics,rio-2016,Ivory Coast,CI,CIV,0,0,0,2,0
+Athletics,rio-2016,Republic of Moldova,MD,MDA,0,0,0,0,1
+Athletics,rio-2016,Tajikistan,TJ,TJK,1,0,0,0,0
+Athletics,rio-2016,United Republic of Tanzania,TZ,TAN,0,0,0,0,1
+Athletics,rio-2016,Venezuela,VE,VEN,0,1,0,0,0
+Athletics,tokyo-2020,Belgium,BE,BEL,1,0,1,2,1
+Athletics,tokyo-2020,France,FR,FRA,0,1,0,1,2
+Athletics,tokyo-2020,Japan,JP,JPN,0,1,1,0,0
+Athletics,tokyo-2020,Netherlands,NL,NED,2,3,3,1,1
+Athletics,tokyo-2020,People's Republic of China,CN,CHN,2,2,1,1,3
+Athletics,tokyo-2020,ROC,ROC,ROC,1,1,0,0,0
+Athletics,tokyo-2020,Serbia,RS,SRB,0,0,0,1,0
+Athletics,tokyo-2020,United States of America,US,USA,7,12,7,6,5
+Athletics,tokyo-2020,Italy,IT,ITA,5,0,0,0,1
+Athletics,tokyo-2020,Mexico,MX,MEX,0,0,0,0,1
+Athletics,tokyo-2020,Republic of Korea,KR,KOR,0,0,0,1,0
+Athletics,tokyo-2020,Ukraine,UA,UKR,0,0,1,2,3
+Athletics,tokyo-2020,Australia,AU,AUS,0,1,2,2,2
+Athletics,tokyo-2020,Germany,DE,GER,1,2,0,1,3
+Athletics,tokyo-2020,Belarus,BY,BLR,0,0,1,0,1
+Athletics,tokyo-2020,Great Britain,GB,GBR,0,3,3,1,1
+Athletics,tokyo-2020,Turkey,TR,TUR,0,0,0,1,0
+Athletics,tokyo-2020,Brazil,BR,BRA,0,0,2,1,0
+Athletics,tokyo-2020,Canada,CA,CAN,2,1,3,1,3
+Athletics,tokyo-2020,Croatia,HR,CRO,0,0,0,1,0
+Athletics,tokyo-2020,Greece,GR,GRE,1,0,0,2,0
+Athletics,tokyo-2020,Spain,ES,ESP,0,0,1,4,3
+Athletics,tokyo-2020,Algeria,DZ,ALG,0,0,0,0,1
+Athletics,tokyo-2020,Bahamas,BS,BAH,2,0,0,0,0
+Athletics,tokyo-2020,Bahrain,BH,BRN,0,1,0,0,0
+Athletics,tokyo-2020,Botswana,BW,BOT,0,0,1,0,0
+Athletics,tokyo-2020,Burundi,BI,BDI,0,0,0,0,1
+Athletics,tokyo-2020,Colombia,CO,COL,0,2,0,0,0
+Athletics,tokyo-2020,Cuba,CU,CUB,0,1,2,0,1
+Athletics,tokyo-2020,Czech Republic,CZ,CZE,0,1,1,0,0
+Athletics,tokyo-2020,Dominican Republic,DO,DOM,0,2,0,0,0
+Athletics,tokyo-2020,Ethiopia,ET,ETH,1,1,2,5,1
+Athletics,tokyo-2020,Finland,FI,FIN,0,0,0,0,1
+Athletics,tokyo-2020,Grenada,GD,GRN,0,0,1,0,0
+Athletics,tokyo-2020,Jamaica,JM,JAM,4,1,4,4,2
+Athletics,tokyo-2020,Kenya,KE,KEN,4,4,2,5,0
+Athletics,tokyo-2020,Morocco,MA,MAR,1,0,0,0,0
+Athletics,tokyo-2020,New Zealand,NZ,NZL,0,0,2,0,0
+Athletics,tokyo-2020,Nigeria,NG,NGR,0,0,1,1,0
+Athletics,tokyo-2020,Poland,PL,POL,4,2,3,0,1
+Athletics,tokyo-2020,Puerto Rico,PR,PUR,1,0,0,0,0
+Athletics,tokyo-2020,Qatar,QA,QAT,1,0,0,0,1
+Athletics,tokyo-2020,Slovenia,SI,SLO,0,0,0,0,2
+Athletics,tokyo-2020,South Africa,ZA,RSA,0,0,0,1,0
+Athletics,tokyo-2020,Sweden,SE,SWE,2,1,0,0,0
+Athletics,tokyo-2020,Uganda,UG,UGA,2,1,1,0,1
+Athletics,tokyo-2020,Eritrea,ER,ERI,0,0,0,0,1
+Athletics,tokyo-2020,Venezuela,VE,VEN,1,0,0,0,0
+Athletics,tokyo-2020,Austria,AT,AUT,0,0,1,0,0
+Athletics,tokyo-2020,Burkina Faso,BF,BUR,0,0,1,0,0
+Athletics,tokyo-2020,Côte d'Ivoire,CI,CIV,0,0,0,1,1
+Athletics,tokyo-2020,India,IN,IND,1,0,0,0,0
+Athletics,tokyo-2020,Liberia,LR,LBR,0,0,0,0,1
+Athletics,tokyo-2020,Norway,NO,NOR,2,1,0,0,0
+Athletics,tokyo-2020,Pakistan,PK,PAK,0,0,0,0,1
+Athletics,tokyo-2020,Portugal,PT,POR,1,1,0,1,2
+Athletics,tokyo-2020,Switzerland,CH,SUI,0,0,0,1,1
+Athletics,tokyo-2020,"Virgin Islands, British",VG,IVB,0,0,0,1,0
+Badminton,london-2012,Japan,JP,JPN,0,1,0,0,1
+Badminton,london-2012,People's Republic of China,CN,CHN,5,2,1,1,2
+Badminton,london-2012,Chinese Taipei,TW,TPE,0,0,0,0,3
+Badminton,london-2012,Republic of Korea,KR,KOR,0,0,1,1,0
+Badminton,london-2012,Russian Federation,RU,RUS,0,0,1,0,0
+Badminton,london-2012,Australia,AU,AUS,0,0,0,0,1
+Badminton,london-2012,Germany,DE,GER,0,0,0,0,1
+Badminton,london-2012,Canada,CA,CAN,0,0,0,1,0
+Badminton,london-2012,Poland,PL,POL,0,0,0,0,1
+Badminton,london-2012,South Africa,ZA,RSA,0,0,0,0,1
+Badminton,london-2012,Denmark,DK,DEN,0,1,1,0,4
+Badminton,london-2012,India,IN,IND,0,0,1,0,1
+Badminton,london-2012,"Hong Kong, China",HK,HKG,0,0,0,0,1
+Badminton,london-2012,Indonesia,ID,INA,0,0,0,1,1
+Badminton,london-2012,Malaysia,MY,MAS,0,1,0,1,0
+Badminton,london-2012,Thailand,TH,THA,0,0,0,0,3
+Badminton,rio-2016,Japan,JP,JPN,1,0,1,0,3
+Badminton,rio-2016,Netherlands,NL,NED,0,0,0,0,1
+Badminton,rio-2016,People's Republic of China,CN,CHN,2,0,1,5,1
+Badminton,rio-2016,Chinese Taipei,TW,TPE,0,0,0,0,1
+Badminton,rio-2016,Republic of Korea,KR,KOR,0,0,1,0,6
+Badminton,rio-2016,Russian Federation,RU,RUS,0,0,0,0,1
+Badminton,rio-2016,Great Britain,GB,GBR,0,0,1,0,1
+Badminton,rio-2016,Spain,ES,ESP,1,0,0,0,0
+Badminton,rio-2016,Poland,PL,POL,0,0,0,0,1
+Badminton,rio-2016,Denmark,DK,DEN,0,1,1,0,0
+Badminton,rio-2016,India,IN,IND,0,1,0,0,1
+Badminton,rio-2016,Indonesia,ID,INA,1,0,0,0,2
+Badminton,rio-2016,Malaysia,MY,MAS,0,3,0,0,1
+Badminton,rio-2016,Thailand,TH,THA,0,0,0,0,1
+Badminton,tokyo-2020,Japan,JP,JPN,0,0,1,0,6
+Badminton,tokyo-2020,Netherlands,NL,NED,0,0,0,0,1
+Badminton,tokyo-2020,People's Republic of China,CN,CHN,2,4,0,1,2
+Badminton,tokyo-2020,Chinese Taipei,TW,TPE,1,1,0,0,1
+Badminton,tokyo-2020,Republic of Korea,KR,KOR,0,0,1,1,3
+Badminton,tokyo-2020,Great Britain,GB,GBR,0,0,0,0,1
+Badminton,tokyo-2020,Guatemala,GT,GUA,0,0,0,1,0
+Badminton,tokyo-2020,Denmark,DK,DEN,1,0,0,0,2
+Badminton,tokyo-2020,India,IN,IND,0,0,1,0,0
+Badminton,tokyo-2020,"Hong Kong, China",HK,HKG,0,0,0,1,0
+Badminton,tokyo-2020,Indonesia,ID,INA,1,0,1,1,2
+Badminton,tokyo-2020,Malaysia,MY,MAS,0,0,1,0,0
+Badminton,tokyo-2020,Thailand,TH,THA,0,0,0,0,2
+Baseball/Softball,tokyo-2020,Japan,JP,JPN,2,0,0,0,0
+Baseball/Softball,tokyo-2020,United States of America,US,USA,0,2,0,0,0
+Baseball/Softball,tokyo-2020,Mexico,MX,MEX,0,0,0,1,0
+Baseball/Softball,tokyo-2020,Republic of Korea,KR,KOR,0,0,0,1,0
+Baseball/Softball,tokyo-2020,Australia,AU,AUS,0,0,0,0,1
+Baseball/Softball,tokyo-2020,Canada,CA,CAN,0,0,1,0,0
+Baseball/Softball,tokyo-2020,Israel,IL,ISR,0,0,0,0,1
+Baseball/Softball,tokyo-2020,Dominican Republic,DO,DOM,0,0,1,0,0
+Basketball,london-2012,France,FR,FRA,0,1,0,0,0
+Basketball,london-2012,United States of America,US,USA,2,0,0,0,0
+Basketball,london-2012,Russian Federation,RU,RUS,0,0,1,1,0
+Basketball,london-2012,Australia,AU,AUS,0,0,1,0,0
+Basketball,london-2012,Turkey,TR,TUR,0,0,0,0,1
+Basketball,london-2012,Brazil,BR,BRA,0,0,0,0,1
+Basketball,london-2012,Spain,ES,ESP,0,1,0,0,0
+Basketball,london-2012,Argentina,AR,ARG,0,0,0,1,0
+Basketball,rio-2016,France,FR,FRA,0,0,0,1,0
+Basketball,rio-2016,Serbia,RS,SRB,0,1,1,0,0
+Basketball,rio-2016,United States of America,US,USA,2,0,0,0,0
+Basketball,rio-2016,Australia,AU,AUS,0,0,0,1,1
+Basketball,rio-2016,Croatia,HR,CRO,0,0,0,0,1
+Basketball,rio-2016,Spain,ES,ESP,0,1,1,0,0
+Basketball,tokyo-2020,France,FR,FRA,0,1,1,0,0
+Basketball,tokyo-2020,Japan,JP,JPN,0,1,0,0,0
+Basketball,tokyo-2020,People's Republic of China,CN,CHN,0,0,0,0,1
+Basketball,tokyo-2020,Serbia,RS,SRB,0,0,0,1,0
+Basketball,tokyo-2020,United States of America,US,USA,2,0,0,0,0
+Basketball,tokyo-2020,Italy,IT,ITA,0,0,0,0,1
+Basketball,tokyo-2020,Australia,AU,AUS,0,0,1,0,0
+Basketball,tokyo-2020,Slovenia,SI,SLO,0,0,0,1,0
+Beach Volleyball,london-2012,Latvia,LV,LAT,0,0,1,0,0
+Beach Volleyball,london-2012,Netherlands,NL,NED,0,0,0,1,0
+Beach Volleyball,london-2012,People's Republic of China,CN,CHN,0,0,0,1,0
+Beach Volleyball,london-2012,United States of America,US,USA,1,1,0,0,1
+Beach Volleyball,london-2012,Italy,IT,ITA,0,0,0,0,2
+Beach Volleyball,london-2012,Germany,DE,GER,1,0,0,0,1
+Beach Volleyball,london-2012,Brazil,BR,BRA,0,1,1,0,1
+Beach Volleyball,london-2012,Czech Republic,CZ,CZE,0,0,0,0,1
+Beach Volleyball,london-2012,Poland,PL,POL,0,0,0,0,1
+Beach Volleyball,london-2012,Austria,AT,AUT,0,0,0,0,1
+Beach Volleyball,rio-2016,Netherlands,NL,NED,0,0,1,0,1
+Beach Volleyball,rio-2016,United States of America,US,USA,0,0,1,0,1
+Beach Volleyball,rio-2016,Italy,IT,ITA,0,1,0,0,0
+Beach Volleyball,rio-2016,Russian Federation,RU,RUS,0,0,0,1,2
+Beach Volleyball,rio-2016,Australia,AU,AUS,0,0,0,0,1
+Beach Volleyball,rio-2016,Germany,DE,GER,1,0,0,0,0
+Beach Volleyball,rio-2016,Brazil,BR,BRA,1,1,0,1,0
+Beach Volleyball,rio-2016,Canada,CA,CAN,0,0,0,0,1
+Beach Volleyball,rio-2016,Cuba,CU,CUB,0,0,0,0,1
+Beach Volleyball,rio-2016,Switzerland,CH,SUI,0,0,0,0,1
+Beach Volleyball,tokyo-2020,Latvia,LV,LAT,0,0,0,2,0
+Beach Volleyball,tokyo-2020,ROC,ROC,ROC,0,1,0,0,1
+Beach Volleyball,tokyo-2020,United States of America,US,USA,1,0,0,0,0
+Beach Volleyball,tokyo-2020,Italy,IT,ITA,0,0,0,0,1
+Beach Volleyball,tokyo-2020,Australia,AU,AUS,0,1,0,0,0
+Beach Volleyball,tokyo-2020,Germany,DE,GER,0,0,0,0,2
+Beach Volleyball,tokyo-2020,Brazil,BR,BRA,0,0,0,0,2
+Beach Volleyball,tokyo-2020,Canada,CA,CAN,0,0,0,0,2
+Beach Volleyball,tokyo-2020,Qatar,QA,QAT,0,0,1,0,0
+Beach Volleyball,tokyo-2020,Norway,NO,NOR,1,0,0,0,0
+Beach Volleyball,tokyo-2020,Switzerland,CH,SUI,0,0,1,0,0
+Boxing,london-2012,France,FR,FRA,0,0,0,0,2
+Boxing,london-2012,Japan,JP,JPN,1,0,1,0,0
+Boxing,london-2012,People's Republic of China,CN,CHN,1,1,1,0,2
+Boxing,london-2012,United States of America,US,USA,1,0,1,0,1
+Boxing,london-2012,Italy,IT,ITA,0,2,1,0,1
+Boxing,london-2012,Mexico,MX,MEX,0,0,0,0,1
+Boxing,london-2012,Republic of Korea,KR,KOR,0,1,0,0,0
+Boxing,london-2012,Russian Federation,RU,RUS,1,2,3,0,3
+Boxing,london-2012,Ukraine,UA,UKR,2,1,2,0,0
+Boxing,london-2012,Australia,AU,AUS,0,0,0,0,1
+Boxing,london-2012,Germany,DE,GER,0,0,0,0,1
+Boxing,london-2012,Belarus,BY,BLR,0,0,0,0,1
+Boxing,london-2012,Great Britain,GB,GBR,3,1,1,0,4
+Boxing,london-2012,Turkey,TR,TUR,0,0,0,0,1
+Boxing,london-2012,Brazil,BR,BRA,0,1,2,0,1
+Boxing,london-2012,Canada,CA,CAN,0,0,0,0,3
+Boxing,london-2012,Kazakhstan,KZ,KAZ,1,1,2,0,3
+Boxing,london-2012,Algeria,DZ,ALG,0,0,0,0,2
+Boxing,london-2012,Cuba,CU,CUB,2,0,2,0,2
+Boxing,london-2012,Hungary,HU,HUN,0,0,0,0,1
+Boxing,london-2012,Ireland,IE,IRL,1,1,2,0,0
+Boxing,london-2012,Islamic Republic of Iran,IR,IRI,0,0,0,0,1
+Boxing,london-2012,Lithuania,LT,LTU,0,0,1,0,0
+Boxing,london-2012,Morocco,MA,MAR,0,0,0,0,2
+Boxing,london-2012,New Zealand,NZ,NZL,0,0,0,0,1
+Boxing,london-2012,Nigeria,NG,NGR,0,0,0,0,1
+Boxing,london-2012,Puerto Rico,PR,PUR,0,0,0,0,2
+Boxing,london-2012,Sweden,SE,SWE,0,0,0,0,1
+Boxing,london-2012,Tunisia,TN,TUN,0,0,0,0,1
+Boxing,london-2012,Bulgaria,BG,BUL,0,0,1,0,3
+Boxing,london-2012,Tajikistan,TJ,TJK,0,0,1,0,0
+Boxing,london-2012,Venezuela,VE,VEN,0,0,0,0,2
+Boxing,london-2012,India,IN,IND,0,0,1,0,2
+Boxing,london-2012,Thailand,TH,THA,0,1,0,0,0
+Boxing,london-2012,Argentina,AR,ARG,0,0,0,0,1
+Boxing,london-2012,Azerbaijan,AZ,AZE,0,0,2,0,0
+Boxing,london-2012,Mongolia,MN,MGL,0,1,1,0,0
+Boxing,london-2012,Uzbekistan,UZ,UZB,0,0,1,0,4
+Boxing,rio-2016,France,FR,FRA,2,2,2,0,1
+Boxing,rio-2016,Netherlands,NL,NED,0,1,0,0,0
+Boxing,rio-2016,People's Republic of China,CN,CHN,0,1,3,0,2
+Boxing,rio-2016,United States of America,US,USA,1,1,1,0,3
+Boxing,rio-2016,Italy,IT,ITA,0,0,0,0,2
+Boxing,rio-2016,Mexico,MX,MEX,0,0,1,0,0
+Boxing,rio-2016,Russian Federation,RU,RUS,1,0,3,0,1
+Boxing,rio-2016,Ukraine,UA,UKR,0,0,0,0,1
+Boxing,rio-2016,Germany,DE,GER,0,0,1,0,0
+Boxing,rio-2016,Great Britain,GB,GBR,1,1,1,0,1
+Boxing,rio-2016,Turkey,TR,TUR,0,0,0,0,1
+Boxing,rio-2016,Brazil,BR,BRA,1,0,0,0,2
+Boxing,rio-2016,Canada,CA,CAN,0,0,0,0,1
+Boxing,rio-2016,Croatia,HR,CRO,0,0,1,0,0
+Boxing,rio-2016,Kazakhstan,KZ,KAZ,1,2,2,0,3
+Boxing,rio-2016,Spain,ES,ESP,0,0,0,0,1
+Boxing,rio-2016,Algeria,DZ,ALG,0,0,0,0,3
+Boxing,rio-2016,Colombia,CO,COL,0,1,1,0,1
+Boxing,rio-2016,Cuba,CU,CUB,3,0,3,0,4
+Boxing,rio-2016,Finland,FI,FIN,0,0,1,0,0
+Boxing,rio-2016,Ireland,IE,IRL,0,0,0,0,3
+Boxing,rio-2016,Kenya,KE,KEN,0,0,0,0,1
+Boxing,rio-2016,Morocco,MA,MAR,0,0,1,0,1
+Boxing,rio-2016,Nigeria,NG,NGR,0,0,0,0,1
+Boxing,rio-2016,Venezuela,VE,VEN,0,1,0,0,1
+Boxing,rio-2016,India,IN,IND,0,0,0,0,1
+Boxing,rio-2016,Thailand,TH,THA,0,0,0,0,2
+Boxing,rio-2016,Argentina,AR,ARG,0,0,0,0,2
+Boxing,rio-2016,Azerbaijan,AZ,AZE,0,1,1,0,5
+Boxing,rio-2016,Mongolia,MN,MGL,0,0,1,0,1
+Boxing,rio-2016,Uzbekistan,UZ,UZB,3,2,2,0,2
+Boxing,rio-2016,Ecuador,EC,ECU,0,0,0,0,2
+Boxing,rio-2016,Egypt,EG,EGY,0,0,0,0,1
+Boxing,rio-2016,Jordan,JO,JOR,0,0,0,0,1
+Boxing,rio-2016,Mauritius,MU,MRI,0,0,0,0,1
+Boxing,tokyo-2020,Japan,JP,JPN,1,0,2,0,0
+Boxing,tokyo-2020,Netherlands,NL,NED,0,0,1,0,0
+Boxing,tokyo-2020,People's Republic of China,CN,CHN,0,2,0,0,1
+Boxing,tokyo-2020,ROC,ROC,ROC,1,1,4,0,2
+Boxing,tokyo-2020,Serbia,RS,SRB,0,0,0,0,1
+Boxing,tokyo-2020,United States of America,US,USA,0,3,1,0,1
+Boxing,tokyo-2020,Chinese Taipei,TW,TPE,0,0,1,0,1
+Boxing,tokyo-2020,Italy,IT,ITA,0,0,1,0,0
+Boxing,tokyo-2020,Mexico,MX,MEX,0,0,0,0,1
+Boxing,tokyo-2020,Ukraine,UA,UKR,0,1,0,0,1
+Boxing,tokyo-2020,Australia,AU,AUS,0,0,1,0,1
+Boxing,tokyo-2020,Germany,DE,GER,0,0,0,0,1
+Boxing,tokyo-2020,Belarus,BY,BLR,0,0,0,0,1
+Boxing,tokyo-2020,Great Britain,GB,GBR,2,2,2,0,1
+Boxing,tokyo-2020,Turkey,TR,TUR,1,1,0,0,2
+Boxing,tokyo-2020,Armenia,AM,ARM,0,0,1,0,1
+Boxing,tokyo-2020,Brazil,BR,BRA,1,1,1,0,2
+Boxing,tokyo-2020,Canada,CA,CAN,0,0,0,0,2
+Boxing,tokyo-2020,Kazakhstan,KZ,KAZ,0,0,2,0,2
+Boxing,tokyo-2020,Philippines,PH,PHI,0,2,1,0,0
+Boxing,tokyo-2020,Spain,ES,ESP,0,0,0,0,3
+Boxing,tokyo-2020,Algeria,DZ,ALG,0,0,0,0,1
+Boxing,tokyo-2020,Colombia,CO,COL,0,0,0,0,4
+Boxing,tokyo-2020,Cuba,CU,CUB,4,0,1,0,2
+Boxing,tokyo-2020,Dominican Republic,DO,DOM,0,0,0,0,2
+Boxing,tokyo-2020,Finland,FI,FIN,0,0,1,0,0
+Boxing,tokyo-2020,Ireland,IE,IRL,1,0,1,0,1
+Boxing,tokyo-2020,New Zealand,NZ,NZL,0,0,1,0,0
+Boxing,tokyo-2020,Bulgaria,BG,BUL,1,0,0,0,0
+Boxing,tokyo-2020,India,IN,IND,0,0,1,0,2
+Boxing,tokyo-2020,Thailand,TH,THA,0,0,1,0,2
+Boxing,tokyo-2020,Azerbaijan,AZ,AZE,0,0,1,0,0
+Boxing,tokyo-2020,Mongolia,MN,MGL,0,0,0,0,1
+Boxing,tokyo-2020,Uzbekistan,UZ,UZB,1,0,0,0,4
+Boxing,tokyo-2020,Jordan,JO,JOR,0,0,0,0,1
+Boxing,tokyo-2020,Mauritius,MU,MRI,0,0,0,0,1
+Boxing,tokyo-2020,Georgia,GE,GEO,0,0,0,0,1
+Boxing,tokyo-2020,Ghana,GH,GHA,0,0,1,0,0
+Boxing,tokyo-2020,Haiti,HT,HAI,0,0,0,0,1
+Boxing,tokyo-2020,Mozambique,MZ,MOZ,0,0,0,0,2
+Boxing,tokyo-2020,Panama,PA,PAN,0,0,0,0,1
+Boxing,tokyo-2020,Romania,RO,ROU,0,0,0,0,1
+Canoe Slalom,london-2012,France,FR,FRA,2,0,0,1,0
+Canoe Slalom,london-2012,Italy,IT,ITA,1,0,0,0,0
+Canoe Slalom,london-2012,Australia,AU,AUS,0,1,0,0,0
+Canoe Slalom,london-2012,Germany,DE,GER,0,1,1,0,1
+Canoe Slalom,london-2012,Great Britain,GB,GBR,1,1,0,0,0
+Canoe Slalom,london-2012,Spain,ES,ESP,0,0,1,1,1
+Canoe Slalom,london-2012,Czech Republic,CZ,CZE,0,1,0,1,1
+Canoe Slalom,london-2012,Poland,PL,POL,0,0,0,1,1
+Canoe Slalom,london-2012,Slovakia,SK,SVK,0,0,2,0,0
+Canoe Slalom,rio-2016,France,FR,FRA,1,0,1,0,0
+Canoe Slalom,rio-2016,Japan,JP,JPN,0,0,1,0,0
+Canoe Slalom,rio-2016,Australia,AU,AUS,0,0,1,0,0
+Canoe Slalom,rio-2016,Germany,DE,GER,0,0,0,2,1
+Canoe Slalom,rio-2016,Great Britain,GB,GBR,1,1,0,0,0
+Canoe Slalom,rio-2016,Spain,ES,ESP,1,0,0,0,0
+Canoe Slalom,rio-2016,Czech Republic,CZ,CZE,0,0,1,1,0
+Canoe Slalom,rio-2016,New Zealand,NZ,NZL,0,1,0,0,0
+Canoe Slalom,rio-2016,Poland,PL,POL,0,0,0,0,1
+Canoe Slalom,rio-2016,Slovakia,SK,SVK,1,1,0,1,1
+Canoe Slalom,rio-2016,Slovenia,SI,SLO,0,1,0,0,0
+Canoe Slalom,rio-2016,Austria,AT,AUT,0,0,0,0,1
+Canoe Slalom,tokyo-2020,France,FR,FRA,0,0,0,1,1
+Canoe Slalom,tokyo-2020,United States of America,US,USA,0,0,0,0,1
+Canoe Slalom,tokyo-2020,Italy,IT,ITA,0,0,0,1,0
+Canoe Slalom,tokyo-2020,Australia,AU,AUS,1,0,1,0,0
+Canoe Slalom,tokyo-2020,Germany,DE,GER,1,0,3,0,0
+Canoe Slalom,tokyo-2020,Great Britain,GB,GBR,0,1,0,1,0
+Canoe Slalom,tokyo-2020,Spain,ES,ESP,0,1,0,0,0
+Canoe Slalom,tokyo-2020,Czech Republic,CZ,CZE,1,1,0,0,0
+Canoe Slalom,tokyo-2020,Poland,PL,POL,0,0,0,0,1
+Canoe Slalom,tokyo-2020,Slovakia,SK,SVK,0,1,0,0,0
+Canoe Slalom,tokyo-2020,Slovenia,SI,SLO,1,0,0,0,0
+Canoe Slalom,tokyo-2020,Austria,AT,AUT,0,0,0,1,1
+Canoe Sprint,london-2012,France,FR,FRA,0,0,0,2,1
+Canoe Sprint,london-2012,People's Republic of China,CN,CHN,0,0,0,1,0
+Canoe Sprint,london-2012,Italy,IT,ITA,0,0,0,0,1
+Canoe Sprint,london-2012,Russian Federation,RU,RUS,1,1,1,0,1
+Canoe Sprint,london-2012,Ukraine,UA,UKR,1,2,0,0,0
+Canoe Sprint,london-2012,Australia,AU,AUS,1,0,0,1,0
+Canoe Sprint,london-2012,Germany,DE,GER,3,1,2,1,0
+Canoe Sprint,london-2012,Belarus,BY,BLR,0,2,1,1,0
+Canoe Sprint,london-2012,Great Britain,GB,GBR,1,0,1,0,1
+Canoe Sprint,london-2012,Canada,CA,CAN,0,1,2,0,0
+Canoe Sprint,london-2012,Spain,ES,ESP,0,2,1,1,0
+Canoe Sprint,london-2012,Czech Republic,CZ,CZE,0,0,1,0,1
+Canoe Sprint,london-2012,Hungary,HU,HUN,3,2,1,0,0
+Canoe Sprint,london-2012,New Zealand,NZ,NZL,1,0,0,0,0
+Canoe Sprint,london-2012,Poland,PL,POL,0,0,1,1,1
+Canoe Sprint,london-2012,Slovakia,SK,SVK,0,0,0,0,1
+Canoe Sprint,london-2012,South Africa,ZA,RSA,0,0,1,0,0
+Canoe Sprint,london-2012,Sweden,SE,SWE,0,0,0,1,2
+Canoe Sprint,london-2012,Denmark,DK,DEN,0,0,0,1,1
+Canoe Sprint,london-2012,Austria,AT,AUT,0,0,0,0,1
+Canoe Sprint,london-2012,Portugal,PT,POR,0,1,0,0,0
+Canoe Sprint,london-2012,Argentina,AR,ARG,0,0,0,0,1
+Canoe Sprint,london-2012,Azerbaijan,AZ,AZE,0,0,0,1,0
+Canoe Sprint,london-2012,Uzbekistan,UZ,UZB,0,0,0,1,0
+Canoe Sprint,rio-2016,France,FR,FRA,0,1,0,0,1
+Canoe Sprint,rio-2016,Latvia,LV,LAT,0,0,0,0,1
+Canoe Sprint,rio-2016,Serbia,RS,SRB,0,1,0,0,0
+Canoe Sprint,rio-2016,Russian Federation,RU,RUS,0,0,2,0,2
+Canoe Sprint,rio-2016,Ukraine,UA,UKR,1,0,1,3,0
+Canoe Sprint,rio-2016,Australia,AU,AUS,0,0,1,2,0
+Canoe Sprint,rio-2016,Germany,DE,GER,4,2,1,0,2
+Canoe Sprint,rio-2016,Belarus,BY,BLR,0,0,1,1,0
+Canoe Sprint,rio-2016,Great Britain,GB,GBR,1,1,0,0,0
+Canoe Sprint,rio-2016,Brazil,BR,BRA,0,2,1,0,0
+Canoe Sprint,rio-2016,Spain,ES,ESP,2,0,1,1,1
+Canoe Sprint,rio-2016,Czech Republic,CZ,CZE,0,1,1,0,1
+Canoe Sprint,rio-2016,Hungary,HU,HUN,3,0,0,2,0
+Canoe Sprint,rio-2016,Lithuania,LT,LTU,0,0,1,0,1
+Canoe Sprint,rio-2016,New Zealand,NZ,NZL,1,0,1,0,1
+Canoe Sprint,rio-2016,Poland,PL,POL,0,1,1,0,0
+Canoe Sprint,rio-2016,Slovakia,SK,SVK,0,1,0,0,0
+Canoe Sprint,rio-2016,Slovenia,SI,SLO,0,0,0,1,0
+Canoe Sprint,rio-2016,Denmark,DK,DEN,0,1,0,0,0
+Canoe Sprint,rio-2016,Portugal,PT,POR,0,0,0,1,1
+Canoe Sprint,rio-2016,Azerbaijan,AZ,AZE,0,1,1,0,0
+Canoe Sprint,rio-2016,Georgia,GE,GEO,0,0,0,0,1
+Canoe Sprint,tokyo-2020,France,FR,FRA,0,0,0,1,0
+Canoe Sprint,tokyo-2020,People's Republic of China,CN,CHN,1,2,0,0,0
+Canoe Sprint,tokyo-2020,ROC,ROC,ROC,0,0,0,1,0
+Canoe Sprint,tokyo-2020,United States of America,US,USA,1,0,0,0,0
+Canoe Sprint,tokyo-2020,Italy,IT,ITA,0,1,0,0,0
+Canoe Sprint,tokyo-2020,Ukraine,UA,UKR,0,1,1,0,0
+Canoe Sprint,tokyo-2020,Australia,AU,AUS,1,0,0,0,1
+Canoe Sprint,tokyo-2020,Germany,DE,GER,1,1,1,2,1
+Canoe Sprint,tokyo-2020,Belarus,BY,BLR,0,1,0,0,1
+Canoe Sprint,tokyo-2020,Great Britain,GB,GBR,0,0,1,0,0
+Canoe Sprint,tokyo-2020,Brazil,BR,BRA,1,0,0,1,0
+Canoe Sprint,tokyo-2020,Canada,CA,CAN,0,1,1,0,0
+Canoe Sprint,tokyo-2020,Spain,ES,ESP,0,2,0,0,2
+Canoe Sprint,tokyo-2020,Cuba,CU,CUB,1,0,0,0,0
+Canoe Sprint,tokyo-2020,Czech Republic,CZ,CZE,0,0,1,0,2
+Canoe Sprint,tokyo-2020,Hungary,HU,HUN,3,2,1,4,1
+Canoe Sprint,tokyo-2020,New Zealand,NZ,NZL,3,0,0,1,1
+Canoe Sprint,tokyo-2020,Poland,PL,POL,0,1,1,2,0
+Canoe Sprint,tokyo-2020,Slovakia,SK,SVK,0,0,1,0,0
+Canoe Sprint,tokyo-2020,Sweden,SE,SWE,0,0,0,0,2
+Canoe Sprint,tokyo-2020,Denmark,DK,DEN,0,0,2,0,0
+Canoe Sprint,tokyo-2020,Republic of Moldova,MD,MDA,0,0,1,0,0
+Canoe Sprint,tokyo-2020,Portugal,PT,POR,0,0,1,0,0
+Canoe Sprint,tokyo-2020,Romania,RO,ROU,0,0,0,0,1
+Cycling BMX,london-2012,France,FR,FRA,0,0,0,1,0
+Cycling BMX,london-2012,Latvia,LV,LAT,1,0,0,0,1
+Cycling BMX,london-2012,Netherlands,NL,NED,0,0,1,1,1
+Cycling BMX,london-2012,United States of America,US,USA,0,0,0,0,2
+Cycling BMX,london-2012,Australia,AU,AUS,0,1,0,0,1
+Cycling BMX,london-2012,Germany,DE,GER,0,0,0,0,1
+Cycling BMX,london-2012,Canada,CA,CAN,0,0,0,0,1
+Cycling BMX,london-2012,Colombia,CO,COL,1,0,1,0,0
+Cycling BMX,london-2012,Czech Republic,CZ,CZE,0,0,0,0,1
+Cycling BMX,london-2012,New Zealand,NZ,NZL,0,1,0,0,0
+Cycling BMX,london-2012,Denmark,DK,DEN,0,0,0,0,1
+Cycling BMX,london-2012,Venezuela,VE,VEN,0,0,0,0,1
+Cycling BMX,rio-2016,France,FR,FRA,0,0,0,0,1
+Cycling BMX,rio-2016,Latvia,LV,LAT,0,0,0,0,2
+Cycling BMX,rio-2016,Netherlands,NL,NED,0,1,0,0,1
+Cycling BMX,rio-2016,United States of America,US,USA,1,1,0,2,1
+Cycling BMX,rio-2016,Russian Federation,RU,RUS,0,0,0,0,1
+Cycling BMX,rio-2016,Australia,AU,AUS,0,0,0,0,2
+Cycling BMX,rio-2016,Canada,CA,CAN,0,0,0,0,1
+Cycling BMX,rio-2016,Colombia,CO,COL,1,0,1,0,0
+Cycling BMX,rio-2016,Venezuela,VE,VEN,0,0,1,0,0
+Cycling BMX,rio-2016,Argentina,AR,ARG,0,0,0,0,1
+Cycling BMX Freestyle,tokyo-2020,Japan,JP,JPN,0,0,0,0,1
+Cycling BMX Freestyle,tokyo-2020,United States of America,US,USA,0,1,0,1,0
+Cycling BMX Freestyle,tokyo-2020,Australia,AU,AUS,1,0,0,0,1
+Cycling BMX Freestyle,tokyo-2020,Great Britain,GB,GBR,1,0,1,0,0
+Cycling BMX Freestyle,tokyo-2020,Venezuela,VE,VEN,0,1,0,0,0
+Cycling BMX Freestyle,tokyo-2020,Switzerland,CH,SUI,0,0,1,0,0
+Cycling BMX Freestyle,tokyo-2020,Costa Rica,CR,CRC,0,0,0,1,0
+Cycling BMX Racing,tokyo-2020,France,FR,FRA,0,0,0,1,0
+Cycling BMX Racing,tokyo-2020,Netherlands,NL,NED,1,0,1,0,0
+Cycling BMX Racing,tokyo-2020,United States of America,US,USA,0,0,0,1,0
+Cycling BMX Racing,tokyo-2020,Australia,AU,AUS,0,0,0,0,1
+Cycling BMX Racing,tokyo-2020,Great Britain,GB,GBR,1,1,0,0,0
+Cycling BMX Racing,tokyo-2020,Colombia,CO,COL,0,1,1,0,0
+Cycling BMX Racing,tokyo-2020,Ecuador,EC,ECU,0,0,0,0,1
+Cycling Mountain Bike,london-2012,France,FR,FRA,1,0,0,0,0
+Cycling Mountain Bike,london-2012,United States of America,US,USA,0,0,1,0,0
+Cycling Mountain Bike,london-2012,Italy,IT,ITA,0,0,1,0,0
+Cycling Mountain Bike,london-2012,Russian Federation,RU,RUS,0,0,0,1,0
+Cycling Mountain Bike,london-2012,Germany,DE,GER,0,1,0,0,0
+Cycling Mountain Bike,london-2012,Spain,ES,ESP,0,0,0,1,0
+Cycling Mountain Bike,london-2012,Czech Republic,CZ,CZE,1,0,0,0,0
+Cycling Mountain Bike,london-2012,South Africa,ZA,RSA,0,0,0,0,1
+Cycling Mountain Bike,london-2012,Switzerland,CH,SUI,0,1,0,0,1
+Cycling Mountain Bike,rio-2016,France,FR,FRA,0,0,0,1,0
+Cycling Mountain Bike,rio-2016,Canada,CA,CAN,0,0,1,1,0
+Cycling Mountain Bike,rio-2016,Spain,ES,ESP,0,0,1,0,0
+Cycling Mountain Bike,rio-2016,Colombia,CO,COL,0,0,0,0,1
+Cycling Mountain Bike,rio-2016,Czech Republic,CZ,CZE,0,1,0,0,1
+Cycling Mountain Bike,rio-2016,Poland,PL,POL,0,1,0,0,0
+Cycling Mountain Bike,rio-2016,Sweden,SE,SWE,1,0,0,0,0
+Cycling Mountain Bike,rio-2016,Switzerland,CH,SUI,1,0,0,0,0
+Cycling Mountain Bike,tokyo-2020,France,FR,FRA,0,0,0,0,1
+Cycling Mountain Bike,tokyo-2020,Netherlands,NL,NED,0,0,0,0,1
+Cycling Mountain Bike,tokyo-2020,Great Britain,GB,GBR,1,0,0,0,0
+Cycling Mountain Bike,tokyo-2020,Spain,ES,ESP,0,0,1,0,0
+Cycling Mountain Bike,tokyo-2020,Hungary,HU,HUN,0,0,0,1,0
+Cycling Mountain Bike,tokyo-2020,Switzerland,CH,SUI,1,2,1,1,0
+Cycling Road,london-2012,Netherlands,NL,NED,1,0,0,0,0
+Cycling Road,london-2012,United States of America,US,USA,1,0,0,2,0
+Cycling Road,london-2012,Italy,IT,ITA,0,0,0,0,2
+Cycling Road,london-2012,Russian Federation,RU,RUS,0,0,2,0,0
+Cycling Road,london-2012,Germany,DE,GER,0,2,0,1,0
+Cycling Road,london-2012,Great Britain,GB,GBR,1,1,1,0,0
+Cycling Road,london-2012,Canada,CA,CAN,0,0,0,0,1
+Cycling Road,london-2012,Kazakhstan,KZ,KAZ,1,0,0,0,0
+Cycling Road,london-2012,Colombia,CO,COL,0,1,0,0,0
+Cycling Road,london-2012,New Zealand,NZ,NZL,0,0,0,1,0
+Cycling Road,london-2012,Uzbekistan,UZ,UZB,0,0,0,0,1
+Cycling Road,rio-2016,Belgium,BE,BEL,1,0,0,0,0
+Cycling Road,rio-2016,France,FR,FRA,0,0,0,1,0
+Cycling Road,rio-2016,Netherlands,NL,NED,1,1,1,1,0
+Cycling Road,rio-2016,United States of America,US,USA,1,0,0,1,0
+Cycling Road,rio-2016,Italy,IT,ITA,0,0,1,0,1
+Cycling Road,rio-2016,Russian Federation,RU,RUS,0,1,0,0,0
+Cycling Road,rio-2016,Australia,AU,AUS,0,0,0,0,1
+Cycling Road,rio-2016,Great Britain,GB,GBR,0,0,1,0,1
+Cycling Road,rio-2016,Spain,ES,ESP,0,0,0,1,1
+Cycling Road,rio-2016,Poland,PL,POL,0,0,1,0,0
+Cycling Road,rio-2016,Sweden,SE,SWE,0,1,0,0,0
+Cycling Road,rio-2016,Denmark,DK,DEN,0,1,0,0,0
+Cycling Road,rio-2016,Switzerland,CH,SUI,1,0,0,0,0
+Cycling Road,tokyo-2020,Belgium,BE,BEL,0,1,0,1,0
+Cycling Road,tokyo-2020,Netherlands,NL,NED,1,2,1,1,1
+Cycling Road,tokyo-2020,United States of America,US,USA,0,0,0,0,1
+Cycling Road,tokyo-2020,Italy,IT,ITA,0,0,1,0,1
+Cycling Road,tokyo-2020,Australia,AU,AUS,0,0,1,1,0
+Cycling Road,tokyo-2020,Canada,CA,CAN,0,0,0,0,1
+Cycling Road,tokyo-2020,Slovenia,SI,SLO,1,0,1,0,0
+Cycling Road,tokyo-2020,Austria,AT,AUT,1,0,0,0,0
+Cycling Road,tokyo-2020,Switzerland,CH,SUI,0,1,0,1,0
+Cycling Road,tokyo-2020,Ecuador,EC,ECU,1,0,0,0,0
+Cycling Track,london-2012,Belgium,BE,BEL,0,0,0,0,1
+Cycling Track,london-2012,France,FR,FRA,0,3,0,1,0
+Cycling Track,london-2012,Netherlands,NL,NED,0,0,1,0,1
+Cycling Track,london-2012,People's Republic of China,CN,CHN,0,2,1,0,0
+Cycling Track,london-2012,United States of America,US,USA,0,2,0,0,0
+Cycling Track,london-2012,Russian Federation,RU,RUS,0,0,0,1,1
+Cycling Track,london-2012,Ukraine,UA,UKR,0,0,0,1,0
+Cycling Track,london-2012,Australia,AU,AUS,1,1,3,2,3
+Cycling Track,london-2012,Germany,DE,GER,1,1,1,2,0
+Cycling Track,london-2012,Great Britain,GB,GBR,7,1,1,0,0
+Cycling Track,london-2012,Canada,CA,CAN,0,0,1,1,0
+Cycling Track,london-2012,Lithuania,LT,LTU,0,0,0,0,1
+Cycling Track,london-2012,New Zealand,NZ,NZL,0,0,2,0,2
+Cycling Track,london-2012,Trinidad and Tobago,TT,TTO,0,0,0,1,0
+Cycling Track,london-2012,Denmark,DK,DEN,1,0,0,0,1
+Cycling Track,london-2012,"Hong Kong, China",HK,HKG,0,0,1,0,0
+Cycling Track,rio-2016,Belgium,BE,BEL,0,0,1,0,0
+Cycling Track,rio-2016,France,FR,FRA,0,0,1,0,1
+Cycling Track,rio-2016,Netherlands,NL,NED,1,1,0,1,1
+Cycling Track,rio-2016,People's Republic of China,CN,CHN,1,0,0,0,1
+Cycling Track,rio-2016,United States of America,US,USA,0,2,0,0,0
+Cycling Track,rio-2016,Italy,IT,ITA,1,0,0,0,0
+Cycling Track,rio-2016,Russian Federation,RU,RUS,0,1,1,1,0
+Cycling Track,rio-2016,Ukraine,UA,UKR,0,0,0,0,1
+Cycling Track,rio-2016,Australia,AU,AUS,0,1,1,3,1
+Cycling Track,rio-2016,Germany,DE,GER,1,0,1,1,3
+Cycling Track,rio-2016,Great Britain,GB,GBR,6,4,1,0,0
+Cycling Track,rio-2016,Canada,CA,CAN,0,0,1,0,0
+Cycling Track,rio-2016,Colombia,CO,COL,0,0,0,1,1
+Cycling Track,rio-2016,New Zealand,NZ,NZL,0,1,0,3,0
+Cycling Track,rio-2016,Denmark,DK,DEN,0,0,2,0,1
+Cycling Track,rio-2016,Malaysia,MY,MAS,0,0,1,0,0
+Cycling Track,tokyo-2020,Belgium,BE,BEL,0,0,0,1,0
+Cycling Track,tokyo-2020,France,FR,FRA,0,0,2,1,1
+Cycling Track,tokyo-2020,Japan,JP,JPN,0,1,0,0,0
+Cycling Track,tokyo-2020,Netherlands,NL,NED,3,1,2,2,1
+Cycling Track,tokyo-2020,People's Republic of China,CN,CHN,1,0,0,0,0
+Cycling Track,tokyo-2020,ROC,ROC,ROC,0,0,2,1,0
+Cycling Track,tokyo-2020,United States of America,US,USA,1,0,1,0,0
+Cycling Track,tokyo-2020,Italy,IT,ITA,1,0,1,0,0
+Cycling Track,tokyo-2020,Ukraine,UA,UKR,0,1,0,1,0
+Cycling Track,tokyo-2020,Australia,AU,AUS,0,0,1,1,2
+Cycling Track,tokyo-2020,Germany,DE,GER,1,1,0,1,3
+Cycling Track,tokyo-2020,Great Britain,GB,GBR,3,3,1,0,0
+Cycling Track,tokyo-2020,Canada,CA,CAN,1,0,1,1,2
+Cycling Track,tokyo-2020,Lithuania,LT,LTU,0,0,0,0,1
+Cycling Track,tokyo-2020,New Zealand,NZ,NZL,0,2,0,1,0
+Cycling Track,tokyo-2020,Denmark,DK,DEN,1,2,0,1,1
+Cycling Track,tokyo-2020,Norway,NO,NOR,0,0,0,0,1
+Cycling Track,tokyo-2020,"Hong Kong, China",HK,HKG,0,0,1,0,0
+Cycling Track,tokyo-2020,Malaysia,MY,MAS,0,1,0,0,0
+Cycling Track,tokyo-2020,Suriname,SR,SUR,0,0,0,1,0
+Diving,london-2012,People's Republic of China,CN,CHN,6,3,1,0,0
+Diving,london-2012,United States of America,US,USA,1,1,2,0,1
+Diving,london-2012,Italy,IT,ITA,0,0,0,2,0
+Diving,london-2012,Mexico,MX,MEX,0,2,1,0,0
+Diving,london-2012,Russian Federation,RU,RUS,1,1,0,1,1
+Diving,london-2012,Ukraine,UA,UKR,0,0,0,1,0
+Diving,london-2012,Australia,AU,AUS,0,1,0,2,2
+Diving,london-2012,Germany,DE,GER,0,0,0,1,0
+Diving,london-2012,Great Britain,GB,GBR,0,0,1,1,2
+Diving,london-2012,Canada,CA,CAN,0,0,2,0,0
+Diving,london-2012,Cuba,CU,CUB,0,0,0,0,2
+Diving,london-2012,Malaysia,MY,MAS,0,0,1,0,0
+Diving,rio-2016,France,FR,FRA,0,0,0,1,0
+Diving,rio-2016,People's Republic of China,CN,CHN,7,2,1,0,0
+Diving,rio-2016,United States of America,US,USA,0,2,1,0,1
+Diving,rio-2016,Italy,IT,ITA,0,1,1,0,0
+Diving,rio-2016,Mexico,MX,MEX,0,1,0,1,2
+Diving,rio-2016,Russian Federation,RU,RUS,0,0,0,1,0
+Diving,rio-2016,Australia,AU,AUS,0,0,1,0,2
+Diving,rio-2016,Germany,DE,GER,0,0,1,2,1
+Diving,rio-2016,Great Britain,GB,GBR,1,1,1,0,1
+Diving,rio-2016,Canada,CA,CAN,0,0,2,2,0
+Diving,rio-2016,Malaysia,MY,MAS,0,1,0,0,1
+Diving,rio-2016,Democratic People's Republic of Korea,KP,PRK,0,0,0,1,0
+Diving,tokyo-2020,Japan,JP,JPN,0,0,0,0,2
+Diving,tokyo-2020,Netherlands,NL,NED,0,0,0,0,1
+Diving,tokyo-2020,People's Republic of China,CN,CHN,7,5,0,0,0
+Diving,tokyo-2020,ROC,ROC,ROC,0,0,1,1,2
+Diving,tokyo-2020,United States of America,US,USA,0,2,1,0,1
+Diving,tokyo-2020,Mexico,MX,MEX,0,0,1,4,0
+Diving,tokyo-2020,Republic of Korea,KR,KOR,0,0,0,1,0
+Diving,tokyo-2020,Australia,AU,AUS,0,0,1,0,0
+Diving,tokyo-2020,Germany,DE,GER,0,0,2,0,1
+Diving,tokyo-2020,Great Britain,GB,GBR,1,0,2,0,0
+Diving,tokyo-2020,Canada,CA,CAN,0,1,0,1,1
+Diving,tokyo-2020,Malaysia,MY,MAS,0,0,0,1,0
+Equestrian,tokyo-2020,Belgium,BE,BEL,0,0,1,0,0
+Equestrian,tokyo-2020,France,FR,FRA,0,0,1,0,0
+Equestrian,tokyo-2020,Japan,JP,JPN,0,0,0,1,0
+Equestrian,tokyo-2020,Netherlands,NL,NED,0,0,1,1,1
+Equestrian,tokyo-2020,United States of America,US,USA,0,2,0,0,1
+Equestrian,tokyo-2020,Australia,AU,AUS,0,1,1,0,0
+Equestrian,tokyo-2020,Germany,DE,GER,3,1,0,1,0
+Equestrian,tokyo-2020,Great Britain,GB,GBR,2,1,2,0,1
+Equestrian,tokyo-2020,New Zealand,NZ,NZL,0,0,0,0,1
+Equestrian,tokyo-2020,Sweden,SE,SWE,1,1,0,1,1
+Equestrian,tokyo-2020,Denmark,DK,DEN,0,0,0,2,0
+Equestrian,tokyo-2020,Switzerland,CH,SUI,0,0,0,0,1
+Equestrian Dressage,london-2012,Netherlands,NL,NED,0,1,1,0,0
+Equestrian Dressage,london-2012,Germany,DE,GER,0,1,0,1,0
+Equestrian Dressage,london-2012,Great Britain,GB,GBR,2,0,1,0,1
+Equestrian Dressage,london-2012,Sweden,SE,SWE,0,0,0,0,1
+Equestrian Dressage,london-2012,Denmark,DK,DEN,0,0,0,1,0
+Equestrian Dressage,rio-2016,Netherlands,NL,NED,0,0,0,1,0
+Equestrian Dressage,rio-2016,United States of America,US,USA,0,0,1,1,0
+Equestrian Dressage,rio-2016,Germany,DE,GER,1,1,1,0,0
+Equestrian Dressage,rio-2016,Great Britain,GB,GBR,1,1,0,0,0
+Equestrian Dressage,rio-2016,Spain,ES,ESP,0,0,0,0,1
+Equestrian Dressage,rio-2016,Sweden,SE,SWE,0,0,0,0,1
+Equestrian Eventing,london-2012,Germany,DE,GER,2,0,1,0,0
+Equestrian Eventing,london-2012,Great Britain,GB,GBR,0,1,0,0,1
+Equestrian Eventing,london-2012,Ireland,IE,IRL,0,0,0,0,1
+Equestrian Eventing,london-2012,New Zealand,NZ,NZL,0,0,1,1,0
+Equestrian Eventing,london-2012,Sweden,SE,SWE,0,1,0,1,0
+Equestrian Eventing,rio-2016,France,FR,FRA,1,1,0,0,0
+Equestrian Eventing,rio-2016,United States of America,US,USA,0,0,1,0,0
+Equestrian Eventing,rio-2016,Australia,AU,AUS,0,0,1,1,1
+Equestrian Eventing,rio-2016,Germany,DE,GER,1,1,0,0,0
+Equestrian Eventing,rio-2016,Great Britain,GB,GBR,0,0,0,0,1
+Equestrian Eventing,rio-2016,New Zealand,NZ,NZL,0,0,0,1,0
+Equestrian Jumping,london-2012,Netherlands,NL,NED,0,2,0,0,0
+Equestrian Jumping,london-2012,Mexico,MX,MEX,0,0,0,0,1
+Equestrian Jumping,london-2012,Great Britain,GB,GBR,1,0,0,0,2
+Equestrian Jumping,london-2012,Canada,CA,CAN,0,0,0,0,1
+Equestrian Jumping,london-2012,Ireland,IE,IRL,0,0,1,0,0
+Equestrian Jumping,london-2012,Switzerland,CH,SUI,1,0,0,1,0
+Equestrian Jumping,london-2012,Saudi Arabia,SA,KSA,0,0,1,1,0
+Equestrian Jumping,rio-2016,France,FR,FRA,1,0,0,0,0
+Equestrian Jumping,rio-2016,United States of America,US,USA,0,1,0,0,1
+Equestrian Jumping,rio-2016,Germany,DE,GER,0,0,1,0,0
+Equestrian Jumping,rio-2016,Great Britain,GB,GBR,1,0,0,0,0
+Equestrian Jumping,rio-2016,Brazil,BR,BRA,0,0,0,0,1
+Equestrian Jumping,rio-2016,Canada,CA,CAN,0,0,1,1,0
+Equestrian Jumping,rio-2016,Sweden,SE,SWE,0,1,0,0,0
+Equestrian Jumping,rio-2016,Switzerland,CH,SUI,0,0,0,1,0
+Fencing,london-2012,France,FR,FRA,0,0,0,1,0
+Fencing,london-2012,Japan,JP,JPN,0,1,0,0,0
+Fencing,london-2012,People's Republic of China,CN,CHN,2,0,1,0,0
+Fencing,london-2012,United States of America,US,USA,0,0,1,3,1
+Fencing,london-2012,Italy,IT,ITA,3,2,2,1,2
+Fencing,london-2012,Republic of Korea,KR,KOR,2,1,3,2,0
+Fencing,london-2012,Russian Federation,RU,RUS,0,2,1,2,1
+Fencing,london-2012,Ukraine,UA,UKR,1,0,1,0,0
+Fencing,london-2012,Germany,DE,GER,0,1,1,0,3
+Fencing,london-2012,Greece,GR,GRE,0,0,0,0,1
+Fencing,london-2012,Hungary,HU,HUN,1,0,0,0,0
+Fencing,london-2012,Poland,PL,POL,0,0,0,0,1
+Fencing,london-2012,Venezuela,VE,VEN,1,0,0,0,0
+Fencing,london-2012,Egypt,EG,EGY,0,1,0,0,0
+Fencing,london-2012,Romania,RO,ROU,0,1,0,1,1
+Fencing,rio-2016,France,FR,FRA,1,1,1,2,3
+Fencing,rio-2016,People's Republic of China,CN,CHN,0,1,1,0,1
+Fencing,rio-2016,United States of America,US,USA,0,2,2,0,2
+Fencing,rio-2016,Italy,IT,ITA,1,3,0,2,0
+Fencing,rio-2016,Republic of Korea,KR,KOR,1,0,1,0,2
+Fencing,rio-2016,Russian Federation,RU,RUS,4,1,2,1,0
+Fencing,rio-2016,Ukraine,UA,UKR,0,1,1,1,0
+Fencing,rio-2016,Great Britain,GB,GBR,0,0,0,1,0
+Fencing,rio-2016,Estonia,EE,EST,0,0,0,1,0
+Fencing,rio-2016,Hungary,HU,HUN,2,1,1,0,0
+Fencing,rio-2016,Islamic Republic of Iran,IR,IRI,0,0,0,1,0
+Fencing,rio-2016,Tunisia,TN,TUN,0,0,1,0,1
+Fencing,rio-2016,Switzerland,CH,SUI,0,0,0,1,0
+Fencing,rio-2016,Romania,RO,ROU,1,0,0,0,1
+Fencing,tokyo-2020,France,FR,FRA,2,2,1,0,2
+Fencing,tokyo-2020,Japan,JP,JPN,1,0,0,2,1
+Fencing,tokyo-2020,People's Republic of China,CN,CHN,1,0,0,2,0
+Fencing,tokyo-2020,ROC,ROC,ROC,3,4,1,1,1
+Fencing,tokyo-2020,United States of America,US,USA,1,0,1,1,2
+Fencing,tokyo-2020,Italy,IT,ITA,0,3,2,3,2
+Fencing,tokyo-2020,Republic of Korea,KR,KOR,1,1,3,0,1
+Fencing,tokyo-2020,Ukraine,UA,UKR,0,0,1,0,0
+Fencing,tokyo-2020,Germany,DE,GER,0,0,0,1,0
+Fencing,tokyo-2020,Canada,CA,CAN,0,0,0,0,1
+Fencing,tokyo-2020,Czech Republic,CZ,CZE,0,0,1,0,0
+Fencing,tokyo-2020,Estonia,EE,EST,1,0,1,0,0
+Fencing,tokyo-2020,Hungary,HU,HUN,1,1,1,1,0
+Fencing,tokyo-2020,"Hong Kong, China",HK,HKG,1,0,0,0,1
+Fencing,tokyo-2020,Egypt,EG,EGY,0,0,0,0,1
+Fencing,tokyo-2020,Georgia,GE,GEO,0,0,0,1,0
+Fencing,tokyo-2020,Romania,RO,ROU,0,1,0,0,0
+Football,london-2012,France,FR,FRA,0,0,0,1,0
+Football,london-2012,Japan,JP,JPN,0,1,0,1,0
+Football,london-2012,United States of America,US,USA,1,0,0,0,0
+Football,london-2012,Mexico,MX,MEX,1,0,0,0,0
+Football,london-2012,Republic of Korea,KR,KOR,0,0,1,0,0
+Football,london-2012,Great Britain,GB,GBR,0,0,0,0,2
+Football,london-2012,Brazil,BR,BRA,0,1,0,0,0
+Football,london-2012,Canada,CA,CAN,0,0,1,0,0
+Football,rio-2016,United States of America,US,USA,0,0,0,0,1
+Football,rio-2016,Republic of Korea,KR,KOR,0,0,0,0,1
+Football,rio-2016,Germany,DE,GER,1,1,0,0,0
+Football,rio-2016,Brazil,BR,BRA,1,0,0,1,0
+Football,rio-2016,Canada,CA,CAN,0,0,1,0,0
+Football,rio-2016,Nigeria,NG,NGR,0,0,1,0,0
+Football,rio-2016,Sweden,SE,SWE,0,1,0,0,0
+Football,rio-2016,Honduras,HN,HON,0,0,0,1,0
+Football,tokyo-2020,Japan,JP,JPN,0,0,0,1,0
+Football,tokyo-2020,Netherlands,NL,NED,0,0,0,0,1
+Football,tokyo-2020,United States of America,US,USA,0,0,1,0,0
+Football,tokyo-2020,Mexico,MX,MEX,0,0,1,0,0
+Football,tokyo-2020,Republic of Korea,KR,KOR,0,0,0,0,1
+Football,tokyo-2020,Australia,AU,AUS,0,0,0,1,0
+Football,tokyo-2020,Brazil,BR,BRA,1,0,0,0,0
+Football,tokyo-2020,Canada,CA,CAN,1,0,0,0,0
+Football,tokyo-2020,Spain,ES,ESP,0,1,0,0,0
+Football,tokyo-2020,Sweden,SE,SWE,0,1,0,0,0
+Golf,rio-2016,Belgium,BE,BEL,0,0,0,1,0
+Golf,rio-2016,Japan,JP,JPN,0,0,0,1,0
+Golf,rio-2016,People's Republic of China,CN,CHN,0,0,1,0,0
+Golf,rio-2016,United States of America,US,USA,0,0,1,1,0
+Golf,rio-2016,Republic of Korea,KR,KOR,1,0,0,1,0
+Golf,rio-2016,Australia,AU,AUS,0,0,0,0,1
+Golf,rio-2016,Great Britain,GB,GBR,1,0,0,0,0
+Golf,rio-2016,Spain,ES,ESP,0,0,0,0,1
+Golf,rio-2016,New Zealand,NZ,NZL,0,1,0,0,0
+Golf,rio-2016,Sweden,SE,SWE,0,1,0,0,0
+Golf,rio-2016,Thailand,TH,THA,0,0,0,0,1
+Golf,tokyo-2020,Japan,JP,JPN,0,1,0,1,0
+Golf,tokyo-2020,United States of America,US,USA,2,0,0,1,0
+Golf,tokyo-2020,Chinese Taipei,TW,TPE,0,0,1,0,0
+Golf,tokyo-2020,Australia,AU,AUS,0,0,0,0,1
+Golf,tokyo-2020,Great Britain,GB,GBR,0,0,0,1,0
+Golf,tokyo-2020,Colombia,CO,COL,0,0,0,1,0
+Golf,tokyo-2020,Ireland,IE,IRL,0,0,0,1,0
+Golf,tokyo-2020,New Zealand,NZ,NZL,0,0,1,0,0
+Golf,tokyo-2020,Slovakia,SK,SVK,0,1,0,0,0
+Golf,tokyo-2020,Denmark,DK,DEN,0,0,0,0,1
+Golf,tokyo-2020,India,IN,IND,0,0,0,1,0
+Golf,tokyo-2020,Chile,CL,CHI,0,0,0,1,0
+Gymnastics Artistic,london-2012,France,FR,FRA,0,0,1,0,1
+Gymnastics Artistic,london-2012,Japan,JP,JPN,1,2,0,1,0
+Gymnastics Artistic,london-2012,Netherlands,NL,NED,1,0,0,0,0
+Gymnastics Artistic,london-2012,People's Republic of China,CN,CHN,4,3,1,3,0
+Gymnastics Artistic,london-2012,United States of America,US,USA,3,1,2,1,4
+Gymnastics Artistic,london-2012,Italy,IT,ITA,0,0,1,2,0
+Gymnastics Artistic,london-2012,Mexico,MX,MEX,0,0,0,0,1
+Gymnastics Artistic,london-2012,Republic of Korea,KR,KOR,1,0,0,0,0
+Gymnastics Artistic,london-2012,Russian Federation,RU,RUS,1,3,4,1,4
+Gymnastics Artistic,london-2012,Ukraine,UA,UKR,0,0,1,2,0
+Gymnastics Artistic,london-2012,Australia,AU,AUS,0,0,0,0,1
+Gymnastics Artistic,london-2012,Germany,DE,GER,0,3,0,1,1
+Gymnastics Artistic,london-2012,Great Britain,GB,GBR,0,1,3,0,0
+Gymnastics Artistic,london-2012,Brazil,BR,BRA,1,0,0,0,0
+Gymnastics Artistic,london-2012,Canada,CA,CAN,0,0,0,0,1
+Gymnastics Artistic,london-2012,Hungary,HU,HUN,1,0,0,0,0
+Gymnastics Artistic,london-2012,Romania,RO,ROU,1,1,1,1,1
+Gymnastics Artistic,london-2012,Chile,CL,CHI,0,0,0,2,0
+Gymnastics Artistic,rio-2016,France,FR,FRA,0,0,0,2,0
+Gymnastics Artistic,rio-2016,Japan,JP,JPN,2,0,1,2,1
+Gymnastics Artistic,rio-2016,Netherlands,NL,NED,1,0,0,0,0
+Gymnastics Artistic,rio-2016,People's Republic of China,CN,CHN,0,0,2,3,4
+Gymnastics Artistic,rio-2016,United States of America,US,USA,4,6,2,1,1
+Gymnastics Artistic,rio-2016,Italy,IT,ITA,0,0,0,1,0
+Gymnastics Artistic,rio-2016,Russian Federation,RU,RUS,1,4,3,1,2
+Gymnastics Artistic,rio-2016,Ukraine,UA,UKR,1,1,0,0,2
+Gymnastics Artistic,rio-2016,Germany,DE,GER,1,0,1,1,0
+Gymnastics Artistic,rio-2016,Great Britain,GB,GBR,2,1,3,1,1
+Gymnastics Artistic,rio-2016,Brazil,BR,BRA,0,2,1,0,2
+Gymnastics Artistic,rio-2016,Canada,CA,CAN,0,0,0,0,1
+Gymnastics Artistic,rio-2016,Greece,GR,GRE,1,0,0,0,0
+Gymnastics Artistic,rio-2016,Cuba,CU,CUB,0,0,0,0,1
+Gymnastics Artistic,rio-2016,India,IN,IND,0,0,0,1,0
+Gymnastics Artistic,rio-2016,Switzerland,CH,SUI,0,0,1,0,0
+Gymnastics Artistic,rio-2016,Romania,RO,ROU,0,0,0,1,0
+Gymnastics Artistic,rio-2016,Democratic People's Republic of Korea,KP,PRK,1,0,0,0,0
+Gymnastics Rhythmic,london-2012,Italy,IT,ITA,0,0,1,0,0
+Gymnastics Rhythmic,london-2012,Republic of Korea,KR,KOR,0,0,0,0,1
+Gymnastics Rhythmic,london-2012,Russian Federation,RU,RUS,2,1,0,0,0
+Gymnastics Rhythmic,london-2012,Ukraine,UA,UKR,0,0,0,0,1
+Gymnastics Rhythmic,london-2012,Belarus,BY,BLR,0,1,1,0,0
+Gymnastics Rhythmic,london-2012,Spain,ES,ESP,0,0,0,1,0
+Gymnastics Rhythmic,london-2012,Azerbaijan,AZ,AZE,0,0,0,1,0
+Gymnastics Rhythmic,rio-2016,Italy,IT,ITA,0,0,0,1,0
+Gymnastics Rhythmic,rio-2016,Republic of Korea,KR,KOR,0,0,0,1,0
+Gymnastics Rhythmic,rio-2016,Russian Federation,RU,RUS,2,1,0,0,0
+Gymnastics Rhythmic,rio-2016,Ukraine,UA,UKR,0,0,1,0,0
+Gymnastics Rhythmic,rio-2016,Belarus,BY,BLR,0,0,0,0,2
+Gymnastics Rhythmic,rio-2016,Spain,ES,ESP,0,1,0,0,0
+Gymnastics Rhythmic,rio-2016,Bulgaria,BG,BUL,0,0,1,0,0
+Handball,london-2012,France,FR,FRA,1,0,0,0,1
+Handball,london-2012,Republic of Korea,KR,KOR,0,0,0,1,0
+Handball,london-2012,Croatia,HR,CRO,0,0,1,0,0
+Handball,london-2012,Spain,ES,ESP,0,0,1,0,0
+Handball,london-2012,Hungary,HU,HUN,0,0,0,1,0
+Handball,london-2012,Sweden,SE,SWE,0,1,0,0,0
+Handball,london-2012,Norway,NO,NOR,1,0,0,0,0
+Handball,london-2012,Iceland,IS,ISL,0,0,0,0,1
+Handball,london-2012,Montenegro,ME,MNE,0,1,0,0,0
+Handball,rio-2016,France,FR,FRA,0,2,0,0,0
+Handball,rio-2016,Netherlands,NL,NED,0,0,0,1,0
+Handball,rio-2016,Russian Federation,RU,RUS,1,0,0,0,0
+Handball,rio-2016,Germany,DE,GER,0,0,1,0,0
+Handball,rio-2016,Brazil,BR,BRA,0,0,0,0,1
+Handball,rio-2016,Croatia,HR,CRO,0,0,0,0,1
+Handball,rio-2016,Poland,PL,POL,0,0,0,1,0
+Handball,rio-2016,Denmark,DK,DEN,1,0,0,0,0
+Handball,tokyo-2020,France,FR,FRA,2,0,0,0,0
+Handball,tokyo-2020,Netherlands,NL,NED,0,0,0,0,1
+Handball,tokyo-2020,ROC,ROC,ROC,0,1,0,0,0
+Handball,tokyo-2020,Spain,ES,ESP,0,0,1,0,0
+Handball,tokyo-2020,Sweden,SE,SWE,0,0,0,1,1
+Handball,tokyo-2020,Denmark,DK,DEN,0,1,0,0,0
+Handball,tokyo-2020,Norway,NO,NOR,0,0,1,0,0
+Handball,tokyo-2020,Egypt,EG,EGY,0,0,0,1,0
+Hockey,london-2012,Belgium,BE,BEL,0,0,0,0,1
+Hockey,london-2012,Netherlands,NL,NED,1,1,0,0,0
+Hockey,london-2012,Australia,AU,AUS,0,0,1,0,1
+Hockey,london-2012,Germany,DE,GER,1,0,0,0,0
+Hockey,london-2012,Great Britain,GB,GBR,0,0,1,1,0
+Hockey,london-2012,New Zealand,NZ,NZL,0,0,0,1,0
+Hockey,london-2012,Argentina,AR,ARG,0,1,0,0,0
+Hockey,rio-2016,Belgium,BE,BEL,0,1,0,0,0
+Hockey,rio-2016,Netherlands,NL,NED,0,1,0,1,0
+Hockey,rio-2016,United States of America,US,USA,0,0,0,0,1
+Hockey,rio-2016,Germany,DE,GER,0,0,2,0,0
+Hockey,rio-2016,Great Britain,GB,GBR,1,0,0,0,0
+Hockey,rio-2016,Spain,ES,ESP,0,0,0,0,1
+Hockey,rio-2016,New Zealand,NZ,NZL,0,0,0,1,0
+Hockey,rio-2016,Argentina,AR,ARG,1,0,0,0,0
+Hockey,tokyo-2020,Belgium,BE,BEL,1,0,0,0,0
+Hockey,tokyo-2020,Netherlands,NL,NED,1,0,0,0,0
+Hockey,tokyo-2020,Australia,AU,AUS,0,1,0,0,1
+Hockey,tokyo-2020,Germany,DE,GER,0,0,0,1,0
+Hockey,tokyo-2020,Great Britain,GB,GBR,0,0,1,0,1
+Hockey,tokyo-2020,India,IN,IND,0,0,1,1,0
+Hockey,tokyo-2020,Argentina,AR,ARG,0,1,0,0,0
+Judo,london-2012,Belgium,BE,BEL,0,0,1,0,1
+Judo,london-2012,France,FR,FRA,2,0,5,0,1
+Judo,london-2012,Japan,JP,JPN,1,3,3,0,2
+Judo,london-2012,Netherlands,NL,NED,0,0,2,0,2
+Judo,london-2012,People's Republic of China,CN,CHN,0,1,1,0,1
+Judo,london-2012,United States of America,US,USA,1,0,1,0,1
+Judo,london-2012,Italy,IT,ITA,0,0,1,0,2
+Judo,london-2012,Republic of Korea,KR,KOR,2,0,1,0,5
+Judo,london-2012,Russian Federation,RU,RUS,3,1,1,0,1
+Judo,london-2012,Ukraine,UA,UKR,0,0,0,0,1
+Judo,london-2012,Germany,DE,GER,0,2,2,0,0
+Judo,london-2012,Belarus,BY,BLR,0,0,0,0,1
+Judo,london-2012,Great Britain,GB,GBR,0,1,1,0,0
+Judo,london-2012,Brazil,BR,BRA,1,0,3,0,2
+Judo,london-2012,Canada,CA,CAN,0,0,1,0,0
+Judo,london-2012,Greece,GR,GRE,0,0,1,0,0
+Judo,london-2012,Spain,ES,ESP,0,0,0,0,1
+Judo,london-2012,Colombia,CO,COL,0,0,1,0,0
+Judo,london-2012,Cuba,CU,CUB,1,2,0,0,0
+Judo,london-2012,Hungary,HU,HUN,0,1,1,0,2
+Judo,london-2012,Poland,PL,POL,0,0,0,0,1
+Judo,london-2012,Slovenia,SI,SLO,1,0,0,0,0
+Judo,london-2012,Argentina,AR,ARG,0,0,0,0,1
+Judo,london-2012,Mongolia,MN,MGL,0,1,1,0,1
+Judo,london-2012,Uzbekistan,UZ,UZB,0,0,1,0,1
+Judo,london-2012,Georgia,GE,GEO,1,0,0,0,0
+Judo,london-2012,Romania,RO,ROU,0,2,0,0,0
+Judo,london-2012,Democratic People's Republic of Korea,KP,PRK,1,0,0,0,0
+Judo,london-2012,Luxembourg,LU,LUX,0,0,0,0,1
+Judo,rio-2016,Belgium,BE,BEL,0,0,1,0,0
+Judo,rio-2016,France,FR,FRA,2,2,1,0,0
+Judo,rio-2016,Japan,JP,JPN,3,1,8,0,1
+Judo,rio-2016,Netherlands,NL,NED,0,0,1,0,0
+Judo,rio-2016,People's Republic of China,CN,CHN,0,0,2,0,1
+Judo,rio-2016,United States of America,US,USA,1,1,0,0,0
+Judo,rio-2016,Chinese Taipei,TW,TPE,0,0,0,0,1
+Judo,rio-2016,Italy,IT,ITA,1,1,0,0,1
+Judo,rio-2016,Republic of Korea,KR,KOR,0,2,1,0,1
+Judo,rio-2016,Russian Federation,RU,RUS,2,0,1,0,0
+Judo,rio-2016,Ukraine,UA,UKR,0,0,0,0,1
+Judo,rio-2016,Germany,DE,GER,0,0,1,0,2
+Judo,rio-2016,Great Britain,GB,GBR,0,0,1,0,0
+Judo,rio-2016,Turkey,TR,TUR,0,0,0,0,1
+Judo,rio-2016,Brazil,BR,BRA,1,0,2,0,2
+Judo,rio-2016,Canada,CA,CAN,0,0,0,0,1
+Judo,rio-2016,Israel,IL,ISR,0,0,2,0,1
+Judo,rio-2016,Kazakhstan,KZ,KAZ,0,1,1,0,0
+Judo,rio-2016,Spain,ES,ESP,0,0,0,0,1
+Judo,rio-2016,Colombia,CO,COL,0,1,0,0,0
+Judo,rio-2016,Cuba,CU,CUB,0,1,0,0,3
+Judo,rio-2016,Czech Republic,CZ,CZE,1,0,0,0,0
+Judo,rio-2016,Hungary,HU,HUN,0,0,0,0,1
+Judo,rio-2016,Slovenia,SI,SLO,1,0,1,0,1
+Judo,rio-2016,Sweden,SE,SWE,0,0,0,0,1
+Judo,rio-2016,Austria,AT,AUT,0,0,0,0,1
+Judo,rio-2016,Portugal,PT,POR,0,0,1,0,0
+Judo,rio-2016,Argentina,AR,ARG,1,0,0,0,0
+Judo,rio-2016,Azerbaijan,AZ,AZE,0,2,0,0,1
+Judo,rio-2016,Mongolia,MN,MGL,0,1,0,0,2
+Judo,rio-2016,Uzbekistan,UZ,UZB,0,0,2,0,1
+Judo,rio-2016,Georgia,GE,GEO,0,1,1,0,2
+Judo,rio-2016,Romania,RO,ROU,0,0,0,0,1
+Judo,rio-2016,Kosovo,XK,KOS,1,0,0,0,0
+Judo,rio-2016,United Arab Emirates,AE,UAE,0,0,1,0,0
+Judo,tokyo-2020,Belgium,BE,BEL,0,0,1,0,0
+Judo,tokyo-2020,France,FR,FRA,2,3,3,0,0
+Judo,tokyo-2020,Japan,JP,JPN,9,2,1,0,1
+Judo,tokyo-2020,Netherlands,NL,NED,0,0,1,0,3
+Judo,tokyo-2020,People's Republic of China,CN,CHN,0,0,0,0,1
+Judo,tokyo-2020,ROC,ROC,ROC,0,0,3,0,2
+Judo,tokyo-2020,Chinese Taipei,TW,TPE,0,1,0,0,0
+Judo,tokyo-2020,Italy,IT,ITA,0,0,2,0,1
+Judo,tokyo-2020,Republic of Korea,KR,KOR,0,1,2,0,2
+Judo,tokyo-2020,Ukraine,UA,UKR,0,0,1,0,1
+Judo,tokyo-2020,Germany,DE,GER,0,1,2,0,2
+Judo,tokyo-2020,Great Britain,GB,GBR,0,0,1,0,0
+Judo,tokyo-2020,Turkey,TR,TUR,0,0,0,0,2
+Judo,tokyo-2020,Brazil,BR,BRA,0,0,2,0,0
+Judo,tokyo-2020,Canada,CA,CAN,0,0,2,0,2
+Judo,tokyo-2020,Croatia,HR,CRO,0,0,0,0,1
+Judo,tokyo-2020,Israel,IL,ISR,0,0,1,0,2
+Judo,tokyo-2020,Kazakhstan,KZ,KAZ,0,0,1,0,0
+Judo,tokyo-2020,Cuba,CU,CUB,0,1,0,0,1
+Judo,tokyo-2020,Czech Republic,CZ,CZE,1,0,0,0,0
+Judo,tokyo-2020,Hungary,HU,HUN,0,0,1,0,1
+Judo,tokyo-2020,Slovenia,SI,SLO,0,1,0,0,1
+Judo,tokyo-2020,Venezuela,VE,VEN,0,0,0,0,1
+Judo,tokyo-2020,Austria,AT,AUT,0,1,1,0,0
+Judo,tokyo-2020,Portugal,PT,POR,0,0,1,0,1
+Judo,tokyo-2020,Switzerland,CH,SUI,0,0,0,0,1
+Judo,tokyo-2020,Azerbaijan,AZ,AZE,0,0,1,0,1
+Judo,tokyo-2020,Mongolia,MN,MGL,0,1,2,0,0
+Judo,tokyo-2020,Uzbekistan,UZ,UZB,0,0,1,0,0
+Judo,tokyo-2020,Georgia,GE,GEO,1,3,0,0,3
+Judo,tokyo-2020,Kosovo,XK,KOS,2,0,0,0,0
+Karate,tokyo-2020,France,FR,FRA,1,0,0,0,0
+Karate,tokyo-2020,Japan,JP,JPN,1,1,1,0,2
+Karate,tokyo-2020,People's Republic of China,CN,CHN,0,1,1,0,0
+Karate,tokyo-2020,Serbia,RS,SRB,1,0,0,0,0
+Karate,tokyo-2020,United States of America,US,USA,0,0,1,0,1
+Karate,tokyo-2020,Chinese Taipei,TW,TPE,0,0,1,0,0
+Karate,tokyo-2020,Italy,IT,ITA,1,0,1,0,1
+Karate,tokyo-2020,Republic of Korea,KR,KOR,0,0,0,0,1
+Karate,tokyo-2020,Ukraine,UA,UKR,0,1,1,0,1
+Karate,tokyo-2020,Germany,DE,GER,0,0,0,0,1
+Karate,tokyo-2020,Turkey,TR,TUR,0,1,3,0,1
+Karate,tokyo-2020,Croatia,HR,CRO,0,0,0,0,1
+Karate,tokyo-2020,Kazakhstan,KZ,KAZ,0,0,2,0,0
+Karate,tokyo-2020,Spain,ES,ESP,1,1,0,0,0
+Karate,tokyo-2020,Hungary,HU,HUN,0,0,1,0,0
+Karate,tokyo-2020,Islamic Republic of Iran,IR,IRI,1,0,0,0,1
+Karate,tokyo-2020,Bulgaria,BG,BUL,1,0,0,0,0
+Karate,tokyo-2020,Venezuela,VE,VEN,0,0,0,0,2
+Karate,tokyo-2020,Austria,AT,AUT,0,0,1,0,0
+Karate,tokyo-2020,Switzerland,CH,SUI,0,0,0,0,1
+Karate,tokyo-2020,"Hong Kong, China",HK,HKG,0,0,1,0,0
+Karate,tokyo-2020,Azerbaijan,AZ,AZE,0,2,0,0,0
+Karate,tokyo-2020,Egypt,EG,EGY,1,0,1,0,1
+Karate,tokyo-2020,Jordan,JO,JOR,0,0,1,0,0
+Karate,tokyo-2020,Georgia,GE,GEO,0,0,0,0,1
+Karate,tokyo-2020,Saudi Arabia,SA,KSA,0,1,0,0,0
+Marathon Swimming,london-2012,United States of America,US,USA,0,1,0,0,0
+Marathon Swimming,london-2012,Italy,IT,ITA,0,0,1,0,0
+Marathon Swimming,london-2012,Germany,DE,GER,0,1,0,0,1
+Marathon Swimming,london-2012,Great Britain,GB,GBR,0,0,0,1,1
+Marathon Swimming,london-2012,Canada,CA,CAN,0,0,1,0,0
+Marathon Swimming,london-2012,Greece,GR,GRE,0,0,0,1,0
+Marathon Swimming,london-2012,Hungary,HU,HUN,1,0,0,0,0
+Marathon Swimming,london-2012,Tunisia,TN,TUN,1,0,0,0,0
+Marathon Swimming,rio-2016,France,FR,FRA,0,0,1,0,0
+Marathon Swimming,rio-2016,Netherlands,NL,NED,2,0,0,0,0
+Marathon Swimming,rio-2016,People's Republic of China,CN,CHN,0,0,0,2,0
+Marathon Swimming,rio-2016,United States of America,US,USA,0,0,0,0,2
+Marathon Swimming,rio-2016,Italy,IT,ITA,0,1,0,0,0
+Marathon Swimming,rio-2016,Brazil,BR,BRA,0,0,1,0,0
+Marathon Swimming,rio-2016,Greece,GR,GRE,0,1,0,0,0
+Marathon Swimming,tokyo-2020,Netherlands,NL,NED,0,1,0,0,0
+Marathon Swimming,tokyo-2020,Italy,IT,ITA,0,0,1,0,0
+Marathon Swimming,tokyo-2020,Australia,AU,AUS,0,0,1,0,0
+Marathon Swimming,tokyo-2020,Germany,DE,GER,1,0,0,0,1
+Marathon Swimming,tokyo-2020,Brazil,BR,BRA,1,0,0,0,0
+Marathon Swimming,tokyo-2020,Greece,GR,GRE,0,0,0,0,1
+Marathon Swimming,tokyo-2020,Israel,IL,ISR,0,0,0,1,0
+Marathon Swimming,tokyo-2020,Hungary,HU,HUN,0,1,0,1,0
+Modern Pentathlon,london-2012,People's Republic of China,CN,CHN,0,1,0,0,1
+Modern Pentathlon,london-2012,United States of America,US,USA,0,0,0,1,0
+Modern Pentathlon,london-2012,Russian Federation,RU,RUS,0,0,0,1,0
+Modern Pentathlon,london-2012,Germany,DE,GER,0,0,0,0,1
+Modern Pentathlon,london-2012,Great Britain,GB,GBR,0,1,0,0,0
+Modern Pentathlon,london-2012,Brazil,BR,BRA,0,0,1,0,0
+Modern Pentathlon,london-2012,Czech Republic,CZ,CZE,1,0,0,0,0
+Modern Pentathlon,london-2012,Hungary,HU,HUN,0,0,1,0,0
+Modern Pentathlon,london-2012,Lithuania,LT,LTU,1,0,0,0,0
+Modern Pentathlon,rio-2016,France,FR,FRA,0,1,0,1,0
+Modern Pentathlon,rio-2016,Italy,IT,ITA,0,0,0,0,1
+Modern Pentathlon,rio-2016,Mexico,MX,MEX,0,0,1,0,0
+Modern Pentathlon,rio-2016,Russian Federation,RU,RUS,1,0,0,0,0
+Modern Pentathlon,rio-2016,Ukraine,UA,UKR,0,1,0,0,0
+Modern Pentathlon,rio-2016,Australia,AU,AUS,1,0,0,0,0
+Modern Pentathlon,rio-2016,Germany,DE,GER,0,0,0,1,0
+Modern Pentathlon,rio-2016,Great Britain,GB,GBR,0,0,0,0,1
+Modern Pentathlon,rio-2016,Poland,PL,POL,0,0,1,0,0
+Modern Pentathlon,tokyo-2020,Italy,IT,ITA,0,0,0,1,0
+Modern Pentathlon,tokyo-2020,Republic of Korea,KR,KOR,0,0,1,1,0
+Modern Pentathlon,tokyo-2020,Great Britain,GB,GBR,2,0,0,0,0
+Modern Pentathlon,tokyo-2020,Turkey,TR,TUR,0,0,0,0,1
+Modern Pentathlon,tokyo-2020,Czech Republic,CZ,CZE,0,0,0,0,1
+Modern Pentathlon,tokyo-2020,Hungary,HU,HUN,0,0,1,0,0
+Modern Pentathlon,tokyo-2020,Lithuania,LT,LTU,0,1,0,0,0
+Modern Pentathlon,tokyo-2020,Egypt,EG,EGY,0,1,0,0,0
+Rhythmic Gymnastics,tokyo-2020,People's Republic of China,CN,CHN,0,0,0,1,0
+Rhythmic Gymnastics,tokyo-2020,ROC,ROC,ROC,0,2,0,1,0
+Rhythmic Gymnastics,tokyo-2020,Italy,IT,ITA,0,0,1,0,0
+Rhythmic Gymnastics,tokyo-2020,Belarus,BY,BLR,0,0,1,0,1
+Rhythmic Gymnastics,tokyo-2020,Israel,IL,ISR,1,0,0,0,0
+Rhythmic Gymnastics,tokyo-2020,Bulgaria,BG,BUL,1,0,0,0,1
+Rowing,london-2012,France,FR,FRA,0,1,0,1,0
+Rowing,london-2012,Netherlands,NL,NED,0,0,1,0,2
+Rowing,london-2012,People's Republic of China,CN,CHN,0,1,0,1,1
+Rowing,london-2012,United States of America,US,USA,1,0,2,2,0
+Rowing,london-2012,Italy,IT,ITA,0,1,0,1,0
+Rowing,london-2012,Ukraine,UA,UKR,1,0,0,0,0
+Rowing,london-2012,Australia,AU,AUS,0,3,2,2,2
+Rowing,london-2012,Germany,DE,GER,2,1,0,0,0
+Rowing,london-2012,Belarus,BY,BLR,0,0,0,0,1
+Rowing,london-2012,Great Britain,GB,GBR,4,2,3,0,3
+Rowing,london-2012,Canada,CA,CAN,0,2,0,0,0
+Rowing,london-2012,Croatia,HR,CRO,0,1,0,0,0
+Rowing,london-2012,Greece,GR,GRE,0,0,1,1,0
+Rowing,london-2012,Czech Republic,CZ,CZE,1,1,0,0,0
+Rowing,london-2012,Estonia,EE,EST,0,0,0,1,0
+Rowing,london-2012,New Zealand,NZ,NZL,3,0,2,1,1
+Rowing,london-2012,Poland,PL,POL,0,0,1,0,0
+Rowing,london-2012,Slovenia,SI,SLO,0,0,1,0,0
+Rowing,london-2012,South Africa,ZA,RSA,1,0,0,0,0
+Rowing,london-2012,Sweden,SE,SWE,0,0,0,1,0
+Rowing,london-2012,Denmark,DK,DEN,1,1,1,1,0
+Rowing,london-2012,Portugal,PT,POR,0,0,0,0,1
+Rowing,london-2012,Switzerland,CH,SUI,0,0,0,0,1
+Rowing,london-2012,Argentina,AR,ARG,0,0,0,1,0
+Rowing,london-2012,Azerbaijan,AZ,AZE,0,0,0,0,1
+Rowing,london-2012,Romania,RO,ROU,0,0,0,1,1
+Rowing,rio-2016,Belgium,BE,BEL,0,0,0,1,0
+Rowing,rio-2016,France,FR,FRA,1,0,1,0,2
+Rowing,rio-2016,Netherlands,NL,NED,1,1,1,0,1
+Rowing,rio-2016,People's Republic of China,CN,CHN,0,0,2,0,0
+Rowing,rio-2016,United States of America,US,USA,1,1,0,2,2
+Rowing,rio-2016,Italy,IT,ITA,0,0,2,2,0
+Rowing,rio-2016,Ukraine,UA,UKR,0,0,0,1,0
+Rowing,rio-2016,Australia,AU,AUS,1,2,0,0,0
+Rowing,rio-2016,Germany,DE,GER,2,1,0,0,0
+Rowing,rio-2016,Belarus,BY,BLR,0,0,0,0,1
+Rowing,rio-2016,Great Britain,GB,GBR,3,2,0,1,2
+Rowing,rio-2016,Canada,CA,CAN,0,1,0,0,1
+Rowing,rio-2016,Croatia,HR,CRO,1,1,0,0,0
+Rowing,rio-2016,Greece,GR,GRE,0,0,0,1,0
+Rowing,rio-2016,Czech Republic,CZ,CZE,0,0,1,0,0
+Rowing,rio-2016,Estonia,EE,EST,0,0,1,0,0
+Rowing,rio-2016,Ireland,IE,IRL,0,1,0,0,0
+Rowing,rio-2016,Lithuania,LT,LTU,0,1,1,0,0
+Rowing,rio-2016,New Zealand,NZ,NZL,2,1,0,3,1
+Rowing,rio-2016,Poland,PL,POL,1,0,1,1,1
+Rowing,rio-2016,South Africa,ZA,RSA,0,1,0,2,2
+Rowing,rio-2016,Denmark,DK,DEN,0,1,1,0,0
+Rowing,rio-2016,Norway,NO,NOR,0,0,1,0,0
+Rowing,rio-2016,Switzerland,CH,SUI,1,0,0,0,1
+Rowing,rio-2016,Romania,RO,ROU,0,0,1,0,0
+Rowing,tokyo-2020,Belgium,BE,BEL,0,0,0,0,1
+Rowing,tokyo-2020,France,FR,FRA,1,1,0,0,0
+Rowing,tokyo-2020,Netherlands,NL,NED,1,2,2,0,1
+Rowing,tokyo-2020,People's Republic of China,CN,CHN,1,0,2,0,1
+Rowing,tokyo-2020,ROC,ROC,ROC,0,2,0,0,1
+Rowing,tokyo-2020,Serbia,RS,SRB,0,0,0,0,1
+Rowing,tokyo-2020,United States of America,US,USA,0,0,0,2,3
+Rowing,tokyo-2020,Italy,IT,ITA,1,0,2,1,1
+Rowing,tokyo-2020,Australia,AU,AUS,2,0,2,0,1
+Rowing,tokyo-2020,Germany,DE,GER,0,2,0,0,1
+Rowing,tokyo-2020,Great Britain,GB,GBR,0,1,1,6,0
+Rowing,tokyo-2020,Canada,CA,CAN,1,0,1,1,0
+Rowing,tokyo-2020,Croatia,HR,CRO,1,0,1,0,0
+Rowing,tokyo-2020,Greece,GR,GRE,1,0,0,0,1
+Rowing,tokyo-2020,Czech Republic,CZ,CZE,0,0,0,1,0
+Rowing,tokyo-2020,Ireland,IE,IRL,1,0,1,0,0
+Rowing,tokyo-2020,Lithuania,LT,LTU,0,0,0,1,0
+Rowing,tokyo-2020,New Zealand,NZ,NZL,3,2,0,0,0
+Rowing,tokyo-2020,Poland,PL,POL,0,1,0,1,0
+Rowing,tokyo-2020,Denmark,DK,DEN,0,0,1,1,0
+Rowing,tokyo-2020,Austria,AT,AUT,0,0,1,0,0
+Rowing,tokyo-2020,Norway,NO,NOR,0,1,0,0,0
+Rowing,tokyo-2020,Switzerland,CH,SUI,0,0,0,0,2
+Rowing,tokyo-2020,Romania,RO,ROU,1,2,0,0,0
+Rugby,rio-2016,Japan,JP,JPN,0,0,0,1,0
+Rugby,rio-2016,United States of America,US,USA,0,0,0,0,1
+Rugby,rio-2016,Australia,AU,AUS,1,0,0,0,0
+Rugby,rio-2016,Great Britain,GB,GBR,0,1,0,1,0
+Rugby,rio-2016,Canada,CA,CAN,0,0,1,0,0
+Rugby,rio-2016,New Zealand,NZ,NZL,0,1,0,0,1
+Rugby,rio-2016,South Africa,ZA,RSA,0,0,1,0,0
+Rugby,rio-2016,Fiji,FJ,FIJ,1,0,0,0,0
+Rugby Sevens,tokyo-2020,France,FR,FRA,0,1,0,0,0
+Rugby Sevens,tokyo-2020,Australia,AU,AUS,0,0,0,0,1
+Rugby Sevens,tokyo-2020,Great Britain,GB,GBR,0,0,0,2,0
+Rugby Sevens,tokyo-2020,New Zealand,NZ,NZL,1,1,0,0,0
+Rugby Sevens,tokyo-2020,South Africa,ZA,RSA,0,0,0,0,1
+Rugby Sevens,tokyo-2020,Argentina,AR,ARG,0,0,1,0,0
+Rugby Sevens,tokyo-2020,Fiji,FJ,FIJ,1,0,1,0,0
+Sailing,london-2012,Belgium,BE,BEL,0,0,1,0,0
+Sailing,london-2012,France,FR,FRA,0,0,1,1,1
+Sailing,london-2012,Netherlands,NL,NED,1,1,1,1,0
+Sailing,london-2012,People's Republic of China,CN,CHN,1,0,0,0,0
+Sailing,london-2012,United States of America,US,USA,0,0,0,0,1
+Sailing,london-2012,Italy,IT,ITA,0,0,0,1,1
+Sailing,london-2012,Russian Federation,RU,RUS,0,0,0,1,0
+Sailing,london-2012,Ukraine,UA,UKR,0,0,0,1,0
+Sailing,london-2012,Australia,AU,AUS,3,1,0,0,0
+Sailing,london-2012,Germany,DE,GER,0,0,0,1,1
+Sailing,london-2012,Great Britain,GB,GBR,1,4,0,0,2
+Sailing,london-2012,Brazil,BR,BRA,0,0,1,0,0
+Sailing,london-2012,Croatia,HR,CRO,0,0,0,1,1
+Sailing,london-2012,Spain,ES,ESP,2,0,0,0,0
+Sailing,london-2012,Finland,FI,FIN,0,1,1,0,0
+Sailing,london-2012,Ireland,IE,IRL,0,0,0,1,0
+Sailing,london-2012,New Zealand,NZ,NZL,1,1,0,0,3
+Sailing,london-2012,Poland,PL,POL,0,0,2,0,0
+Sailing,london-2012,Sweden,SE,SWE,1,0,1,0,0
+Sailing,london-2012,Denmark,DK,DEN,0,1,1,0,0
+Sailing,london-2012,Austria,AT,AUT,0,0,0,1,0
+Sailing,london-2012,Norway,NO,NOR,0,0,0,1,0
+Sailing,london-2012,Argentina,AR,ARG,0,0,1,0,0
+Sailing,london-2012,Cyprus,CY,CYP,0,1,0,0,0
+Sailing,rio-2016,Belgium,BE,BEL,0,0,0,1,0
+Sailing,rio-2016,France,FR,FRA,1,0,2,0,2
+Sailing,rio-2016,Japan,JP,JPN,0,0,0,0,1
+Sailing,rio-2016,Netherlands,NL,NED,2,0,0,2,0
+Sailing,rio-2016,People's Republic of China,CN,CHN,0,1,0,0,0
+Sailing,rio-2016,United States of America,US,USA,0,0,1,1,0
+Sailing,rio-2016,Italy,IT,ITA,0,0,0,0,2
+Sailing,rio-2016,Russian Federation,RU,RUS,0,0,1,0,0
+Sailing,rio-2016,Australia,AU,AUS,1,3,0,0,0
+Sailing,rio-2016,Germany,DE,GER,0,0,1,0,0
+Sailing,rio-2016,Great Britain,GB,GBR,2,1,0,0,1
+Sailing,rio-2016,Brazil,BR,BRA,1,0,0,2,0
+Sailing,rio-2016,Croatia,HR,CRO,1,1,0,0,1
+Sailing,rio-2016,Greece,GR,GRE,0,0,1,0,1
+Sailing,rio-2016,Spain,ES,ESP,0,0,0,1,1
+Sailing,rio-2016,Finland,FI,FIN,0,0,0,0,1
+Sailing,rio-2016,Ireland,IE,IRL,0,1,0,0,0
+Sailing,rio-2016,New Zealand,NZ,NZL,1,2,1,1,0
+Sailing,rio-2016,Poland,PL,POL,0,0,0,1,0
+Sailing,rio-2016,Slovenia,SI,SLO,0,1,0,0,0
+Sailing,rio-2016,Denmark,DK,DEN,0,0,2,1,0
+Sailing,rio-2016,Austria,AT,AUT,0,0,1,0,0
+Sailing,rio-2016,Argentina,AR,ARG,1,0,0,0,0
+Sailing,tokyo-2020,Belgium,BE,BEL,0,0,0,1,0
+Sailing,tokyo-2020,France,FR,FRA,0,2,1,0,0
+Sailing,tokyo-2020,Netherlands,NL,NED,1,0,2,1,1
+Sailing,tokyo-2020,People's Republic of China,CN,CHN,1,0,1,0,0
+Sailing,tokyo-2020,Italy,IT,ITA,1,0,0,1,1
+Sailing,tokyo-2020,Australia,AU,AUS,2,0,0,0,1
+Sailing,tokyo-2020,Germany,DE,GER,0,1,2,0,1
+Sailing,tokyo-2020,Great Britain,GB,GBR,3,1,1,0,1
+Sailing,tokyo-2020,Brazil,BR,BRA,1,0,0,0,0
+Sailing,tokyo-2020,Croatia,HR,CRO,0,1,0,0,0
+Sailing,tokyo-2020,Israel,IL,ISR,0,0,0,1,0
+Sailing,tokyo-2020,Spain,ES,ESP,0,0,2,2,0
+Sailing,tokyo-2020,Finland,FI,FIN,0,0,0,0,1
+Sailing,tokyo-2020,Hungary,HU,HUN,0,1,0,0,0
+Sailing,tokyo-2020,New Zealand,NZ,NZL,0,1,0,1,1
+Sailing,tokyo-2020,Poland,PL,POL,0,1,0,0,0
+Sailing,tokyo-2020,Slovenia,SI,SLO,0,0,0,0,1
+Sailing,tokyo-2020,Sweden,SE,SWE,0,2,0,0,0
+Sailing,tokyo-2020,Denmark,DK,DEN,1,0,0,1,1
+Sailing,tokyo-2020,Norway,NO,NOR,0,0,1,0,0
+Sailing,tokyo-2020,Switzerland,CH,SUI,0,0,0,1,0
+Sailing,tokyo-2020,Argentina,AR,ARG,0,0,0,0,1
+Sailing,tokyo-2020,Cyprus,CY,CYP,0,0,0,1,0
+Shooting,london-2012,Belgium,BE,BEL,0,1,0,0,0
+Shooting,london-2012,France,FR,FRA,0,1,1,1,0
+Shooting,london-2012,Netherlands,NL,NED,0,0,0,0,1
+Shooting,london-2012,People's Republic of China,CN,CHN,2,2,3,2,2
+Shooting,london-2012,Serbia,RS,SRB,0,1,1,1,0
+Shooting,london-2012,United States of America,US,USA,3,0,1,0,1
+Shooting,london-2012,Italy,IT,ITA,2,3,0,0,3
+Shooting,london-2012,Republic of Korea,KR,KOR,3,2,0,0,0
+Shooting,london-2012,Russian Federation,RU,RUS,0,0,1,4,2
+Shooting,london-2012,Ukraine,UA,UKR,0,0,2,0,1
+Shooting,london-2012,Australia,AU,AUS,0,0,0,1,0
+Shooting,london-2012,Germany,DE,GER,0,0,0,0,1
+Shooting,london-2012,Belarus,BY,BLR,1,0,0,0,1
+Shooting,london-2012,Great Britain,GB,GBR,1,0,0,0,0
+Shooting,london-2012,Croatia,HR,CRO,1,0,0,0,1
+Shooting,london-2012,Spain,ES,ESP,0,0,0,0,2
+Shooting,london-2012,Cuba,CU,CUB,1,0,0,0,0
+Shooting,london-2012,Czech Republic,CZ,CZE,0,0,1,1,0
+Shooting,london-2012,Poland,PL,POL,0,1,0,1,0
+Shooting,london-2012,Qatar,QA,QAT,0,0,1,0,0
+Shooting,london-2012,Slovakia,SK,SVK,0,1,1,0,0
+Shooting,london-2012,Slovenia,SI,SLO,0,0,1,0,0
+Shooting,london-2012,Sweden,SE,SWE,0,1,0,0,0
+Shooting,london-2012,Denmark,DK,DEN,0,1,0,0,0
+Shooting,london-2012,India,IN,IND,0,1,1,1,0
+Shooting,london-2012,Romania,RO,ROU,1,0,0,0,0
+Shooting,london-2012,Kuwait,KW,KUW,0,0,1,1,0
+Shooting,london-2012,San Marino,SM,SMR,0,0,0,1,0
+Shooting,london-2012,Vietnam,VN,VIE,0,0,0,1,0
+Shooting,rio-2016,France,FR,FRA,0,1,1,0,0
+Shooting,rio-2016,People's Republic of China,CN,CHN,1,2,4,3,1
+Shooting,rio-2016,United States of America,US,USA,1,0,2,0,1
+Shooting,rio-2016,Italy,IT,ITA,4,3,0,1,0
+Shooting,rio-2016,Mexico,MX,MEX,0,0,0,1,0
+Shooting,rio-2016,Republic of Korea,KR,KOR,1,1,0,1,1
+Shooting,rio-2016,Russian Federation,RU,RUS,0,2,2,1,2
+Shooting,rio-2016,Ukraine,UA,UKR,0,1,0,1,0
+Shooting,rio-2016,Australia,AU,AUS,1,0,0,0,2
+Shooting,rio-2016,Germany,DE,GER,3,1,0,2,1
+Shooting,rio-2016,Belarus,BY,BLR,0,0,0,0,1
+Shooting,rio-2016,Great Britain,GB,GBR,0,0,2,1,0
+Shooting,rio-2016,Brazil,BR,BRA,0,1,0,0,0
+Shooting,rio-2016,Croatia,HR,CRO,1,0,0,0,0
+Shooting,rio-2016,Greece,GR,GRE,1,0,1,0,0
+Shooting,rio-2016,Spain,ES,ESP,0,0,0,1,0
+Shooting,rio-2016,Cuba,CU,CUB,0,0,0,0,1
+Shooting,rio-2016,Czech Republic,CZ,CZE,0,0,0,1,0
+Shooting,rio-2016,Hungary,HU,HUN,0,0,0,0,1
+Shooting,rio-2016,New Zealand,NZ,NZL,0,1,0,0,0
+Shooting,rio-2016,Slovakia,SK,SVK,0,0,0,1,0
+Shooting,rio-2016,Sweden,SE,SWE,0,1,0,0,0
+Shooting,rio-2016,Denmark,DK,DEN,0,0,0,0,1
+Shooting,rio-2016,Austria,AT,AUT,0,0,0,0,1
+Shooting,rio-2016,India,IN,IND,0,0,0,1,0
+Shooting,rio-2016,Switzerland,CH,SUI,0,0,1,0,0
+Shooting,rio-2016,Egypt,EG,EGY,0,0,0,0,2
+Shooting,rio-2016,Democratic People's Republic of Korea,KP,PRK,0,0,1,0,0
+Shooting,rio-2016,Vietnam,VN,VIE,1,1,0,0,0
+Shooting,rio-2016,Independent Olympic Athletes,IOA,IOA,1,0,1,0,0
+Shooting,tokyo-2020,France,FR,FRA,1,0,0,0,2
+Shooting,tokyo-2020,Japan,JP,JPN,0,0,0,0,1
+Shooting,tokyo-2020,People's Republic of China,CN,CHN,4,1,6,0,2
+Shooting,tokyo-2020,ROC,ROC,ROC,2,4,1,0,1
+Shooting,tokyo-2020,Serbia,RS,SRB,0,1,1,1,0
+Shooting,tokyo-2020,United States of America,US,USA,3,2,1,0,1
+Shooting,tokyo-2020,Chinese Taipei,TW,TPE,0,0,0,0,1
+Shooting,tokyo-2020,Italy,IT,ITA,0,1,0,0,1
+Shooting,tokyo-2020,Mexico,MX,MEX,0,0,0,1,0
+Shooting,tokyo-2020,Republic of Korea,KR,KOR,0,1,0,2,0
+Shooting,tokyo-2020,Ukraine,UA,UKR,0,0,1,2,0
+Shooting,tokyo-2020,Australia,AU,AUS,0,0,0,1,0
+Shooting,tokyo-2020,Germany,DE,GER,0,0,0,0,3
+Shooting,tokyo-2020,Great Britain,GB,GBR,0,0,1,0,0
+Shooting,tokyo-2020,Turkey,TR,TUR,0,0,0,1,0
+Shooting,tokyo-2020,Croatia,HR,CRO,0,0,0,0,1
+Shooting,tokyo-2020,Spain,ES,ESP,1,0,0,0,0
+Shooting,tokyo-2020,Cuba,CU,CUB,0,1,0,0,0
+Shooting,tokyo-2020,Czech Republic,CZ,CZE,1,1,0,0,0
+Shooting,tokyo-2020,Finland,FI,FIN,0,0,0,1,0
+Shooting,tokyo-2020,Hungary,HU,HUN,0,0,0,0,1
+Shooting,tokyo-2020,Islamic Republic of Iran,IR,IRI,1,0,0,0,1
+Shooting,tokyo-2020,Slovakia,SK,SVK,1,0,0,1,0
+Shooting,tokyo-2020,Bulgaria,BG,BUL,0,1,0,1,0
+Shooting,tokyo-2020,Denmark,DK,DEN,0,1,0,0,0
+Shooting,tokyo-2020,Norway,NO,NOR,0,0,0,3,0
+Shooting,tokyo-2020,Switzerland,CH,SUI,1,0,1,0,0
+Shooting,tokyo-2020,Thailand,TH,THA,0,0,0,1,0
+Shooting,tokyo-2020,Kuwait,KW,KUW,0,0,1,0,0
+Shooting,tokyo-2020,San Marino,SM,SMR,0,1,1,0,0
+Skateboarding,tokyo-2020,France,FR,FRA,0,0,0,1,0
+Skateboarding,tokyo-2020,Japan,JP,JPN,3,1,1,1,0
+Skateboarding,tokyo-2020,Netherlands,NL,NED,0,0,0,0,1
+Skateboarding,tokyo-2020,United States of America,US,USA,0,0,2,1,0
+Skateboarding,tokyo-2020,Australia,AU,AUS,1,0,0,0,2
+Skateboarding,tokyo-2020,Great Britain,GB,GBR,0,0,1,0,0
+Skateboarding,tokyo-2020,Brazil,BR,BRA,0,3,0,1,0
+Skateboarding,tokyo-2020,Peru,PE,PER,0,0,0,0,1
+Sport Climbing,tokyo-2020,France,FR,FRA,0,0,0,0,1
+Sport Climbing,tokyo-2020,Japan,JP,JPN,0,1,1,1,0
+Sport Climbing,tokyo-2020,United States of America,US,USA,0,1,0,0,1
+Sport Climbing,tokyo-2020,Spain,ES,ESP,1,0,0,0,0
+Sport Climbing,tokyo-2020,Poland,PL,POL,0,0,0,1,0
+Sport Climbing,tokyo-2020,Slovenia,SI,SLO,1,0,0,0,0
+Sport Climbing,tokyo-2020,Austria,AT,AUT,0,0,1,0,0
+Surfing,tokyo-2020,Japan,JP,JPN,0,0,1,0,0
+Surfing,tokyo-2020,United States of America,US,USA,1,0,0,1,0
+Surfing,tokyo-2020,Australia,AU,AUS,0,0,0,0,1
+Surfing,tokyo-2020,Brazil,BR,BRA,0,0,0,0,1
+Surfing,tokyo-2020,South Africa,ZA,RSA,0,1,0,0,0
+Surfing,tokyo-2020,Portugal,PT,POR,0,0,0,0,1
+Surfing,tokyo-2020,Costa Rica,CR,CRC,0,0,0,0,1
+Swimming,london-2012,France,FR,FRA,4,2,1,2,0
+Swimming,london-2012,Japan,JP,JPN,0,3,8,1,2
+Swimming,london-2012,Netherlands,NL,NED,2,1,1,0,1
+Swimming,london-2012,People's Republic of China,CN,CHN,5,2,3,3,1
+Swimming,london-2012,Serbia,RS,SRB,0,0,0,1,0
+Swimming,london-2012,United States of America,US,USA,16,8,6,4,7
+Swimming,london-2012,Italy,IT,ITA,0,0,0,0,4
+Swimming,london-2012,Republic of Korea,KR,KOR,0,2,0,1,0
+Swimming,london-2012,Russian Federation,RU,RUS,0,2,2,2,0
+Swimming,london-2012,Australia,AU,AUS,1,6,3,3,3
+Swimming,london-2012,Germany,DE,GER,0,0,0,3,1
+Swimming,london-2012,Belarus,BY,BLR,0,2,0,0,0
+Swimming,london-2012,Great Britain,GB,GBR,0,1,2,2,6
+Swimming,london-2012,Brazil,BR,BRA,0,1,1,2,0
+Swimming,london-2012,Canada,CA,CAN,0,1,1,1,1
+Swimming,london-2012,Spain,ES,ESP,0,2,0,0,0
+Swimming,london-2012,Hungary,HU,HUN,1,0,1,2,1
+Swimming,london-2012,Jamaica,JM,JAM,0,0,0,1,0
+Swimming,london-2012,Lithuania,LT,LTU,1,0,0,0,0
+Swimming,london-2012,New Zealand,NZ,NZL,0,0,0,1,0
+Swimming,london-2012,Poland,PL,POL,0,0,0,1,0
+Swimming,london-2012,South Africa,ZA,RSA,2,1,0,0,2
+Swimming,london-2012,Sweden,SE,SWE,0,0,0,1,0
+Swimming,london-2012,Tunisia,TN,TUN,0,0,1,0,0
+Swimming,london-2012,Denmark,DK,DEN,0,0,0,2,1
+Swimming,london-2012,Austria,AT,AUT,0,0,0,1,0
+Swimming,rio-2016,Belgium,BE,BEL,0,1,0,0,0
+Swimming,rio-2016,France,FR,FRA,0,2,0,0,1
+Swimming,rio-2016,Japan,JP,JPN,2,2,3,1,4
+Swimming,rio-2016,Netherlands,NL,NED,0,0,0,1,1
+Swimming,rio-2016,People's Republic of China,CN,CHN,1,2,3,5,3
+Swimming,rio-2016,United States of America,US,USA,16,8,9,5,5
+Swimming,rio-2016,Italy,IT,ITA,1,0,2,1,0
+Swimming,rio-2016,Russian Federation,RU,RUS,0,2,2,3,1
+Swimming,rio-2016,Ukraine,UA,UKR,0,0,0,0,1
+Swimming,rio-2016,Australia,AU,AUS,3,4,3,3,7
+Swimming,rio-2016,Belarus,BY,BLR,0,0,1,0,0
+Swimming,rio-2016,Great Britain,GB,GBR,1,5,0,7,1
+Swimming,rio-2016,Brazil,BR,BRA,0,0,0,0,2
+Swimming,rio-2016,Canada,CA,CAN,1,1,4,1,4
+Swimming,rio-2016,Kazakhstan,KZ,KAZ,1,0,0,0,0
+Swimming,rio-2016,Spain,ES,ESP,1,0,1,1,0
+Swimming,rio-2016,Hungary,HU,HUN,3,2,2,1,0
+Swimming,rio-2016,South Africa,ZA,RSA,0,3,0,1,0
+Swimming,rio-2016,Sweden,SE,SWE,1,1,1,0,2
+Swimming,rio-2016,Denmark,DK,DEN,1,0,1,0,1
+Swimming,rio-2016,Singapore,SG,SGP,1,0,0,0,0
+Swimming,tokyo-2020,France,FR,FRA,0,1,0,1,0
+Swimming,tokyo-2020,Japan,JP,JPN,2,1,0,1,0
+Swimming,tokyo-2020,Netherlands,NL,NED,0,2,0,2,0
+Swimming,tokyo-2020,People's Republic of China,CN,CHN,3,2,1,3,5
+Swimming,tokyo-2020,ROC,ROC,ROC,2,2,1,5,4
+Swimming,tokyo-2020,United States of America,US,USA,11,10,9,8,5
+Swimming,tokyo-2020,Italy,IT,ITA,0,2,4,3,2
+Swimming,tokyo-2020,Republic of Korea,KR,KOR,0,0,0,0,1
+Swimming,tokyo-2020,Ukraine,UA,UKR,0,1,1,0,0
+Swimming,tokyo-2020,Australia,AU,AUS,9,3,8,0,4
+Swimming,tokyo-2020,Germany,DE,GER,0,0,2,2,0
+Swimming,tokyo-2020,Great Britain,GB,GBR,4,3,1,2,4
+Swimming,tokyo-2020,Brazil,BR,BRA,0,0,2,0,0
+Swimming,tokyo-2020,Canada,CA,CAN,1,3,2,4,0
+Swimming,tokyo-2020,Greece,GR,GRE,0,0,0,0,1
+Swimming,tokyo-2020,Spain,ES,ESP,0,0,0,1,0
+Swimming,tokyo-2020,Finland,FI,FIN,0,0,1,0,0
+Swimming,tokyo-2020,Hungary,HU,HUN,1,1,0,3,3
+Swimming,tokyo-2020,Poland,PL,POL,0,0,0,0,2
+Swimming,tokyo-2020,South Africa,ZA,RSA,1,1,0,0,2
+Swimming,tokyo-2020,Sweden,SE,SWE,0,1,0,0,3
+Swimming,tokyo-2020,Tunisia,TN,TUN,1,0,0,0,0
+Swimming,tokyo-2020,Denmark,DK,DEN,0,0,1,0,0
+Swimming,tokyo-2020,Austria,AT,AUT,0,0,0,1,0
+Swimming,tokyo-2020,Switzerland,CH,SUI,0,0,2,0,0
+Swimming,tokyo-2020,"Hong Kong, China",HK,HKG,0,2,0,0,0
+Swimming,tokyo-2020,Romania,RO,ROU,0,0,0,1,0
+Synchronized Swimming,london-2012,Japan,JP,JPN,0,0,0,0,2
+Synchronized Swimming,london-2012,People's Republic of China,CN,CHN,0,1,1,0,0
+Synchronized Swimming,london-2012,Russian Federation,RU,RUS,2,0,0,0,0
+Synchronized Swimming,london-2012,Canada,CA,CAN,0,0,0,2,0
+Synchronized Swimming,london-2012,Spain,ES,ESP,0,1,1,0,0
+Synchronized Swimming,rio-2016,Japan,JP,JPN,0,0,2,0,0
+Synchronized Swimming,rio-2016,People's Republic of China,CN,CHN,0,2,0,0,0
+Synchronized Swimming,rio-2016,Italy,IT,ITA,0,0,0,0,1
+Synchronized Swimming,rio-2016,Russian Federation,RU,RUS,2,0,0,0,0
+Synchronized Swimming,rio-2016,Ukraine,UA,UKR,0,0,0,1,1
+Synchronized Swimming,rio-2016,Spain,ES,ESP,0,0,0,1,0
+Table Tennis,london-2012,Japan,JP,JPN,0,1,0,1,3
+Table Tennis,london-2012,Netherlands,NL,NED,0,0,0,0,2
+Table Tennis,london-2012,People's Republic of China,CN,CHN,4,2,0,0,0
+Table Tennis,london-2012,Chinese Taipei,TW,TPE,0,0,0,1,0
+Table Tennis,london-2012,Republic of Korea,KR,KOR,0,1,0,1,1
+Table Tennis,london-2012,Germany,DE,GER,0,0,2,0,1
+Table Tennis,london-2012,Denmark,DK,DEN,0,0,0,0,1
+Table Tennis,london-2012,Austria,AT,AUT,0,0,0,0,1
+Table Tennis,london-2012,Portugal,PT,POR,0,0,0,0,1
+Table Tennis,london-2012,"Hong Kong, China",HK,HKG,0,0,0,1,2
+Table Tennis,london-2012,Romania,RO,ROU,0,0,0,0,1
+Table Tennis,london-2012,Democratic People's Republic of Korea,KP,PRK,0,0,0,0,1
+Table Tennis,london-2012,Singapore,SG,SGP,0,0,2,0,2
+Table Tennis,rio-2016,Japan,JP,JPN,0,1,2,1,1
+Table Tennis,rio-2016,People's Republic of China,CN,CHN,4,2,0,0,0
+Table Tennis,rio-2016,Chinese Taipei,TW,TPE,0,0,0,0,1
+Table Tennis,rio-2016,Republic of Korea,KR,KOR,0,0,0,1,1
+Table Tennis,rio-2016,Germany,DE,GER,0,1,1,0,2
+Table Tennis,rio-2016,Belarus,BY,BLR,0,0,0,1,0
+Table Tennis,rio-2016,Great Britain,GB,GBR,0,0,0,0,1
+Table Tennis,rio-2016,Nigeria,NG,NGR,0,0,0,0,1
+Table Tennis,rio-2016,Sweden,SE,SWE,0,0,0,0,1
+Table Tennis,rio-2016,Austria,AT,AUT,0,0,0,0,2
+Table Tennis,rio-2016,Portugal,PT,POR,0,0,0,0,1
+Table Tennis,rio-2016,"Hong Kong, China",HK,HKG,0,0,0,0,2
+Table Tennis,rio-2016,Democratic People's Republic of Korea,KP,PRK,0,0,1,0,1
+Table Tennis,rio-2016,Singapore,SG,SGP,0,0,0,1,2
+Table Tennis,tokyo-2020,France,FR,FRA,0,0,0,1,1
+Table Tennis,tokyo-2020,Japan,JP,JPN,1,1,2,0,1
+Table Tennis,tokyo-2020,People's Republic of China,CN,CHN,4,3,0,0,0
+Table Tennis,tokyo-2020,Chinese Taipei,TW,TPE,0,0,1,1,2
+Table Tennis,tokyo-2020,Republic of Korea,KR,KOR,0,0,0,1,4
+Table Tennis,tokyo-2020,Germany,DE,GER,0,1,1,1,2
+Table Tennis,tokyo-2020,Brazil,BR,BRA,0,0,0,0,2
+Table Tennis,tokyo-2020,Slovenia,SI,SLO,0,0,0,0,1
+Table Tennis,tokyo-2020,Sweden,SE,SWE,0,0,0,0,1
+Table Tennis,tokyo-2020,"Hong Kong, China",HK,HKG,0,0,1,0,2
+Table Tennis,tokyo-2020,Egypt,EG,EGY,0,0,0,0,1
+Table Tennis,tokyo-2020,Romania,RO,ROU,0,0,0,0,2
+Table Tennis,tokyo-2020,Singapore,SG,SGP,0,0,0,1,1
+Taekwondo,london-2012,France,FR,FRA,0,1,1,0,0
+Taekwondo,london-2012,Japan,JP,JPN,0,0,0,0,1
+Taekwondo,london-2012,People's Republic of China,CN,CHN,1,1,1,0,0
+Taekwondo,london-2012,Serbia,RS,SRB,1,0,0,0,0
+Taekwondo,london-2012,United States of America,US,USA,0,0,2,0,0
+Taekwondo,london-2012,Chinese Taipei,TW,TPE,0,0,1,0,0
+Taekwondo,london-2012,Italy,IT,ITA,1,0,1,0,0
+Taekwondo,london-2012,Mexico,MX,MEX,0,0,1,0,1
+Taekwondo,london-2012,Republic of Korea,KR,KOR,1,1,0,0,1
+Taekwondo,london-2012,Russian Federation,RU,RUS,0,0,2,0,0
+Taekwondo,london-2012,Australia,AU,AUS,0,0,0,0,2
+Taekwondo,london-2012,Germany,DE,GER,0,0,1,0,0
+Taekwondo,london-2012,Great Britain,GB,GBR,1,0,1,0,1
+Taekwondo,london-2012,Turkey,TR,TUR,1,1,0,0,1
+Taekwondo,london-2012,Armenia,AM,ARM,0,0,0,0,1
+Taekwondo,london-2012,Brazil,BR,BRA,0,0,0,0,1
+Taekwondo,london-2012,Croatia,HR,CRO,0,0,1,0,0
+Taekwondo,london-2012,Spain,ES,ESP,1,2,0,0,0
+Taekwondo,london-2012,Colombia,CO,COL,0,0,1,0,0
+Taekwondo,london-2012,Cuba,CU,CUB,0,0,1,0,1
+Taekwondo,london-2012,Finland,FI,FIN,0,0,0,0,1
+Taekwondo,london-2012,Guatemala,GT,GUA,0,0,0,0,1
+Taekwondo,london-2012,Islamic Republic of Iran,IR,IRI,0,1,0,0,0
+Taekwondo,london-2012,Slovenia,SI,SLO,0,0,0,0,1
+Taekwondo,london-2012,Thailand,TH,THA,0,0,1,0,1
+Taekwondo,london-2012,Argentina,AR,ARG,1,0,0,0,0
+Taekwondo,london-2012,Afghanistan,AF,AFG,0,0,1,0,1
+Taekwondo,london-2012,Gabon,GA,GAB,0,1,0,0,0
+Taekwondo,london-2012,Mali,ML,MLI,0,0,0,0,1
+Taekwondo,rio-2016,Belgium,BE,BEL,0,0,0,0,2
+Taekwondo,rio-2016,France,FR,FRA,0,1,0,0,2
+Taekwondo,rio-2016,People's Republic of China,CN,CHN,2,0,0,0,0
+Taekwondo,rio-2016,Serbia,RS,SRB,0,1,0,0,0
+Taekwondo,rio-2016,United States of America,US,USA,0,0,1,0,1
+Taekwondo,rio-2016,Chinese Taipei,TW,TPE,0,0,0,0,1
+Taekwondo,rio-2016,Mexico,MX,MEX,0,1,0,0,2
+Taekwondo,rio-2016,Republic of Korea,KR,KOR,2,0,3,0,0
+Taekwondo,rio-2016,Russian Federation,RU,RUS,0,1,0,0,0
+Taekwondo,rio-2016,Great Britain,GB,GBR,1,1,1,0,1
+Taekwondo,rio-2016,Turkey,TR,TUR,0,0,1,0,0
+Taekwondo,rio-2016,Brazil,BR,BRA,0,0,1,0,0
+Taekwondo,rio-2016,Spain,ES,ESP,0,1,1,0,1
+Taekwondo,rio-2016,Dominican Republic,DO,DOM,0,0,1,0,0
+Taekwondo,rio-2016,Islamic Republic of Iran,IR,IRI,0,0,1,0,0
+Taekwondo,rio-2016,Morocco,MA,MAR,0,0,0,0,1
+Taekwondo,rio-2016,Poland,PL,POL,0,0,0,0,1
+Taekwondo,rio-2016,Sweden,SE,SWE,0,0,0,0,1
+Taekwondo,rio-2016,Tunisia,TN,TUN,0,0,1,0,0
+Taekwondo,rio-2016,Ivory Coast,CI,CIV,1,0,1,0,0
+Taekwondo,rio-2016,Venezuela,VE,VEN,0,0,0,0,1
+Taekwondo,rio-2016,Thailand,TH,THA,0,1,1,0,0
+Taekwondo,rio-2016,Azerbaijan,AZ,AZE,1,0,2,0,1
+Taekwondo,rio-2016,Uzbekistan,UZ,UZB,0,0,0,0,1
+Taekwondo,rio-2016,Egypt,EG,EGY,0,0,1,0,0
+Taekwondo,rio-2016,Jordan,JO,JOR,1,0,0,0,0
+Taekwondo,rio-2016,Niger,NE,NIG,0,1,0,0,0
+Taekwondo,tokyo-2020,France,FR,FRA,0,0,1,0,0
+Taekwondo,tokyo-2020,Japan,JP,JPN,0,0,0,0,1
+Taekwondo,tokyo-2020,People's Republic of China,CN,CHN,0,0,1,0,1
+Taekwondo,tokyo-2020,ROC,ROC,ROC,2,1,1,0,0
+Taekwondo,tokyo-2020,Serbia,RS,SRB,1,0,1,0,0
+Taekwondo,tokyo-2020,United States of America,US,USA,1,0,0,0,1
+Taekwondo,tokyo-2020,Chinese Taipei,TW,TPE,0,0,1,0,0
+Taekwondo,tokyo-2020,Italy,IT,ITA,1,0,0,0,0
+Taekwondo,tokyo-2020,Republic of Korea,KR,KOR,0,1,2,0,1
+Taekwondo,tokyo-2020,Great Britain,GB,GBR,0,2,1,0,0
+Taekwondo,tokyo-2020,Turkey,TR,TUR,0,0,2,0,1
+Taekwondo,tokyo-2020,Brazil,BR,BRA,0,0,0,0,1
+Taekwondo,tokyo-2020,Croatia,HR,CRO,1,0,1,0,0
+Taekwondo,tokyo-2020,Israel,IL,ISR,0,0,1,0,0
+Taekwondo,tokyo-2020,Spain,ES,ESP,0,1,0,0,0
+Taekwondo,tokyo-2020,Cuba,CU,CUB,0,0,1,0,0
+Taekwondo,tokyo-2020,Hungary,HU,HUN,0,0,0,0,1
+Taekwondo,tokyo-2020,Poland,PL,POL,0,0,0,0,1
+Taekwondo,tokyo-2020,Slovenia,SI,SLO,0,0,0,0,1
+Taekwondo,tokyo-2020,Tunisia,TN,TUN,0,1,0,0,0
+Taekwondo,tokyo-2020,Côte d'Ivoire,CI,CIV,0,0,1,0,1
+Taekwondo,tokyo-2020,Norway,NO,NOR,0,0,0,0,1
+Taekwondo,tokyo-2020,Thailand,TH,THA,1,0,0,0,0
+Taekwondo,tokyo-2020,Argentina,AR,ARG,0,0,0,0,1
+Taekwondo,tokyo-2020,Uzbekistan,UZ,UZB,1,0,0,0,1
+Taekwondo,tokyo-2020,Egypt,EG,EGY,0,0,2,0,0
+Taekwondo,tokyo-2020,Jordan,JO,JOR,0,1,0,0,0
+Taekwondo,tokyo-2020,Niger,NE,NIG,0,0,0,0,1
+Taekwondo,tokyo-2020,Bosnia and Herzegovina,BA,BIH,0,0,0,0,1
+Taekwondo,tokyo-2020,North Macedonia,MK,MKD,0,1,0,0,0
+Tennis,london-2012,Belgium,BE,BEL,0,0,0,0,1
+Tennis,london-2012,France,FR,FRA,0,1,1,0,1
+Tennis,london-2012,Japan,JP,JPN,0,0,0,0,1
+Tennis,london-2012,People's Republic of China,CN,CHN,0,0,0,0,1
+Tennis,london-2012,Serbia,RS,SRB,0,0,0,1,1
+Tennis,london-2012,United States of America,US,USA,3,0,1,1,1
+Tennis,london-2012,Chinese Taipei,TW,TPE,0,0,0,0,1
+Tennis,london-2012,Italy,IT,ITA,0,0,0,0,2
+Tennis,london-2012,Russian Federation,RU,RUS,0,1,1,1,1
+Tennis,london-2012,Australia,AU,AUS,0,0,0,0,1
+Tennis,london-2012,Germany,DE,GER,0,0,0,1,1
+Tennis,london-2012,Belarus,BY,BLR,1,0,1,0,0
+Tennis,london-2012,Great Britain,GB,GBR,1,1,0,0,0
+Tennis,london-2012,Brazil,BR,BRA,0,0,0,0,1
+Tennis,london-2012,Croatia,HR,CRO,0,0,0,0,1
+Tennis,london-2012,Israel,IL,ISR,0,0,0,0,1
+Tennis,london-2012,Spain,ES,ESP,0,0,0,1,1
+Tennis,london-2012,Czech Republic,CZ,CZE,0,1,0,0,1
+Tennis,london-2012,Denmark,DK,DEN,0,0,0,0,1
+Tennis,london-2012,India,IN,IND,0,0,0,0,1
+Tennis,london-2012,Switzerland,CH,SUI,0,1,0,0,0
+Tennis,london-2012,Argentina,AR,ARG,0,0,1,0,1
+Tennis,rio-2016,France,FR,FRA,0,0,0,0,1
+Tennis,rio-2016,Japan,JP,JPN,0,0,1,0,0
+Tennis,rio-2016,United States of America,US,USA,1,1,1,1,1
+Tennis,rio-2016,Chinese Taipei,TW,TPE,0,0,0,0,1
+Tennis,rio-2016,Italy,IT,ITA,0,0,0,0,3
+Tennis,rio-2016,Russian Federation,RU,RUS,1,0,0,0,2
+Tennis,rio-2016,Ukraine,UA,UKR,0,0,0,0,1
+Tennis,rio-2016,Germany,DE,GER,0,1,0,0,1
+Tennis,rio-2016,Great Britain,GB,GBR,1,0,0,0,2
+Tennis,rio-2016,Brazil,BR,BRA,0,0,0,0,3
+Tennis,rio-2016,Canada,CA,CAN,0,0,0,1,0
+Tennis,rio-2016,Spain,ES,ESP,1,0,0,1,3
+Tennis,rio-2016,Czech Republic,CZ,CZE,0,0,3,1,0
+Tennis,rio-2016,Puerto Rico,PR,PUR,1,0,0,0,0
+Tennis,rio-2016,Austria,AT,AUT,0,0,0,0,1
+Tennis,rio-2016,India,IN,IND,0,0,0,1,0
+Tennis,rio-2016,Switzerland,CH,SUI,0,1,0,0,0
+Tennis,rio-2016,Argentina,AR,ARG,0,1,0,0,0
+Tennis,rio-2016,Romania,RO,ROU,0,1,0,0,1
+Tennis,tokyo-2020,France,FR,FRA,0,0,0,0,2
+Tennis,tokyo-2020,Japan,JP,JPN,0,0,0,0,3
+Tennis,tokyo-2020,ROC,ROC,ROC,1,2,0,1,2
+Tennis,tokyo-2020,Serbia,RS,SRB,0,0,0,2,0
+Tennis,tokyo-2020,United States of America,US,USA,0,0,0,1,1
+Tennis,tokyo-2020,Italy,IT,ITA,0,0,0,0,1
+Tennis,tokyo-2020,Ukraine,UA,UKR,0,0,1,0,1
+Tennis,tokyo-2020,Australia,AU,AUS,0,0,1,0,2
+Tennis,tokyo-2020,Germany,DE,GER,1,0,0,0,2
+Tennis,tokyo-2020,Great Britain,GB,GBR,0,0,0,0,1
+Tennis,tokyo-2020,Brazil,BR,BRA,0,0,1,0,0
+Tennis,tokyo-2020,Croatia,HR,CRO,1,1,0,0,0
+Tennis,tokyo-2020,Greece,GR,GRE,0,0,0,0,1
+Tennis,tokyo-2020,Kazakhstan,KZ,KAZ,0,0,0,1,0
+Tennis,tokyo-2020,Spain,ES,ESP,0,0,1,0,2
+Tennis,tokyo-2020,Colombia,CO,COL,0,0,0,0,1
+Tennis,tokyo-2020,Czech Republic,CZ,CZE,1,1,0,0,0
+Tennis,tokyo-2020,New Zealand,NZ,NZL,0,0,1,0,0
+Tennis,tokyo-2020,Poland,PL,POL,0,0,0,0,1
+Tennis,tokyo-2020,Switzerland,CH,SUI,1,1,0,0,0
+Trampoline,london-2012,Japan,JP,JPN,0,0,0,1,1
+Trampoline,london-2012,People's Republic of China,CN,CHN,1,1,2,0,0
+Trampoline,london-2012,Russian Federation,RU,RUS,0,1,0,0,0
+Trampoline,london-2012,Belarus,BY,BLR,0,0,0,0,1
+Trampoline,london-2012,Canada,CA,CAN,1,0,0,1,0
+Trampoline,rio-2016,Japan,JP,JPN,0,0,0,1,0
+Trampoline,rio-2016,People's Republic of China,CN,CHN,0,1,2,1,0
+Trampoline,rio-2016,Russian Federation,RU,RUS,0,0,0,0,1
+Trampoline,rio-2016,Belarus,BY,BLR,1,0,0,0,1
+Trampoline,rio-2016,Great Britain,GB,GBR,0,1,0,0,0
+Trampoline,rio-2016,Canada,CA,CAN,1,0,0,0,0
+Trampoline Gymnastics,tokyo-2020,Japan,JP,JPN,0,0,0,0,1
+Trampoline Gymnastics,tokyo-2020,People's Republic of China,CN,CHN,1,2,0,0,0
+Trampoline Gymnastics,tokyo-2020,ROC,ROC,ROC,0,0,0,0,1
+Trampoline Gymnastics,tokyo-2020,Belarus,BY,BLR,1,0,0,1,0
+Trampoline Gymnastics,tokyo-2020,Great Britain,GB,GBR,0,0,1,0,0
+Trampoline Gymnastics,tokyo-2020,Canada,CA,CAN,0,0,0,1,0
+Trampoline Gymnastics,tokyo-2020,New Zealand,NZ,NZL,0,0,1,0,0
+Triathlon,london-2012,France,FR,FRA,0,0,0,1,1
+Triathlon,london-2012,United States of America,US,USA,0,0,0,1,0
+Triathlon,london-2012,Australia,AU,AUS,0,0,1,0,0
+Triathlon,london-2012,Great Britain,GB,GBR,1,0,1,0,1
+Triathlon,london-2012,Spain,ES,ESP,0,1,0,0,0
+Triathlon,london-2012,Sweden,SE,SWE,0,1,0,0,0
+Triathlon,london-2012,Switzerland,CH,SUI,1,0,0,0,0
+Triathlon,rio-2016,United States of America,US,USA,1,0,0,0,0
+Triathlon,rio-2016,Great Britain,GB,GBR,1,1,1,1,0
+Triathlon,rio-2016,South Africa,ZA,RSA,0,0,1,1,0
+Triathlon,rio-2016,Portugal,PT,POR,0,0,0,0,1
+Triathlon,rio-2016,Switzerland,CH,SUI,0,1,0,0,0
+Triathlon,rio-2016,Chile,CL,CHI,0,0,0,0,1
+Triathlon,tokyo-2020,Belgium,BE,BEL,0,0,0,1,1
+Triathlon,tokyo-2020,France,FR,FRA,0,0,1,0,1
+Triathlon,tokyo-2020,Netherlands,NL,NED,0,0,0,2,0
+Triathlon,tokyo-2020,United States of America,US,USA,0,1,1,0,0
+Triathlon,tokyo-2020,Great Britain,GB,GBR,1,2,0,0,1
+Triathlon,tokyo-2020,New Zealand,NZ,NZL,0,0,1,0,0
+Triathlon,tokyo-2020,Norway,NO,NOR,1,0,0,0,0
+Triathlon,tokyo-2020,Bermuda,BM,BER,1,0,0,0,0
+Volleyball,london-2012,Japan,JP,JPN,0,0,1,0,0
+Volleyball,london-2012,People's Republic of China,CN,CHN,0,0,0,0,1
+Volleyball,london-2012,United States of America,US,USA,0,1,0,0,1
+Volleyball,london-2012,Italy,IT,ITA,0,0,1,0,1
+Volleyball,london-2012,Republic of Korea,KR,KOR,0,0,0,1,0
+Volleyball,london-2012,Russian Federation,RU,RUS,1,0,0,0,1
+Volleyball,london-2012,Germany,DE,GER,0,0,0,0,1
+Volleyball,london-2012,Brazil,BR,BRA,1,1,0,0,0
+Volleyball,london-2012,Dominican Republic,DO,DOM,0,0,0,0,1
+Volleyball,london-2012,Poland,PL,POL,0,0,0,0,1
+Volleyball,london-2012,Bulgaria,BG,BUL,0,0,0,1,0
+Volleyball,london-2012,Argentina,AR,ARG,0,0,0,0,1
+Volleyball,rio-2016,Japan,JP,JPN,0,0,0,0,1
+Volleyball,rio-2016,Netherlands,NL,NED,0,0,0,1,0
+Volleyball,rio-2016,People's Republic of China,CN,CHN,1,0,0,0,0
+Volleyball,rio-2016,Serbia,RS,SRB,0,1,0,0,0
+Volleyball,rio-2016,United States of America,US,USA,0,0,2,0,0
+Volleyball,rio-2016,Italy,IT,ITA,0,1,0,0,0
+Volleyball,rio-2016,Republic of Korea,KR,KOR,0,0,0,0,1
+Volleyball,rio-2016,Russian Federation,RU,RUS,0,0,0,1,1
+Volleyball,rio-2016,Brazil,BR,BRA,1,0,0,0,1
+Volleyball,rio-2016,Canada,CA,CAN,0,0,0,0,1
+Volleyball,rio-2016,Islamic Republic of Iran,IR,IRI,0,0,0,0,1
+Volleyball,rio-2016,Poland,PL,POL,0,0,0,0,1
+Volleyball,rio-2016,Argentina,AR,ARG,0,0,0,0,1
+Volleyball,tokyo-2020,France,FR,FRA,1,0,0,0,0
+Volleyball,tokyo-2020,ROC,ROC,ROC,0,1,0,0,0
+Volleyball,tokyo-2020,Serbia,RS,SRB,0,0,1,0,0
+Volleyball,tokyo-2020,United States of America,US,USA,1,0,0,0,0
+Volleyball,tokyo-2020,Republic of Korea,KR,KOR,0,0,0,1,0
+Volleyball,tokyo-2020,Turkey,TR,TUR,0,0,0,0,1
+Volleyball,tokyo-2020,Brazil,BR,BRA,0,1,0,1,0
+Volleyball,tokyo-2020,Poland,PL,POL,0,0,0,0,1
+Volleyball,tokyo-2020,Argentina,AR,ARG,0,0,1,0,0
+Water Polo,london-2012,People's Republic of China,CN,CHN,0,0,0,0,1
+Water Polo,london-2012,Serbia,RS,SRB,0,0,1,0,0
+Water Polo,london-2012,United States of America,US,USA,1,0,0,0,0
+Water Polo,london-2012,Italy,IT,ITA,0,1,0,0,0
+Water Polo,london-2012,Australia,AU,AUS,0,0,1,0,0
+Water Polo,london-2012,Croatia,HR,CRO,1,0,0,0,0
+Water Polo,london-2012,Spain,ES,ESP,0,1,0,0,0
+Water Polo,london-2012,Hungary,HU,HUN,0,0,0,1,1
+Water Polo,london-2012,Montenegro,ME,MNE,0,0,0,1,0
+Water Polo,rio-2016,Serbia,RS,SRB,1,0,0,0,0
+Water Polo,rio-2016,United States of America,US,USA,1,0,0,0,0
+Water Polo,rio-2016,Italy,IT,ITA,0,1,1,0,0
+Water Polo,rio-2016,Russian Federation,RU,RUS,0,0,1,0,0
+Water Polo,rio-2016,Croatia,HR,CRO,0,1,0,0,0
+Water Polo,rio-2016,Spain,ES,ESP,0,0,0,0,1
+Water Polo,rio-2016,Hungary,HU,HUN,0,0,0,1,1
+Water Polo,rio-2016,Montenegro,ME,MNE,0,0,0,1,0
+Water Polo,tokyo-2020,ROC,ROC,ROC,0,0,0,1,0
+Water Polo,tokyo-2020,Serbia,RS,SRB,1,0,0,0,0
+Water Polo,tokyo-2020,United States of America,US,USA,1,0,0,0,0
+Water Polo,tokyo-2020,Australia,AU,AUS,0,0,0,0,1
+Water Polo,tokyo-2020,Croatia,HR,CRO,0,0,0,0,1
+Water Polo,tokyo-2020,Greece,GR,GRE,0,1,0,0,0
+Water Polo,tokyo-2020,Spain,ES,ESP,0,1,0,1,0
+Water Polo,tokyo-2020,Hungary,HU,HUN,0,0,2,0,0
+Weightlifting,london-2012,Japan,JP,JPN,0,1,0,0,0
+Weightlifting,london-2012,Latvia,LV,LAT,0,0,0,0,1
+Weightlifting,london-2012,People's Republic of China,CN,CHN,5,2,0,1,0
+Weightlifting,london-2012,Chinese Taipei,TW,TPE,1,0,0,0,1
+Weightlifting,london-2012,Mexico,MX,MEX,0,0,1,0,0
+Weightlifting,london-2012,Republic of Korea,KR,KOR,0,1,1,1,0
+Weightlifting,london-2012,Russian Federation,RU,RUS,0,1,1,0,0
+Weightlifting,london-2012,Ukraine,UA,UKR,0,0,1,0,1
+Weightlifting,london-2012,Australia,AU,AUS,0,0,0,1,0
+Weightlifting,london-2012,Belarus,BY,BLR,0,0,0,1,1
+Weightlifting,london-2012,Turkey,TR,TUR,0,0,0,0,2
+Weightlifting,london-2012,Brazil,BR,BRA,0,0,0,0,1
+Weightlifting,london-2012,Canada,CA,CAN,1,0,0,0,0
+Weightlifting,london-2012,Kazakhstan,KZ,KAZ,0,0,1,0,0
+Weightlifting,london-2012,Spain,ES,ESP,1,0,0,0,0
+Weightlifting,london-2012,Colombia,CO,COL,0,1,0,2,0
+Weightlifting,london-2012,Cuba,CU,CUB,0,0,1,0,0
+Weightlifting,london-2012,Islamic Republic of Iran,IR,IRI,3,2,0,0,0
+Weightlifting,london-2012,Poland,PL,POL,1,1,1,1,1
+Weightlifting,london-2012,Bulgaria,BG,BUL,0,1,0,1,0
+Weightlifting,london-2012,Venezuela,VE,VEN,0,0,0,0,1
+Weightlifting,london-2012,Indonesia,ID,INA,0,2,1,0,1
+Weightlifting,london-2012,Thailand,TH,THA,0,1,1,2,0
+Weightlifting,london-2012,Azerbaijan,AZ,AZE,0,0,1,0,0
+Weightlifting,london-2012,Uzbekistan,UZ,UZB,0,0,1,0,0
+Weightlifting,london-2012,Egypt,EG,EGY,0,1,1,1,2
+Weightlifting,london-2012,Georgia,GE,GEO,0,0,0,0,1
+Weightlifting,london-2012,Romania,RO,ROU,0,1,1,0,0
+Weightlifting,london-2012,Democratic People's Republic of Korea,KP,PRK,3,0,1,2,0
+Weightlifting,london-2012,Fiji,FJ,FIJ,0,0,0,0,1
+Weightlifting,london-2012,Vietnam,VN,VIE,0,0,0,1,0
+Weightlifting,london-2012,Cameroon,CM,CMR,0,0,1,0,0
+Weightlifting,london-2012,Samoa,WS,SAM,0,0,0,0,1
+Weightlifting,london-2012,Syrian Arab Republic,SY,SYR,0,0,0,1,0
+Weightlifting,rio-2016,Japan,JP,JPN,0,0,1,1,1
+Weightlifting,rio-2016,Latvia,LV,LAT,0,0,0,1,0
+Weightlifting,rio-2016,People's Republic of China,CN,CHN,5,2,0,1,0
+Weightlifting,rio-2016,United States of America,US,USA,0,0,1,0,0
+Weightlifting,rio-2016,Chinese Taipei,TW,TPE,1,0,1,0,0
+Weightlifting,rio-2016,Mexico,MX,MEX,0,0,0,1,1
+Weightlifting,rio-2016,Republic of Korea,KR,KOR,0,0,1,0,1
+Weightlifting,rio-2016,Ukraine,UA,UKR,0,0,0,1,1
+Weightlifting,rio-2016,Belarus,BY,BLR,0,2,0,0,1
+Weightlifting,rio-2016,Turkey,TR,TUR,0,1,0,0,0
+Weightlifting,rio-2016,Armenia,AM,ARM,0,2,0,1,1
+Weightlifting,rio-2016,Brazil,BR,BRA,0,0,0,0,2
+Weightlifting,rio-2016,Kazakhstan,KZ,KAZ,1,1,4,1,1
+Weightlifting,rio-2016,Philippines,PH,PHI,0,1,0,0,0
+Weightlifting,rio-2016,Spain,ES,ESP,0,0,1,0,0
+Weightlifting,rio-2016,Colombia,CO,COL,1,0,1,3,0
+Weightlifting,rio-2016,Dominican Republic,DO,DOM,0,0,0,1,0
+Weightlifting,rio-2016,Islamic Republic of Iran,IR,IRI,2,0,0,0,0
+Weightlifting,rio-2016,Lithuania,LT,LTU,0,0,1,0,0
+Weightlifting,rio-2016,Republic of Moldova,MD,MDA,0,0,0,0,1
+Weightlifting,rio-2016,Indonesia,ID,INA,0,2,0,0,0
+Weightlifting,rio-2016,Thailand,TH,THA,2,1,1,2,0
+Weightlifting,rio-2016,Uzbekistan,UZ,UZB,1,0,0,0,1
+Weightlifting,rio-2016,Ecuador,EC,ECU,0,0,0,1,0
+Weightlifting,rio-2016,Egypt,EG,EGY,0,0,2,1,2
+Weightlifting,rio-2016,Georgia,GE,GEO,1,0,1,0,0
+Weightlifting,rio-2016,Democratic People's Republic of Korea,KP,PRK,1,3,0,0,0
+Weightlifting,rio-2016,Vietnam,VN,VIE,0,0,0,0,1
+Weightlifting,rio-2016,Albania,AL,ALB,0,0,0,0,1
+Weightlifting,tokyo-2020,Belgium,BE,BEL,0,0,0,0,1
+Weightlifting,tokyo-2020,France,FR,FRA,0,0,0,1,1
+Weightlifting,tokyo-2020,Japan,JP,JPN,0,0,1,1,0
+Weightlifting,tokyo-2020,Latvia,LV,LAT,0,0,1,0,0
+Weightlifting,tokyo-2020,People's Republic of China,CN,CHN,7,1,0,0,0
+Weightlifting,tokyo-2020,ROC,ROC,ROC,0,0,0,1,0
+Weightlifting,tokyo-2020,United States of America,US,USA,0,1,1,1,0
+Weightlifting,tokyo-2020,Chinese Taipei,TW,TPE,1,0,1,1,1
+Weightlifting,tokyo-2020,Italy,IT,ITA,0,1,2,0,0
+Weightlifting,tokyo-2020,Mexico,MX,MEX,0,0,1,0,0
+Weightlifting,tokyo-2020,Republic of Korea,KR,KOR,0,0,0,2,0
+Weightlifting,tokyo-2020,Ukraine,UA,UKR,0,0,0,0,1
+Weightlifting,tokyo-2020,Belarus,BY,BLR,0,0,0,0,1
+Weightlifting,tokyo-2020,Great Britain,GB,GBR,0,1,0,0,1
+Weightlifting,tokyo-2020,Armenia,AM,ARM,0,1,0,0,0
+Weightlifting,tokyo-2020,Canada,CA,CAN,1,0,0,1,0
+Weightlifting,tokyo-2020,Kazakhstan,KZ,KAZ,0,0,2,0,0
+Weightlifting,tokyo-2020,Philippines,PH,PHI,1,0,0,0,0
+Weightlifting,tokyo-2020,Colombia,CO,COL,0,1,0,1,1
+Weightlifting,tokyo-2020,Dominican Republic,DO,DOM,0,1,1,0,0
+Weightlifting,tokyo-2020,Islamic Republic of Iran,IR,IRI,0,1,0,0,0
+Weightlifting,tokyo-2020,New Zealand,NZ,NZL,0,0,0,0,1
+Weightlifting,tokyo-2020,Qatar,QA,QAT,1,0,0,0,0
+Weightlifting,tokyo-2020,Sweden,SE,SWE,0,0,0,1,0
+Weightlifting,tokyo-2020,Bulgaria,BG,BUL,0,0,0,0,2
+Weightlifting,tokyo-2020,Venezuela,VE,VEN,0,2,0,0,0
+Weightlifting,tokyo-2020,India,IN,IND,0,1,0,0,0
+Weightlifting,tokyo-2020,Pakistan,PK,PAK,0,0,0,0,1
+Weightlifting,tokyo-2020,Indonesia,ID,INA,0,1,2,0,1
+Weightlifting,tokyo-2020,Mongolia,MN,MGL,0,0,0,1,0
+Weightlifting,tokyo-2020,Uzbekistan,UZ,UZB,1,0,0,1,0
+Weightlifting,tokyo-2020,Ecuador,EC,ECU,1,1,0,0,0
+Weightlifting,tokyo-2020,Georgia,GE,GEO,1,0,1,0,0
+Weightlifting,tokyo-2020,Saudi Arabia,SA,KSA,0,0,0,0,1
+Weightlifting,tokyo-2020,Vietnam,VN,VIE,0,0,0,0,1
+Weightlifting,tokyo-2020,Syrian Arab Republic,SY,SYR,0,0,1,0,0
+Weightlifting,tokyo-2020,Albania,AL,ALB,0,0,0,1,0
+Weightlifting,tokyo-2020,Turkmenistan,TM,TKM,0,1,0,1,0
+Wrestling,london-2012,France,FR,FRA,0,0,1,0,1
+Wrestling,london-2012,Japan,JP,JPN,4,0,2,0,1
+Wrestling,london-2012,People's Republic of China,CN,CHN,0,1,0,0,1
+Wrestling,london-2012,United States of America,US,USA,2,0,3,0,0
+Wrestling,london-2012,Republic of Korea,KR,KOR,1,0,0,0,1
+Wrestling,london-2012,Russian Federation,RU,RUS,5,2,4,0,1
+Wrestling,london-2012,Ukraine,UA,UKR,0,1,0,0,2
+Wrestling,london-2012,Germany,DE,GER,0,0,0,0,1
+Wrestling,london-2012,Belarus,BY,BLR,0,0,0,0,5
+Wrestling,london-2012,Turkey,TR,TUR,0,0,1,0,2
+Wrestling,london-2012,Armenia,AM,ARM,0,1,1,0,0
+Wrestling,london-2012,Canada,CA,CAN,0,1,1,0,2
+Wrestling,london-2012,Kazakhstan,KZ,KAZ,0,0,4,0,2
+Wrestling,london-2012,Spain,ES,ESP,0,0,1,0,0
+Wrestling,london-2012,Colombia,CO,COL,0,0,1,0,0
+Wrestling,london-2012,Cuba,CU,CUB,1,0,1,0,2
+Wrestling,london-2012,Estonia,EE,EST,0,1,0,0,0
+Wrestling,london-2012,Hungary,HU,HUN,0,1,2,0,0
+Wrestling,london-2012,Islamic Republic of Iran,IR,IRI,4,1,1,0,1
+Wrestling,london-2012,Lithuania,LT,LTU,0,0,1,0,0
+Wrestling,london-2012,Poland,PL,POL,0,0,1,0,1
+Wrestling,london-2012,Puerto Rico,PR,PUR,0,1,0,0,0
+Wrestling,london-2012,Sweden,SE,SWE,0,0,2,0,0
+Wrestling,london-2012,Bulgaria,BG,BUL,0,1,0,0,1
+Wrestling,london-2012,Denmark,DK,DEN,0,0,0,0,2
+Wrestling,london-2012,India,IN,IND,0,1,1,0,0
+Wrestling,london-2012,Azerbaijan,AZ,AZE,2,2,3,0,2
+Wrestling,london-2012,Mongolia,MN,MGL,0,0,1,0,1
+Wrestling,london-2012,Uzbekistan,UZ,UZB,0,0,0,0,1
+Wrestling,london-2012,Egypt,EG,EGY,0,1,0,0,0
+Wrestling,london-2012,Georgia,GE,GEO,0,2,3,0,2
+Wrestling,london-2012,Democratic People's Republic of Korea,KP,PRK,0,0,1,0,1
+Wrestling,london-2012,Senegal,SN,SEN,0,0,0,0,1
+Wrestling,rio-2016,Japan,JP,JPN,4,3,0,0,1
+Wrestling,rio-2016,People's Republic of China,CN,CHN,0,0,2,0,1
+Wrestling,rio-2016,Serbia,RS,SRB,1,0,0,0,0
+Wrestling,rio-2016,United States of America,US,USA,2,0,1,0,3
+Wrestling,rio-2016,Italy,IT,ITA,0,0,1,0,0
+Wrestling,rio-2016,Republic of Korea,KR,KOR,0,0,1,0,1
+Wrestling,rio-2016,Russian Federation,RU,RUS,4,3,2,0,1
+Wrestling,rio-2016,Ukraine,UA,UKR,0,1,0,0,1
+Wrestling,rio-2016,Germany,DE,GER,0,0,1,0,1
+Wrestling,rio-2016,Belarus,BY,BLR,0,1,2,0,1
+Wrestling,rio-2016,Turkey,TR,TUR,1,2,2,0,0
+Wrestling,rio-2016,Armenia,AM,ARM,1,1,0,0,1
+Wrestling,rio-2016,Canada,CA,CAN,1,0,0,0,1
+Wrestling,rio-2016,Croatia,HR,CRO,0,0,0,0,1
+Wrestling,rio-2016,Kazakhstan,KZ,KAZ,0,1,2,0,2
+Wrestling,rio-2016,Cuba,CU,CUB,2,1,0,0,2
+Wrestling,rio-2016,Estonia,EE,EST,0,0,0,0,1
+Wrestling,rio-2016,Hungary,HU,HUN,0,0,0,0,2
+Wrestling,rio-2016,Islamic Republic of Iran,IR,IRI,1,1,3,0,0
+Wrestling,rio-2016,Poland,PL,POL,0,0,1,0,0
+Wrestling,rio-2016,Sweden,SE,SWE,0,0,2,0,1
+Wrestling,rio-2016,Tunisia,TN,TUN,0,0,1,0,0
+Wrestling,rio-2016,Bulgaria,BG,BUL,0,0,1,0,2
+Wrestling,rio-2016,Denmark,DK,DEN,0,1,0,0,0
+Wrestling,rio-2016,Venezuela,VE,VEN,0,0,0,0,2
+Wrestling,rio-2016,India,IN,IND,0,0,1,0,0
+Wrestling,rio-2016,Norway,NO,NOR,0,0,1,0,0
+Wrestling,rio-2016,Argentina,AR,ARG,0,0,0,0,1
+Wrestling,rio-2016,Azerbaijan,AZ,AZE,0,3,6,0,2
+Wrestling,rio-2016,Mongolia,MN,MGL,0,0,0,0,1
+Wrestling,rio-2016,Uzbekistan,UZ,UZB,0,0,3,0,1
+Wrestling,rio-2016,Egypt,EG,EGY,0,0,0,0,1
+Wrestling,rio-2016,Georgia,GE,GEO,1,0,2,0,1
+Wrestling,rio-2016,Romania,RO,ROU,0,0,1,0,1
+Wrestling,rio-2016,Cameroon,CM,CMR,0,0,0,0,1
+Wrestling,rio-2016,Kyrgyzstan,KG,KGZ,0,0,0,0,2
+Wrestling,tokyo-2020,Japan,JP,JPN,5,1,1,0,2
+Wrestling,tokyo-2020,Latvia,LV,LAT,0,0,0,0,1
+Wrestling,tokyo-2020,People's Republic of China,CN,CHN,0,2,2,0,1
+Wrestling,tokyo-2020,ROC,ROC,ROC,4,0,4,0,3
+Wrestling,tokyo-2020,Serbia,RS,SRB,0,0,1,0,0
+Wrestling,tokyo-2020,United States of America,US,USA,3,2,4,0,1
+Wrestling,tokyo-2020,Italy,IT,ITA,0,0,1,0,1
+Wrestling,tokyo-2020,Ukraine,UA,UKR,1,1,2,0,2
+Wrestling,tokyo-2020,Germany,DE,GER,1,0,2,0,0
+Wrestling,tokyo-2020,Belarus,BY,BLR,0,2,1,0,0
+Wrestling,tokyo-2020,Turkey,TR,TUR,0,0,3,0,1
+Wrestling,tokyo-2020,Armenia,AM,ARM,0,1,0,0,1
+Wrestling,tokyo-2020,Croatia,HR,CRO,0,0,0,0,1
+Wrestling,tokyo-2020,Kazakhstan,KZ,KAZ,0,0,1,0,2
+Wrestling,tokyo-2020,Cuba,CU,CUB,2,0,1,0,0
+Wrestling,tokyo-2020,Finland,FI,FIN,0,0,0,0,1
+Wrestling,tokyo-2020,Hungary,HU,HUN,1,1,0,0,2
+Wrestling,tokyo-2020,Islamic Republic of Iran,IR,IRI,1,1,2,0,3
+Wrestling,tokyo-2020,Nigeria,NG,NGR,0,1,0,0,0
+Wrestling,tokyo-2020,Poland,PL,POL,0,0,1,0,0
+Wrestling,tokyo-2020,Bulgaria,BG,BUL,0,0,2,0,1
+Wrestling,tokyo-2020,Republic of Moldova,MD,MDA,0,0,0,0,1
+Wrestling,tokyo-2020,India,IN,IND,0,1,1,0,1
+Wrestling,tokyo-2020,Azerbaijan,AZ,AZE,0,1,2,0,1
+Wrestling,tokyo-2020,Mongolia,MN,MGL,0,0,1,0,4
+Wrestling,tokyo-2020,Uzbekistan,UZ,UZB,0,0,1,0,1
+Wrestling,tokyo-2020,Egypt,EG,EGY,0,0,1,0,1
+Wrestling,tokyo-2020,Georgia,GE,GEO,0,2,0,0,1
+Wrestling,tokyo-2020,Chile,CL,CHI,0,0,0,0,1
+Wrestling,tokyo-2020,San Marino,SM,SMR,0,0,1,0,0
+Wrestling,tokyo-2020,Cameroon,CM,CMR,0,0,0,0,1
+Wrestling,tokyo-2020,Kyrgyzstan,KG,KGZ,0,2,1,0,1

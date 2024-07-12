@@ -1,0 +1,1133 @@
+discipline,country_name,country_code,country_3_letter_code,pred_first,pred_second,pred_third,pred_fourth,pred_fifth
+3x3 Basketball,Belgium,BE,BEL,0,0,0,1,0
+3x3 Basketball,France,FR,FRA,0,0,0,1,0
+3x3 Basketball,Japan,JP,JPN,0,0,0,0,1
+3x3 Basketball,Latvia,LV,LAT,1,0,0,0,0
+3x3 Basketball,Netherlands,NL,NED,0,0,0,0,1
+3x3 Basketball,People's Republic of China,CN,CHN,0,0,1,0,0
+3x3 Basketball,ROC,ROC,ROC,0,2,0,0,0
+3x3 Basketball,Serbia,RS,SRB,0,0,1,0,0
+3x3 Basketball,United States of America,US,USA,1,0,0,0,0
+Archery,Australia,AU,AUS,0,0,0,0,0
+Archery,Belarus,BY,BLR,0,0,0,1,0
+Archery,Chinese Taipei,TW,TPE,0,1,0,1,1
+Archery,France,FR,FRA,0,0,0,0,2
+Archery,Germany,DE,GER,0,0,1,0,1
+Archery,Great Britain,GB,GBR,0,0,0,0,1
+Archery,Italy,IT,ITA,0,1,1,0,0
+Archery,Japan,JP,JPN,0,0,3,0,1
+Archery,Mexico,MX,MEX,0,0,2,1,2
+Archery,Netherlands,NL,NED,0,1,0,2,0
+Archery,People's Republic of China,CN,CHN,0,0,0,0,0
+Archery,ROC,ROC,ROC,0,2,0,0,0
+Archery,Republic of Korea,KR,KOR,10,0,1,0,1
+Archery,Russian Federation,RU,RUS,0,0,0,0,0
+Archery,Turkey,TR,TUR,1,0,0,1,0
+Archery,Ukraine,UA,UKR,0,0,0,0,0
+Archery,United States of America,US,USA,0,1,0,1,0
+Artistic Gymnastics,Armenia,AM,ARM,0,0,1,0,0
+Artistic Gymnastics,Australia,AU,AUS,0,0,0,0,1
+Artistic Gymnastics,Belgium,BE,BEL,1,0,0,0,0
+Artistic Gymnastics,Brazil,BR,BRA,1,1,0,0,1
+Artistic Gymnastics,Canada,CA,CAN,0,0,0,1,0
+Artistic Gymnastics,Chinese Taipei,TW,TPE,0,1,0,0,0
+Artistic Gymnastics,Croatia,HR,CRO,0,1,0,0,0
+Artistic Gymnastics,France,FR,FRA,0,0,0,1,0
+Artistic Gymnastics,Germany,DE,GER,0,1,0,0,1
+Artistic Gymnastics,Great Britain,GB,GBR,1,0,1,1,0
+Artistic Gymnastics,Greece,GR,GRE,0,0,1,0,0
+Artistic Gymnastics,Israel,IL,ISR,1,0,0,0,0
+Artistic Gymnastics,Italy,IT,ITA,0,1,0,1,0
+Artistic Gymnastics,Japan,JP,JPN,2,1,3,0,5
+Artistic Gymnastics,Kazakhstan,KZ,KAZ,0,0,0,0,1
+Artistic Gymnastics,Mexico,MX,MEX,0,0,0,1,0
+Artistic Gymnastics,People's Republic of China,CN,CHN,5,4,3,4,0
+Artistic Gymnastics,Philippines,PH,PHI,0,0,0,1,0
+Artistic Gymnastics,ROC,ROC,ROC,3,3,6,3,4
+Artistic Gymnastics,Republic of Korea,KR,KOR,1,0,1,1,0
+Artistic Gymnastics,Spain,ES,ESP,0,1,0,0,0
+Artistic Gymnastics,Turkey,TR,TUR,0,0,1,0,1
+Artistic Gymnastics,United States of America,US,USA,3,3,3,1,3
+Artistic Swimming,Canada,CA,CAN,0,0,0,0,1
+Artistic Swimming,Italy,IT,ITA,0,0,0,0,1
+Artistic Swimming,Japan,JP,JPN,0,0,0,2,0
+Artistic Swimming,People's Republic of China,CN,CHN,0,2,0,0,0
+Artistic Swimming,ROC,ROC,ROC,2,0,0,0,0
+Artistic Swimming,Ukraine,UA,UKR,0,0,2,0,0
+Athletics,Algeria,DZ,ALG,0,1,0,0,2
+Athletics,Australia,AU,AUS,1,3,3,4,3
+Athletics,Austria,AT,AUT,0,0,1,0,0
+Athletics,Bahamas,BS,BAH,4,0,0,0,0
+Athletics,Bahrain,BH,BRN,1,2,0,0,0
+Athletics,Barbados,BB,BAR,0,0,0,0,0
+Athletics,Belarus,BY,BLR,0,0,1,0,3
+Athletics,Belgium,BE,BEL,2,0,1,4,2
+Athletics,Botswana,BW,BOT,0,0,1,0,1
+Athletics,Brazil,BR,BRA,0,0,2,2,1
+Athletics,Bulgaria,BG,BUL,0,0,0,0,0
+Athletics,Burkina Faso,BF,BUR,0,0,1,0,0
+Athletics,Burundi,BI,BDI,0,0,0,0,1
+Athletics,Canada,CA,CAN,4,3,7,4,6
+Athletics,Colombia,CO,COL,1,3,0,0,0
+Athletics,Congo,CG,CGO,0,0,0,0,0
+Athletics,Croatia,HR,CRO,2,0,0,1,0
+Athletics,Cuba,CU,CUB,0,2,4,0,2
+Athletics,Czech Republic,CZ,CZE,0,1,3,1,0
+Athletics,Côte d'Ivoire,CI,CIV,0,0,0,1,1
+Athletics,Denmark,DK,DEN,0,0,0,0,0
+Athletics,Djibouti,DJ,DJI,0,0,0,0,0
+Athletics,Dominican Republic,DO,DOM,0,3,0,0,0
+Athletics,Eritrea,ER,ERI,0,0,0,0,1
+Athletics,Estonia,EE,EST,0,0,0,0,0
+Athletics,Ethiopia,ET,ETH,4,4,8,10,5
+Athletics,Finland,FI,FIN,0,0,0,0,1
+Athletics,France,FR,FRA,1,4,3,3,4
+Athletics,Germany,DE,GER,4,5,2,6,8
+Athletics,Great Britain,GB,GBR,4,6,7,6,4
+Athletics,Greece,GR,GRE,2,0,0,2,0
+Athletics,Grenada,GD,GRN,0,0,1,0,0
+Athletics,Guatemala,GT,GUA,0,0,0,0,0
+Athletics,Hungary,HU,HUN,0,0,0,0,0
+Athletics,India,IN,IND,1,0,0,0,0
+Athletics,Ireland,IE,IRL,0,0,0,0,0
+Athletics,Islamic Republic of Iran,IR,IRI,0,0,0,0,0
+Athletics,Israel,IL,ISR,0,0,0,0,0
+Athletics,Italy,IT,ITA,7,0,0,1,3
+Athletics,Ivory Coast,CI,CIV,0,0,0,1,0
+Athletics,Jamaica,JM,JAM,13,7,9,7,5
+Athletics,Japan,JP,JPN,0,2,2,0,0
+Athletics,Kazakhstan,KZ,KAZ,0,0,0,0,0
+Athletics,Kenya,KE,KEN,13,12,8,10,4
+Athletics,Latvia,LV,LAT,0,0,0,1,0
+Athletics,Liberia,LR,LBR,0,0,0,0,1
+Athletics,Lithuania,LT,LTU,0,0,0,0,0
+Athletics,Mexico,MX,MEX,0,0,0,0,1
+Athletics,Morocco,MA,MAR,1,0,0,0,0
+Athletics,Netherlands,NL,NED,3,5,4,1,5
+Athletics,New Zealand,NZ,NZL,0,0,4,0,0
+Athletics,Nigeria,NG,NGR,0,0,1,1,0
+Athletics,Norway,NO,NOR,3,1,0,0,0
+Athletics,Pakistan,PK,PAK,0,0,0,0,1
+Athletics,People's Republic of China,CN,CHN,5,6,5,5,9
+Athletics,Poland,PL,POL,8,4,5,1,3
+Athletics,Portugal,PT,POR,1,1,0,1,2
+Athletics,Puerto Rico,PR,PUR,1,0,0,0,0
+Athletics,Qatar,QA,QAT,1,1,0,0,1
+Athletics,ROC,ROC,ROC,1,1,0,0,0
+Athletics,Republic of Korea,KR,KOR,0,0,0,1,0
+Athletics,Republic of Moldova,MD,MDA,0,0,0,0,0
+Athletics,Russian Federation,RU,RUS,1,1,1,0,0
+Athletics,Serbia,RS,SRB,0,0,0,1,0
+Athletics,Slovakia,SK,SVK,0,0,0,0,1
+Athletics,Slovenia,SI,SLO,0,0,0,0,2
+Athletics,South Africa,ZA,RSA,2,1,0,1,0
+Athletics,Spain,ES,ESP,1,1,2,5,4
+Athletics,Sweden,SE,SWE,3,1,0,0,0
+Athletics,Switzerland,CH,SUI,0,0,0,1,1
+Athletics,Tajikistan,TJ,TJK,0,0,0,0,0
+Athletics,Trinidad and Tobago,TT,TTO,0,0,1,0,0
+Athletics,Tunisia,TN,TUN,0,0,0,0,0
+Athletics,Turkey,TR,TUR,0,0,0,1,0
+Athletics,Uganda,UG,UGA,3,1,1,0,1
+Athletics,Ukraine,UA,UKR,0,0,3,4,5
+Athletics,United Republic of Tanzania,TZ,TAN,0,0,0,0,0
+Athletics,United States of America,US,USA,29,31,22,20,17
+Athletics,Venezuela,VE,VEN,1,0,0,0,0
+Athletics,"Virgin Islands, British",VG,IVB,0,0,0,1,0
+Badminton,Australia,AU,AUS,0,0,0,0,0
+Badminton,Canada,CA,CAN,0,0,0,0,0
+Badminton,Chinese Taipei,TW,TPE,1,1,0,0,3
+Badminton,Denmark,DK,DEN,1,1,1,0,4
+Badminton,Germany,DE,GER,0,0,0,0,0
+Badminton,Great Britain,GB,GBR,0,0,0,0,2
+Badminton,Guatemala,GT,GUA,0,0,0,1,0
+Badminton,"Hong Kong, China",HK,HKG,0,0,0,1,0
+Badminton,India,IN,IND,0,0,1,0,1
+Badminton,Indonesia,ID,INA,2,0,1,2,4
+Badminton,Japan,JP,JPN,0,0,2,0,11
+Badminton,Malaysia,MY,MAS,0,2,1,0,1
+Badminton,Netherlands,NL,NED,0,0,0,0,2
+Badminton,People's Republic of China,CN,CHN,7,7,2,5,4
+Badminton,Poland,PL,POL,0,0,0,0,1
+Badminton,Republic of Korea,KR,KOR,0,0,2,2,8
+Badminton,Russian Federation,RU,RUS,0,0,0,0,0
+Badminton,South Africa,ZA,RSA,0,0,0,0,0
+Badminton,Spain,ES,ESP,0,0,0,0,0
+Badminton,Thailand,TH,THA,0,0,0,0,4
+Baseball/Softball,Australia,AU,AUS,0,0,0,0,1
+Baseball/Softball,Canada,CA,CAN,0,0,1,0,0
+Baseball/Softball,Dominican Republic,DO,DOM,0,0,1,0,0
+Baseball/Softball,Israel,IL,ISR,0,0,0,0,1
+Baseball/Softball,Japan,JP,JPN,2,0,0,0,0
+Baseball/Softball,Mexico,MX,MEX,0,0,0,1,0
+Baseball/Softball,Republic of Korea,KR,KOR,0,0,0,1,0
+Baseball/Softball,United States of America,US,USA,0,2,0,0,0
+Basketball,Argentina,AR,ARG,0,0,0,0,0
+Basketball,Australia,AU,AUS,0,0,1,0,0
+Basketball,Brazil,BR,BRA,0,0,0,0,0
+Basketball,Croatia,HR,CRO,0,0,0,0,0
+Basketball,France,FR,FRA,0,1,1,0,0
+Basketball,Italy,IT,ITA,0,0,0,0,1
+Basketball,Japan,JP,JPN,0,1,0,0,0
+Basketball,People's Republic of China,CN,CHN,0,0,0,0,1
+Basketball,Russian Federation,RU,RUS,0,0,0,0,0
+Basketball,Serbia,RS,SRB,0,0,0,1,0
+Basketball,Slovenia,SI,SLO,0,0,0,1,0
+Basketball,Spain,ES,ESP,0,1,0,0,0
+Basketball,Turkey,TR,TUR,0,0,0,0,0
+Basketball,United States of America,US,USA,5,0,0,0,0
+Beach Volleyball,Australia,AU,AUS,0,1,0,0,0
+Beach Volleyball,Austria,AT,AUT,0,0,0,0,0
+Beach Volleyball,Brazil,BR,BRA,0,1,0,0,3
+Beach Volleyball,Canada,CA,CAN,0,0,0,0,3
+Beach Volleyball,Cuba,CU,CUB,0,0,0,0,0
+Beach Volleyball,Czech Republic,CZ,CZE,0,0,0,0,0
+Beach Volleyball,Germany,DE,GER,1,0,0,0,3
+Beach Volleyball,Italy,IT,ITA,0,0,0,0,2
+Beach Volleyball,Latvia,LV,LAT,0,0,0,2,0
+Beach Volleyball,Netherlands,NL,NED,0,0,0,0,0
+Beach Volleyball,Norway,NO,NOR,1,0,0,0,0
+Beach Volleyball,People's Republic of China,CN,CHN,0,0,0,0,0
+Beach Volleyball,Poland,PL,POL,0,0,0,0,0
+Beach Volleyball,Qatar,QA,QAT,0,0,1,0,0
+Beach Volleyball,ROC,ROC,ROC,0,1,0,0,1
+Beach Volleyball,Russian Federation,RU,RUS,0,0,0,0,1
+Beach Volleyball,Switzerland,CH,SUI,0,0,1,0,0
+Beach Volleyball,United States of America,US,USA,1,0,0,0,1
+Boxing,Algeria,DZ,ALG,0,0,0,0,4
+Boxing,Argentina,AR,ARG,0,0,0,0,1
+Boxing,Armenia,AM,ARM,0,0,1,0,1
+Boxing,Australia,AU,AUS,0,0,1,0,2
+Boxing,Azerbaijan,AZ,AZE,0,0,3,0,3
+Boxing,Belarus,BY,BLR,0,0,0,0,1
+Boxing,Brazil,BR,BRA,2,2,2,0,5
+Boxing,Bulgaria,BG,BUL,1,0,0,0,1
+Boxing,Canada,CA,CAN,0,0,0,0,4
+Boxing,Chinese Taipei,TW,TPE,0,0,1,0,1
+Boxing,Colombia,CO,COL,0,0,0,0,6
+Boxing,Croatia,HR,CRO,0,0,0,0,0
+Boxing,Cuba,CU,CUB,8,0,4,0,6
+Boxing,Dominican Republic,DO,DOM,0,0,0,0,2
+Boxing,Ecuador,EC,ECU,0,0,0,0,1
+Boxing,Egypt,EG,EGY,0,0,0,0,0
+Boxing,Finland,FI,FIN,0,0,2,0,0
+Boxing,France,FR,FRA,1,1,1,0,1
+Boxing,Georgia,GE,GEO,0,0,0,0,1
+Boxing,Germany,DE,GER,0,0,0,0,1
+Boxing,Ghana,GH,GHA,0,0,1,0,0
+Boxing,Great Britain,GB,GBR,5,4,4,0,4
+Boxing,Haiti,HT,HAI,0,0,0,0,1
+Boxing,Hungary,HU,HUN,0,0,0,0,0
+Boxing,India,IN,IND,0,0,1,0,4
+Boxing,Ireland,IE,IRL,1,0,2,0,3
+Boxing,Islamic Republic of Iran,IR,IRI,0,0,0,0,0
+Boxing,Italy,IT,ITA,0,1,1,0,2
+Boxing,Japan,JP,JPN,1,0,3,0,0
+Boxing,Jordan,JO,JOR,0,0,0,0,2
+Boxing,Kazakhstan,KZ,KAZ,1,2,5,0,6
+Boxing,Kenya,KE,KEN,0,0,0,0,0
+Boxing,Lithuania,LT,LTU,0,0,0,0,0
+Boxing,Mauritius,MU,MRI,0,0,0,0,2
+Boxing,Mexico,MX,MEX,0,0,0,0,1
+Boxing,Mongolia,MN,MGL,0,0,1,0,2
+Boxing,Morocco,MA,MAR,0,0,0,0,1
+Boxing,Mozambique,MZ,MOZ,0,0,0,0,2
+Boxing,Netherlands,NL,NED,0,0,1,0,0
+Boxing,New Zealand,NZ,NZL,0,0,1,0,0
+Boxing,Nigeria,NG,NGR,0,0,0,0,1
+Boxing,Panama,PA,PAN,0,0,0,0,1
+Boxing,People's Republic of China,CN,CHN,0,4,2,0,4
+Boxing,Philippines,PH,PHI,0,2,1,0,0
+Boxing,Puerto Rico,PR,PUR,0,0,0,0,0
+Boxing,ROC,ROC,ROC,1,1,5,0,3
+Boxing,Republic of Korea,KR,KOR,0,0,0,0,0
+Boxing,Romania,RO,ROU,0,0,0,0,1
+Boxing,Russian Federation,RU,RUS,1,1,3,0,2
+Boxing,Serbia,RS,SRB,0,0,0,0,1
+Boxing,Spain,ES,ESP,0,0,0,0,4
+Boxing,Sweden,SE,SWE,0,0,0,0,0
+Boxing,Tajikistan,TJ,TJK,0,0,0,0,0
+Boxing,Thailand,TH,THA,0,0,1,0,4
+Boxing,Tunisia,TN,TUN,0,0,0,0,0
+Boxing,Turkey,TR,TUR,1,1,0,0,4
+Boxing,Ukraine,UA,UKR,1,1,1,0,2
+Boxing,United States of America,US,USA,1,5,2,0,4
+Boxing,Uzbekistan,UZ,UZB,3,1,2,0,9
+Boxing,Venezuela,VE,VEN,0,0,0,0,1
+Canoe Slalom,Australia,AU,AUS,1,0,2,0,0
+Canoe Slalom,Austria,AT,AUT,0,0,0,1,2
+Canoe Slalom,Czech Republic,CZ,CZE,1,1,0,1,0
+Canoe Slalom,France,FR,FRA,1,0,0,1,1
+Canoe Slalom,Germany,DE,GER,1,0,4,1,1
+Canoe Slalom,Great Britain,GB,GBR,1,2,0,1,0
+Canoe Slalom,Italy,IT,ITA,0,0,0,1,0
+Canoe Slalom,Japan,JP,JPN,0,0,0,0,0
+Canoe Slalom,New Zealand,NZ,NZL,0,0,0,0,0
+Canoe Slalom,Poland,PL,POL,0,0,0,0,2
+Canoe Slalom,Slovakia,SK,SVK,0,2,1,0,0
+Canoe Slalom,Slovenia,SI,SLO,1,0,0,0,0
+Canoe Slalom,Spain,ES,ESP,0,1,0,0,0
+Canoe Slalom,United States of America,US,USA,0,0,0,0,1
+Canoe Sprint,Argentina,AR,ARG,0,0,0,0,0
+Canoe Sprint,Australia,AU,AUS,2,0,0,1,1
+Canoe Sprint,Austria,AT,AUT,0,0,0,0,0
+Canoe Sprint,Azerbaijan,AZ,AZE,0,0,0,0,0
+Canoe Sprint,Belarus,BY,BLR,0,2,1,1,1
+Canoe Sprint,Brazil,BR,BRA,1,1,0,1,0
+Canoe Sprint,Canada,CA,CAN,0,1,2,0,0
+Canoe Sprint,Cuba,CU,CUB,1,0,0,0,0
+Canoe Sprint,Czech Republic,CZ,CZE,0,0,2,0,4
+Canoe Sprint,Denmark,DK,DEN,0,0,2,0,0
+Canoe Sprint,France,FR,FRA,0,0,0,2,1
+Canoe Sprint,Georgia,GE,GEO,0,0,0,0,0
+Canoe Sprint,Germany,DE,GER,6,3,3,3,3
+Canoe Sprint,Great Britain,GB,GBR,1,0,1,0,0
+Canoe Sprint,Hungary,HU,HUN,9,4,2,7,1
+Canoe Sprint,Italy,IT,ITA,0,1,0,0,0
+Canoe Sprint,Latvia,LV,LAT,0,0,0,0,0
+Canoe Sprint,Lithuania,LT,LTU,0,0,0,0,0
+Canoe Sprint,New Zealand,NZ,NZL,5,0,0,1,2
+Canoe Sprint,People's Republic of China,CN,CHN,1,2,0,0,0
+Canoe Sprint,Poland,PL,POL,0,2,2,3,0
+Canoe Sprint,Portugal,PT,POR,0,0,1,0,0
+Canoe Sprint,ROC,ROC,ROC,0,0,0,1,0
+Canoe Sprint,Republic of Moldova,MD,MDA,0,0,1,0,0
+Canoe Sprint,Romania,RO,ROU,0,0,0,0,1
+Canoe Sprint,Russian Federation,RU,RUS,0,0,1,0,2
+Canoe Sprint,Serbia,RS,SRB,0,0,0,0,0
+Canoe Sprint,Slovakia,SK,SVK,0,0,1,0,0
+Canoe Sprint,Slovenia,SI,SLO,0,0,0,0,0
+Canoe Sprint,South Africa,ZA,RSA,0,0,0,0,0
+Canoe Sprint,Spain,ES,ESP,1,3,1,1,3
+Canoe Sprint,Sweden,SE,SWE,0,0,0,0,3
+Canoe Sprint,Ukraine,UA,UKR,1,2,2,2,0
+Canoe Sprint,United States of America,US,USA,1,0,0,0,0
+Canoe Sprint,Uzbekistan,UZ,UZB,0,0,0,0,0
+Cycling BMX,Argentina,AR,ARG,0,0,0,0,0
+Cycling BMX,Australia,AU,AUS,0,0,0,0,1
+Cycling BMX,Canada,CA,CAN,0,0,0,0,1
+Cycling BMX,Colombia,CO,COL,1,0,1,0,0
+Cycling BMX,Czech Republic,CZ,CZE,0,0,0,0,0
+Cycling BMX,Denmark,DK,DEN,0,0,0,0,0
+Cycling BMX,France,FR,FRA,0,0,0,0,0
+Cycling BMX,Germany,DE,GER,0,0,0,0,0
+Cycling BMX,Latvia,LV,LAT,0,0,0,0,1
+Cycling BMX,Netherlands,NL,NED,0,0,0,0,1
+Cycling BMX,New Zealand,NZ,NZL,0,0,0,0,0
+Cycling BMX,Russian Federation,RU,RUS,0,0,0,0,0
+Cycling BMX,United States of America,US,USA,0,0,0,1,1
+Cycling BMX,Venezuela,VE,VEN,0,0,0,0,0
+Cycling BMX Freestyle,Australia,AU,AUS,1,0,0,0,1
+Cycling BMX Freestyle,Costa Rica,CR,CRC,0,0,0,1,0
+Cycling BMX Freestyle,Great Britain,GB,GBR,1,0,1,0,0
+Cycling BMX Freestyle,Japan,JP,JPN,0,0,0,0,1
+Cycling BMX Freestyle,Switzerland,CH,SUI,0,0,1,0,0
+Cycling BMX Freestyle,United States of America,US,USA,0,1,0,1,0
+Cycling BMX Freestyle,Venezuela,VE,VEN,0,1,0,0,0
+Cycling BMX Racing,Australia,AU,AUS,0,0,0,0,1
+Cycling BMX Racing,Colombia,CO,COL,0,1,1,0,0
+Cycling BMX Racing,Ecuador,EC,ECU,0,0,0,0,1
+Cycling BMX Racing,France,FR,FRA,0,0,0,1,0
+Cycling BMX Racing,Great Britain,GB,GBR,1,1,0,0,0
+Cycling BMX Racing,Netherlands,NL,NED,1,0,1,0,0
+Cycling BMX Racing,United States of America,US,USA,0,0,0,1,0
+Cycling Mountain Bike,Canada,CA,CAN,0,0,0,0,0
+Cycling Mountain Bike,Colombia,CO,COL,0,0,0,0,0
+Cycling Mountain Bike,Czech Republic,CZ,CZE,0,0,0,0,0
+Cycling Mountain Bike,France,FR,FRA,0,0,0,0,1
+Cycling Mountain Bike,Germany,DE,GER,0,0,0,0,0
+Cycling Mountain Bike,Great Britain,GB,GBR,1,0,0,0,0
+Cycling Mountain Bike,Hungary,HU,HUN,0,0,0,1,0
+Cycling Mountain Bike,Italy,IT,ITA,0,0,0,0,0
+Cycling Mountain Bike,Netherlands,NL,NED,0,0,0,0,1
+Cycling Mountain Bike,Poland,PL,POL,0,0,0,0,0
+Cycling Mountain Bike,Russian Federation,RU,RUS,0,0,0,0,0
+Cycling Mountain Bike,South Africa,ZA,RSA,0,0,0,0,0
+Cycling Mountain Bike,Spain,ES,ESP,0,0,2,0,0
+Cycling Mountain Bike,Sweden,SE,SWE,0,0,0,0,0
+Cycling Mountain Bike,Switzerland,CH,SUI,2,3,1,1,0
+Cycling Mountain Bike,United States of America,US,USA,0,0,0,0,0
+Cycling Road,Australia,AU,AUS,0,0,1,1,0
+Cycling Road,Austria,AT,AUT,1,0,0,0,0
+Cycling Road,Belgium,BE,BEL,0,1,0,1,0
+Cycling Road,Canada,CA,CAN,0,0,0,0,1
+Cycling Road,Colombia,CO,COL,0,0,0,0,0
+Cycling Road,Denmark,DK,DEN,0,0,0,0,0
+Cycling Road,Ecuador,EC,ECU,1,0,0,0,0
+Cycling Road,France,FR,FRA,0,0,0,0,0
+Cycling Road,Germany,DE,GER,0,0,0,0,0
+Cycling Road,Great Britain,GB,GBR,0,0,1,0,0
+Cycling Road,Italy,IT,ITA,0,0,2,0,3
+Cycling Road,Kazakhstan,KZ,KAZ,0,0,0,0,0
+Cycling Road,Netherlands,NL,NED,3,3,2,2,1
+Cycling Road,New Zealand,NZ,NZL,0,0,0,0,0
+Cycling Road,Poland,PL,POL,0,0,0,0,0
+Cycling Road,Russian Federation,RU,RUS,0,0,0,0,0
+Cycling Road,Slovenia,SI,SLO,1,0,1,0,0
+Cycling Road,Spain,ES,ESP,0,0,0,0,0
+Cycling Road,Sweden,SE,SWE,0,0,0,0,0
+Cycling Road,Switzerland,CH,SUI,0,1,0,1,0
+Cycling Road,United States of America,US,USA,1,0,0,1,1
+Cycling Road,Uzbekistan,UZ,UZB,0,0,0,0,0
+Cycling Track,Australia,AU,AUS,0,1,3,4,5
+Cycling Track,Belgium,BE,BEL,0,0,0,1,0
+Cycling Track,Canada,CA,CAN,1,0,2,2,3
+Cycling Track,Colombia,CO,COL,0,0,0,0,0
+Cycling Track,Denmark,DK,DEN,2,3,1,1,2
+Cycling Track,France,FR,FRA,0,1,3,2,2
+Cycling Track,Germany,DE,GER,2,2,1,3,6
+Cycling Track,Great Britain,GB,GBR,13,7,3,0,0
+Cycling Track,"Hong Kong, China",HK,HKG,0,0,1,0,0
+Cycling Track,Italy,IT,ITA,2,0,1,0,0
+Cycling Track,Japan,JP,JPN,0,1,0,0,0
+Cycling Track,Lithuania,LT,LTU,0,0,0,0,1
+Cycling Track,Malaysia,MY,MAS,0,1,0,0,0
+Cycling Track,Netherlands,NL,NED,5,2,3,3,2
+Cycling Track,New Zealand,NZ,NZL,0,3,1,3,1
+Cycling Track,Norway,NO,NOR,0,0,0,0,1
+Cycling Track,People's Republic of China,CN,CHN,2,1,0,0,0
+Cycling Track,ROC,ROC,ROC,0,0,2,1,0
+Cycling Track,Russian Federation,RU,RUS,0,0,0,1,0
+Cycling Track,Suriname,SR,SUR,0,0,0,1,0
+Cycling Track,Trinidad and Tobago,TT,TTO,0,0,0,0,0
+Cycling Track,Ukraine,UA,UKR,0,1,0,1,0
+Cycling Track,United States of America,US,USA,1,2,1,0,0
+Diving,Australia,AU,AUS,0,0,2,1,2
+Diving,Canada,CA,CAN,0,1,2,3,1
+Diving,Cuba,CU,CUB,0,0,0,0,0
+Diving,Democratic People's Republic of Korea,KP,PRK,0,0,0,0,0
+Diving,France,FR,FRA,0,0,0,0,0
+Diving,Germany,DE,GER,0,0,3,2,2
+Diving,Great Britain,GB,GBR,2,1,4,0,2
+Diving,Italy,IT,ITA,0,0,0,0,0
+Diving,Japan,JP,JPN,0,0,0,0,2
+Diving,Malaysia,MY,MAS,0,0,0,1,0
+Diving,Mexico,MX,MEX,0,2,2,6,1
+Diving,Netherlands,NL,NED,0,0,0,0,1
+Diving,People's Republic of China,CN,CHN,19,10,2,0,0
+Diving,ROC,ROC,ROC,0,0,1,1,2
+Diving,Republic of Korea,KR,KOR,0,0,0,1,0
+Diving,Russian Federation,RU,RUS,0,0,0,1,0
+Diving,Ukraine,UA,UKR,0,0,0,0,0
+Diving,United States of America,US,USA,0,4,3,0,3
+Equestrian,Australia,AU,AUS,0,1,1,0,0
+Equestrian,Belgium,BE,BEL,0,0,1,0,0
+Equestrian,Denmark,DK,DEN,0,0,0,2,0
+Equestrian,France,FR,FRA,0,0,1,0,0
+Equestrian,Germany,DE,GER,4,1,0,1,0
+Equestrian,Great Britain,GB,GBR,3,1,2,0,1
+Equestrian,Japan,JP,JPN,0,0,0,1,0
+Equestrian,Netherlands,NL,NED,0,0,1,1,1
+Equestrian,New Zealand,NZ,NZL,0,0,0,0,1
+Equestrian,Sweden,SE,SWE,1,1,0,1,1
+Equestrian,Switzerland,CH,SUI,0,0,0,0,1
+Equestrian,United States of America,US,USA,0,2,0,0,1
+Equestrian Dressage,Denmark,DK,DEN,0,0,0,0,0
+Equestrian Dressage,Germany,DE,GER,0,1,0,0,0
+Equestrian Dressage,Great Britain,GB,GBR,1,0,0,0,0
+Equestrian Dressage,Netherlands,NL,NED,0,0,0,0,0
+Equestrian Dressage,Spain,ES,ESP,0,0,0,0,0
+Equestrian Dressage,Sweden,SE,SWE,0,0,0,0,1
+Equestrian Dressage,United States of America,US,USA,0,0,0,0,0
+Equestrian Eventing,Australia,AU,AUS,0,0,0,0,0
+Equestrian Eventing,France,FR,FRA,0,0,0,0,0
+Equestrian Eventing,Germany,DE,GER,1,0,0,0,0
+Equestrian Eventing,Great Britain,GB,GBR,0,0,0,0,1
+Equestrian Eventing,Ireland,IE,IRL,0,0,0,0,0
+Equestrian Eventing,New Zealand,NZ,NZL,0,0,0,1,0
+Equestrian Eventing,Sweden,SE,SWE,0,0,0,0,0
+Equestrian Eventing,United States of America,US,USA,0,0,0,0,0
+Equestrian Jumping,Brazil,BR,BRA,0,0,0,0,0
+Equestrian Jumping,Canada,CA,CAN,0,0,0,0,0
+Equestrian Jumping,France,FR,FRA,0,0,0,0,0
+Equestrian Jumping,Germany,DE,GER,0,0,0,0,0
+Equestrian Jumping,Great Britain,GB,GBR,1,0,0,0,0
+Equestrian Jumping,Ireland,IE,IRL,0,0,0,0,0
+Equestrian Jumping,Mexico,MX,MEX,0,0,0,0,0
+Equestrian Jumping,Netherlands,NL,NED,0,0,0,0,0
+Equestrian Jumping,Saudi Arabia,SA,KSA,0,0,0,0,0
+Equestrian Jumping,Sweden,SE,SWE,0,0,0,0,0
+Equestrian Jumping,Switzerland,CH,SUI,0,0,0,1,0
+Equestrian Jumping,United States of America,US,USA,0,0,0,0,0
+Fencing,Canada,CA,CAN,0,0,0,0,1
+Fencing,Czech Republic,CZ,CZE,0,0,1,0,0
+Fencing,Egypt,EG,EGY,0,0,0,0,1
+Fencing,Estonia,EE,EST,1,0,1,0,0
+Fencing,France,FR,FRA,4,3,2,2,5
+Fencing,Georgia,GE,GEO,0,0,0,1,0
+Fencing,Germany,DE,GER,0,0,0,1,1
+Fencing,Great Britain,GB,GBR,0,0,0,0,0
+Fencing,Greece,GR,GRE,0,0,0,0,0
+Fencing,"Hong Kong, China",HK,HKG,1,0,0,0,1
+Fencing,Hungary,HU,HUN,3,2,2,1,0
+Fencing,Islamic Republic of Iran,IR,IRI,0,0,0,0,0
+Fencing,Italy,IT,ITA,3,7,4,6,4
+Fencing,Japan,JP,JPN,1,0,0,2,1
+Fencing,People's Republic of China,CN,CHN,2,0,1,2,0
+Fencing,Poland,PL,POL,0,0,0,0,0
+Fencing,ROC,ROC,ROC,5,5,1,1,1
+Fencing,Republic of Korea,KR,KOR,3,2,6,1,3
+Fencing,Romania,RO,ROU,0,1,0,0,1
+Fencing,Russian Federation,RU,RUS,3,1,2,1,0
+Fencing,Switzerland,CH,SUI,0,0,0,0,0
+Fencing,Tunisia,TN,TUN,0,0,0,0,0
+Fencing,Ukraine,UA,UKR,0,0,2,0,0
+Fencing,United States of America,US,USA,1,1,3,3,5
+Fencing,Venezuela,VE,VEN,0,0,0,0,0
+Football,Australia,AU,AUS,0,0,0,1,0
+Football,Brazil,BR,BRA,2,0,0,0,0
+Football,Canada,CA,CAN,1,0,1,0,0
+Football,France,FR,FRA,0,0,0,0,0
+Football,Germany,DE,GER,0,0,0,0,0
+Football,Great Britain,GB,GBR,0,0,0,0,0
+Football,Honduras,HN,HON,0,0,0,0,0
+Football,Japan,JP,JPN,0,0,0,1,0
+Football,Mexico,MX,MEX,0,0,1,0,0
+Football,Netherlands,NL,NED,0,0,0,0,1
+Football,Nigeria,NG,NGR,0,0,0,0,0
+Football,Republic of Korea,KR,KOR,0,0,0,0,2
+Football,Spain,ES,ESP,0,1,0,0,0
+Football,Sweden,SE,SWE,0,2,0,0,0
+Football,United States of America,US,USA,0,0,1,0,0
+Golf,Australia,AU,AUS,0,0,0,0,2
+Golf,Belgium,BE,BEL,0,0,0,0,0
+Golf,Chile,CL,CHI,0,0,0,1,0
+Golf,Chinese Taipei,TW,TPE,0,0,1,0,0
+Golf,Colombia,CO,COL,0,0,0,1,0
+Golf,Denmark,DK,DEN,0,0,0,0,1
+Golf,Great Britain,GB,GBR,0,0,0,1,0
+Golf,India,IN,IND,0,0,0,1,0
+Golf,Ireland,IE,IRL,0,0,0,1,0
+Golf,Japan,JP,JPN,0,1,0,2,0
+Golf,New Zealand,NZ,NZL,0,0,1,0,0
+Golf,People's Republic of China,CN,CHN,0,0,0,0,0
+Golf,Republic of Korea,KR,KOR,0,0,0,0,0
+Golf,Slovakia,SK,SVK,0,1,0,0,0
+Golf,Spain,ES,ESP,0,0,0,0,0
+Golf,Sweden,SE,SWE,0,0,0,0,0
+Golf,Thailand,TH,THA,0,0,0,0,0
+Golf,United States of America,US,USA,3,0,0,2,0
+Gymnastics Artistic,Australia,AU,AUS,0,0,0,0,0
+Gymnastics Artistic,Brazil,BR,BRA,0,1,0,0,1
+Gymnastics Artistic,Canada,CA,CAN,0,0,0,0,1
+Gymnastics Artistic,Chile,CL,CHI,0,0,0,0,0
+Gymnastics Artistic,Cuba,CU,CUB,0,0,0,0,0
+Gymnastics Artistic,Democratic People's Republic of Korea,KP,PRK,0,0,0,0,0
+Gymnastics Artistic,France,FR,FRA,0,0,0,1,0
+Gymnastics Artistic,Germany,DE,GER,0,1,0,1,0
+Gymnastics Artistic,Great Britain,GB,GBR,1,1,3,0,1
+Gymnastics Artistic,Greece,GR,GRE,0,0,0,0,0
+Gymnastics Artistic,Hungary,HU,HUN,0,0,0,0,0
+Gymnastics Artistic,India,IN,IND,0,0,0,0,0
+Gymnastics Artistic,Italy,IT,ITA,0,0,0,1,0
+Gymnastics Artistic,Japan,JP,JPN,2,1,0,1,0
+Gymnastics Artistic,Mexico,MX,MEX,0,0,0,0,0
+Gymnastics Artistic,Netherlands,NL,NED,1,0,0,0,0
+Gymnastics Artistic,People's Republic of China,CN,CHN,2,1,2,3,3
+Gymnastics Artistic,Republic of Korea,KR,KOR,0,0,0,0,0
+Gymnastics Artistic,Romania,RO,ROU,0,0,0,1,0
+Gymnastics Artistic,Russian Federation,RU,RUS,1,4,4,1,3
+Gymnastics Artistic,Switzerland,CH,SUI,0,0,0,0,0
+Gymnastics Artistic,Ukraine,UA,UKR,0,0,0,1,1
+Gymnastics Artistic,United States of America,US,USA,4,4,2,1,3
+Gymnastics Rhythmic,Azerbaijan,AZ,AZE,0,0,0,0,0
+Gymnastics Rhythmic,Belarus,BY,BLR,0,0,0,0,1
+Gymnastics Rhythmic,Bulgaria,BG,BUL,0,0,0,0,0
+Gymnastics Rhythmic,Italy,IT,ITA,0,0,0,0,0
+Gymnastics Rhythmic,Republic of Korea,KR,KOR,0,0,0,0,0
+Gymnastics Rhythmic,Russian Federation,RU,RUS,2,1,0,0,0
+Gymnastics Rhythmic,Spain,ES,ESP,0,0,0,0,0
+Gymnastics Rhythmic,Ukraine,UA,UKR,0,0,0,0,0
+Handball,Brazil,BR,BRA,0,0,0,0,0
+Handball,Croatia,HR,CRO,0,0,0,0,0
+Handball,Denmark,DK,DEN,0,1,0,0,0
+Handball,Egypt,EG,EGY,0,0,0,1,0
+Handball,France,FR,FRA,3,1,0,0,0
+Handball,Germany,DE,GER,0,0,0,0,0
+Handball,Hungary,HU,HUN,0,0,0,0,0
+Handball,Iceland,IS,ISL,0,0,0,0,0
+Handball,Montenegro,ME,MNE,0,0,0,0,0
+Handball,Netherlands,NL,NED,0,0,0,0,1
+Handball,Norway,NO,NOR,0,0,1,0,0
+Handball,Poland,PL,POL,0,0,0,0,0
+Handball,ROC,ROC,ROC,0,1,0,0,0
+Handball,Republic of Korea,KR,KOR,0,0,0,0,0
+Handball,Russian Federation,RU,RUS,0,0,0,0,0
+Handball,Spain,ES,ESP,0,0,1,0,0
+Handball,Sweden,SE,SWE,0,0,0,1,1
+Hockey,Argentina,AR,ARG,0,1,0,0,0
+Hockey,Australia,AU,AUS,0,1,0,0,2
+Hockey,Belgium,BE,BEL,1,0,0,0,0
+Hockey,Germany,DE,GER,0,0,1,1,0
+Hockey,Great Britain,GB,GBR,0,0,1,0,1
+Hockey,India,IN,IND,0,0,1,1,0
+Hockey,Netherlands,NL,NED,2,1,0,0,0
+Hockey,New Zealand,NZ,NZL,0,0,0,1,0
+Hockey,Spain,ES,ESP,0,0,0,0,0
+Hockey,United States of America,US,USA,0,0,0,0,0
+Judo,Argentina,AR,ARG,0,0,0,0,0
+Judo,Austria,AT,AUT,0,1,1,0,0
+Judo,Azerbaijan,AZ,AZE,0,1,1,0,2
+Judo,Belarus,BY,BLR,0,0,0,0,0
+Judo,Belgium,BE,BEL,0,0,2,0,0
+Judo,Brazil,BR,BRA,1,0,5,0,2
+Judo,Canada,CA,CAN,0,0,3,0,3
+Judo,Chinese Taipei,TW,TPE,0,1,0,0,0
+Judo,Colombia,CO,COL,0,0,0,0,0
+Judo,Croatia,HR,CRO,0,0,0,0,1
+Judo,Cuba,CU,CUB,0,3,0,0,3
+Judo,Czech Republic,CZ,CZE,2,0,0,0,0
+Judo,Democratic People's Republic of Korea,KP,PRK,0,0,0,0,0
+Judo,France,FR,FRA,5,6,7,0,1
+Judo,Georgia,GE,GEO,2,5,1,0,6
+Judo,Germany,DE,GER,0,2,4,0,4
+Judo,Great Britain,GB,GBR,0,0,2,0,0
+Judo,Greece,GR,GRE,0,0,0,0,0
+Judo,Hungary,HU,HUN,0,0,1,0,3
+Judo,Israel,IL,ISR,0,0,2,0,3
+Judo,Italy,IT,ITA,0,0,3,0,3
+Judo,Japan,JP,JPN,16,5,9,0,3
+Judo,Kazakhstan,KZ,KAZ,0,0,2,0,0
+Judo,Kosovo,XK,KOS,3,0,0,0,0
+Judo,Luxembourg,LU,LUX,0,0,0,0,0
+Judo,Mongolia,MN,MGL,0,2,3,0,2
+Judo,Netherlands,NL,NED,0,0,3,0,5
+Judo,People's Republic of China,CN,CHN,0,0,1,0,2
+Judo,Poland,PL,POL,0,0,0,0,0
+Judo,Portugal,PT,POR,0,0,2,0,1
+Judo,ROC,ROC,ROC,0,0,4,0,3
+Judo,Republic of Korea,KR,KOR,1,3,4,0,6
+Judo,Romania,RO,ROU,0,0,0,0,0
+Judo,Russian Federation,RU,RUS,2,0,1,0,0
+Judo,Slovenia,SI,SLO,1,1,0,0,2
+Judo,Spain,ES,ESP,0,0,0,0,1
+Judo,Sweden,SE,SWE,0,0,0,0,0
+Judo,Switzerland,CH,SUI,0,0,0,0,1
+Judo,Turkey,TR,TUR,0,0,0,0,3
+Judo,Ukraine,UA,UKR,0,0,1,0,2
+Judo,United Arab Emirates,AE,UAE,0,0,0,0,0
+Judo,United States of America,US,USA,1,0,0,0,0
+Judo,Uzbekistan,UZ,UZB,0,0,3,0,1
+Judo,Venezuela,VE,VEN,0,0,0,0,1
+Karate,Austria,AT,AUT,0,0,1,0,0
+Karate,Azerbaijan,AZ,AZE,0,2,0,0,0
+Karate,Bulgaria,BG,BUL,1,0,0,0,0
+Karate,Chinese Taipei,TW,TPE,0,0,1,0,0
+Karate,Croatia,HR,CRO,0,0,0,0,1
+Karate,Egypt,EG,EGY,1,0,1,0,1
+Karate,France,FR,FRA,1,0,0,0,0
+Karate,Georgia,GE,GEO,0,0,0,0,1
+Karate,Germany,DE,GER,0,0,0,0,1
+Karate,"Hong Kong, China",HK,HKG,0,0,1,0,0
+Karate,Hungary,HU,HUN,0,0,1,0,0
+Karate,Islamic Republic of Iran,IR,IRI,1,0,0,0,1
+Karate,Italy,IT,ITA,1,0,1,0,1
+Karate,Japan,JP,JPN,1,1,1,0,3
+Karate,Jordan,JO,JOR,0,0,1,0,0
+Karate,Kazakhstan,KZ,KAZ,0,0,2,0,0
+Karate,People's Republic of China,CN,CHN,0,1,1,0,0
+Karate,Republic of Korea,KR,KOR,0,0,0,0,1
+Karate,Saudi Arabia,SA,KSA,0,1,0,0,0
+Karate,Serbia,RS,SRB,1,0,0,0,0
+Karate,Spain,ES,ESP,1,1,0,0,0
+Karate,Switzerland,CH,SUI,0,0,0,0,1
+Karate,Turkey,TR,TUR,0,1,4,0,1
+Karate,Ukraine,UA,UKR,0,1,1,0,1
+Karate,United States of America,US,USA,0,0,1,0,1
+Karate,Venezuela,VE,VEN,0,0,0,0,2
+Marathon Swimming,Australia,AU,AUS,0,0,1,0,0
+Marathon Swimming,Brazil,BR,BRA,1,0,0,0,0
+Marathon Swimming,Canada,CA,CAN,0,0,0,0,0
+Marathon Swimming,France,FR,FRA,0,0,0,0,0
+Marathon Swimming,Germany,DE,GER,1,0,0,0,1
+Marathon Swimming,Great Britain,GB,GBR,0,0,0,0,0
+Marathon Swimming,Greece,GR,GRE,0,0,0,0,1
+Marathon Swimming,Hungary,HU,HUN,0,1,0,1,0
+Marathon Swimming,Israel,IL,ISR,0,0,0,1,0
+Marathon Swimming,Italy,IT,ITA,0,0,1,0,0
+Marathon Swimming,Netherlands,NL,NED,1,1,0,0,0
+Marathon Swimming,People's Republic of China,CN,CHN,0,0,0,1,0
+Marathon Swimming,Tunisia,TN,TUN,0,0,0,0,0
+Marathon Swimming,United States of America,US,USA,0,0,0,0,1
+Modern Pentathlon,Australia,AU,AUS,0,0,0,0,0
+Modern Pentathlon,Brazil,BR,BRA,0,0,0,0,0
+Modern Pentathlon,Czech Republic,CZ,CZE,0,0,0,0,1
+Modern Pentathlon,Egypt,EG,EGY,0,1,0,0,0
+Modern Pentathlon,France,FR,FRA,0,0,0,0,0
+Modern Pentathlon,Germany,DE,GER,0,0,0,0,0
+Modern Pentathlon,Great Britain,GB,GBR,2,0,0,0,0
+Modern Pentathlon,Hungary,HU,HUN,0,0,1,0,0
+Modern Pentathlon,Italy,IT,ITA,0,0,0,1,0
+Modern Pentathlon,Lithuania,LT,LTU,0,1,0,0,0
+Modern Pentathlon,Mexico,MX,MEX,0,0,0,0,0
+Modern Pentathlon,People's Republic of China,CN,CHN,0,0,0,0,0
+Modern Pentathlon,Poland,PL,POL,0,0,0,0,0
+Modern Pentathlon,Republic of Korea,KR,KOR,0,0,1,1,0
+Modern Pentathlon,Russian Federation,RU,RUS,0,0,0,0,0
+Modern Pentathlon,Turkey,TR,TUR,0,0,0,0,1
+Modern Pentathlon,Ukraine,UA,UKR,0,0,0,0,0
+Modern Pentathlon,United States of America,US,USA,0,0,0,0,0
+Rhythmic Gymnastics,Belarus,BY,BLR,0,0,1,0,1
+Rhythmic Gymnastics,Bulgaria,BG,BUL,1,0,0,0,1
+Rhythmic Gymnastics,Israel,IL,ISR,1,0,0,0,0
+Rhythmic Gymnastics,Italy,IT,ITA,0,0,1,0,0
+Rhythmic Gymnastics,People's Republic of China,CN,CHN,0,0,0,1,0
+Rhythmic Gymnastics,ROC,ROC,ROC,0,2,0,1,0
+Rowing,Argentina,AR,ARG,0,0,0,0,0
+Rowing,Australia,AU,AUS,3,3,4,1,2
+Rowing,Austria,AT,AUT,0,0,1,0,0
+Rowing,Azerbaijan,AZ,AZE,0,0,0,0,0
+Rowing,Belarus,BY,BLR,0,0,0,0,1
+Rowing,Belgium,BE,BEL,0,0,0,0,1
+Rowing,Canada,CA,CAN,1,1,1,1,0
+Rowing,Croatia,HR,CRO,2,1,1,0,0
+Rowing,Czech Republic,CZ,CZE,0,0,0,1,0
+Rowing,Denmark,DK,DEN,0,1,2,2,0
+Rowing,Estonia,EE,EST,0,0,0,0,0
+Rowing,France,FR,FRA,2,1,0,0,1
+Rowing,Germany,DE,GER,2,4,0,0,1
+Rowing,Great Britain,GB,GBR,5,4,3,9,3
+Rowing,Greece,GR,GRE,1,0,0,1,1
+Rowing,Ireland,IE,IRL,1,0,1,0,0
+Rowing,Italy,IT,ITA,1,0,4,3,1
+Rowing,Lithuania,LT,LTU,0,0,0,1,0
+Rowing,Netherlands,NL,NED,2,3,4,0,3
+Rowing,New Zealand,NZ,NZL,7,3,1,2,1
+Rowing,Norway,NO,NOR,0,1,0,0,0
+Rowing,People's Republic of China,CN,CHN,1,0,4,0,2
+Rowing,Poland,PL,POL,0,1,1,2,0
+Rowing,Portugal,PT,POR,0,0,0,0,0
+Rowing,ROC,ROC,ROC,0,2,0,0,1
+Rowing,Romania,RO,ROU,1,2,0,0,0
+Rowing,Serbia,RS,SRB,0,0,0,0,1
+Rowing,Slovenia,SI,SLO,0,0,0,0,0
+Rowing,South Africa,ZA,RSA,0,0,0,1,1
+Rowing,Sweden,SE,SWE,0,0,0,0,0
+Rowing,Switzerland,CH,SUI,0,0,0,0,4
+Rowing,Ukraine,UA,UKR,0,0,0,0,0
+Rowing,United States of America,US,USA,1,1,1,5,5
+Rugby,Australia,AU,AUS,0,0,0,0,0
+Rugby,Canada,CA,CAN,0,0,0,0,0
+Rugby,Fiji,FJ,FIJ,0,0,0,0,0
+Rugby,Great Britain,GB,GBR,0,0,0,0,0
+Rugby,Japan,JP,JPN,0,0,0,0,0
+Rugby,New Zealand,NZ,NZL,0,0,0,0,0
+Rugby,South Africa,ZA,RSA,0,0,0,0,0
+Rugby,United States of America,US,USA,0,0,0,0,0
+Rugby Sevens,Argentina,AR,ARG,0,0,1,0,0
+Rugby Sevens,Australia,AU,AUS,0,0,0,0,1
+Rugby Sevens,Fiji,FJ,FIJ,1,0,1,0,0
+Rugby Sevens,France,FR,FRA,0,1,0,0,0
+Rugby Sevens,Great Britain,GB,GBR,0,0,0,2,0
+Rugby Sevens,New Zealand,NZ,NZL,1,1,0,0,0
+Rugby Sevens,South Africa,ZA,RSA,0,0,0,0,1
+Sailing,Argentina,AR,ARG,0,0,0,0,1
+Sailing,Australia,AU,AUS,5,2,0,0,1
+Sailing,Austria,AT,AUT,0,0,0,0,0
+Sailing,Belgium,BE,BEL,0,0,0,2,0
+Sailing,Brazil,BR,BRA,2,0,0,1,0
+Sailing,Croatia,HR,CRO,0,2,0,0,1
+Sailing,Cyprus,CY,CYP,0,0,0,1,0
+Sailing,Denmark,DK,DEN,1,0,2,2,1
+Sailing,Finland,FI,FIN,0,0,0,0,2
+Sailing,France,FR,FRA,0,3,3,0,2
+Sailing,Germany,DE,GER,0,1,3,0,2
+Sailing,Great Britain,GB,GBR,6,4,1,0,3
+Sailing,Greece,GR,GRE,0,0,0,0,0
+Sailing,Hungary,HU,HUN,0,1,0,0,0
+Sailing,Ireland,IE,IRL,0,0,0,0,0
+Sailing,Israel,IL,ISR,0,0,0,1,0
+Sailing,Italy,IT,ITA,1,0,0,1,3
+Sailing,Japan,JP,JPN,0,0,0,0,0
+Sailing,Netherlands,NL,NED,3,0,3,3,1
+Sailing,New Zealand,NZ,NZL,1,3,1,2,3
+Sailing,Norway,NO,NOR,0,0,1,0,0
+Sailing,People's Republic of China,CN,CHN,2,0,1,0,0
+Sailing,Poland,PL,POL,0,1,1,0,0
+Sailing,Russian Federation,RU,RUS,0,0,0,0,0
+Sailing,Slovenia,SI,SLO,0,0,0,0,1
+Sailing,Spain,ES,ESP,1,0,3,3,0
+Sailing,Sweden,SE,SWE,0,2,0,0,0
+Sailing,Switzerland,CH,SUI,0,0,0,1,0
+Sailing,Ukraine,UA,UKR,0,0,0,0,0
+Sailing,United States of America,US,USA,0,0,0,0,0
+Shooting,Australia,AU,AUS,0,0,0,1,1
+Shooting,Austria,AT,AUT,0,0,0,0,0
+Shooting,Belarus,BY,BLR,0,0,0,0,1
+Shooting,Belgium,BE,BEL,0,0,0,0,0
+Shooting,Brazil,BR,BRA,0,0,0,0,0
+Shooting,Bulgaria,BG,BUL,0,1,0,1,0
+Shooting,Chinese Taipei,TW,TPE,0,0,0,0,1
+Shooting,Croatia,HR,CRO,1,0,0,0,1
+Shooting,Cuba,CU,CUB,0,1,0,0,0
+Shooting,Czech Republic,CZ,CZE,1,1,0,1,0
+Shooting,Democratic People's Republic of Korea,KP,PRK,0,0,0,0,0
+Shooting,Denmark,DK,DEN,0,1,0,0,0
+Shooting,Egypt,EG,EGY,0,0,0,0,1
+Shooting,Finland,FI,FIN,0,0,0,1,0
+Shooting,France,FR,FRA,1,1,1,0,3
+Shooting,Germany,DE,GER,2,0,0,1,5
+Shooting,Great Britain,GB,GBR,0,0,2,0,0
+Shooting,Greece,GR,GRE,0,0,0,0,0
+Shooting,Hungary,HU,HUN,0,0,0,0,2
+Shooting,Independent Olympic Athletes,IOA,IOA,0,0,0,0,0
+Shooting,India,IN,IND,0,0,0,1,0
+Shooting,Islamic Republic of Iran,IR,IRI,1,0,0,0,1
+Shooting,Italy,IT,ITA,4,5,0,1,3
+Shooting,Japan,JP,JPN,0,0,0,0,1
+Shooting,Kuwait,KW,KUW,0,0,1,0,0
+Shooting,Mexico,MX,MEX,0,0,0,2,0
+Shooting,Netherlands,NL,NED,0,0,0,0,0
+Shooting,New Zealand,NZ,NZL,0,0,0,0,0
+Shooting,Norway,NO,NOR,0,0,0,4,0
+Shooting,People's Republic of China,CN,CHN,7,4,13,3,5
+Shooting,Poland,PL,POL,0,0,0,0,0
+Shooting,Qatar,QA,QAT,0,0,0,0,0
+Shooting,ROC,ROC,ROC,3,5,1,0,1
+Shooting,Republic of Korea,KR,KOR,2,3,0,3,0
+Shooting,Romania,RO,ROU,0,0,0,0,0
+Shooting,Russian Federation,RU,RUS,0,1,2,2,2
+Shooting,San Marino,SM,SMR,0,1,1,0,0
+Shooting,Serbia,RS,SRB,0,2,2,2,0
+Shooting,Slovakia,SK,SVK,1,0,0,2,0
+Shooting,Slovenia,SI,SLO,0,0,0,0,0
+Shooting,Spain,ES,ESP,1,0,0,0,0
+Shooting,Sweden,SE,SWE,0,1,0,0,0
+Shooting,Switzerland,CH,SUI,1,0,2,0,0
+Shooting,Thailand,TH,THA,0,0,0,1,0
+Shooting,Turkey,TR,TUR,0,0,0,1,0
+Shooting,Ukraine,UA,UKR,0,0,2,3,0
+Shooting,United States of America,US,USA,6,3,3,0,2
+Shooting,Vietnam,VN,VIE,0,0,0,0,0
+Skateboarding,Australia,AU,AUS,1,0,0,0,2
+Skateboarding,Brazil,BR,BRA,0,4,0,1,0
+Skateboarding,France,FR,FRA,0,0,0,1,0
+Skateboarding,Great Britain,GB,GBR,0,0,1,0,0
+Skateboarding,Japan,JP,JPN,4,1,1,1,0
+Skateboarding,Netherlands,NL,NED,0,0,0,0,1
+Skateboarding,Peru,PE,PER,0,0,0,0,1
+Skateboarding,United States of America,US,USA,0,0,2,1,0
+Sport Climbing,Austria,AT,AUT,0,0,1,0,0
+Sport Climbing,France,FR,FRA,0,0,0,0,1
+Sport Climbing,Japan,JP,JPN,0,1,1,1,0
+Sport Climbing,Poland,PL,POL,0,0,0,1,0
+Sport Climbing,Slovenia,SI,SLO,1,0,0,0,0
+Sport Climbing,Spain,ES,ESP,1,0,0,0,0
+Sport Climbing,United States of America,US,USA,0,1,0,0,1
+Surfing,Australia,AU,AUS,0,0,0,0,1
+Surfing,Brazil,BR,BRA,0,0,0,0,1
+Surfing,Costa Rica,CR,CRC,0,0,0,0,1
+Surfing,Japan,JP,JPN,0,0,1,0,0
+Surfing,Portugal,PT,POR,0,0,0,0,1
+Surfing,South Africa,ZA,RSA,0,1,0,0,0
+Surfing,United States of America,US,USA,1,0,0,1,0
+Swimming,Australia,AU,AUS,16,11,16,4,13
+Swimming,Austria,AT,AUT,0,0,0,1,0
+Swimming,Belarus,BY,BLR,0,0,0,0,0
+Swimming,Belgium,BE,BEL,0,0,0,0,0
+Swimming,Brazil,BR,BRA,0,0,3,1,1
+Swimming,Canada,CA,CAN,3,6,6,7,4
+Swimming,Denmark,DK,DEN,0,0,2,1,1
+Swimming,Finland,FI,FIN,0,0,1,0,0
+Swimming,France,FR,FRA,2,3,0,2,1
+Swimming,Germany,DE,GER,0,0,3,4,0
+Swimming,Great Britain,GB,GBR,8,9,3,9,9
+Swimming,Greece,GR,GRE,0,0,0,0,1
+Swimming,"Hong Kong, China",HK,HKG,0,2,0,0,0
+Swimming,Hungary,HU,HUN,4,3,2,6,5
+Swimming,Italy,IT,ITA,1,3,7,5,5
+Swimming,Jamaica,JM,JAM,0,0,0,0,0
+Swimming,Japan,JP,JPN,4,4,6,3,4
+Swimming,Kazakhstan,KZ,KAZ,0,0,0,0,0
+Swimming,Lithuania,LT,LTU,0,0,0,0,0
+Swimming,Netherlands,NL,NED,1,3,0,3,1
+Swimming,New Zealand,NZ,NZL,0,0,0,0,0
+Swimming,People's Republic of China,CN,CHN,8,6,6,9,10
+Swimming,Poland,PL,POL,0,0,0,0,2
+Swimming,ROC,ROC,ROC,3,3,2,7,5
+Swimming,Republic of Korea,KR,KOR,0,0,0,0,1
+Swimming,Romania,RO,ROU,0,0,0,1,0
+Swimming,Russian Federation,RU,RUS,0,2,2,3,1
+Swimming,Serbia,RS,SRB,0,0,0,0,0
+Swimming,Singapore,SG,SGP,0,0,0,0,0
+Swimming,South Africa,ZA,RSA,2,4,0,1,4
+Swimming,Spain,ES,ESP,0,1,0,2,0
+Swimming,Sweden,SE,SWE,0,2,0,0,5
+Swimming,Switzerland,CH,SUI,0,0,2,0,0
+Swimming,Tunisia,TN,TUN,1,0,0,0,0
+Swimming,Ukraine,UA,UKR,0,1,1,0,0
+Swimming,United States of America,US,USA,39,26,24,18,16
+Synchronized Swimming,Canada,CA,CAN,0,0,0,0,0
+Synchronized Swimming,Italy,IT,ITA,0,0,0,0,0
+Synchronized Swimming,Japan,JP,JPN,0,0,1,0,1
+Synchronized Swimming,People's Republic of China,CN,CHN,0,1,0,0,0
+Synchronized Swimming,Russian Federation,RU,RUS,2,0,0,0,0
+Synchronized Swimming,Spain,ES,ESP,0,0,0,0,0
+Synchronized Swimming,Ukraine,UA,UKR,0,0,0,0,0
+Table Tennis,Austria,AT,AUT,0,0,0,0,1
+Table Tennis,Belarus,BY,BLR,0,0,0,0,0
+Table Tennis,Brazil,BR,BRA,0,0,0,0,2
+Table Tennis,Chinese Taipei,TW,TPE,0,0,1,2,3
+Table Tennis,Democratic People's Republic of Korea,KP,PRK,0,0,0,0,1
+Table Tennis,Denmark,DK,DEN,0,0,0,0,0
+Table Tennis,Egypt,EG,EGY,0,0,0,0,1
+Table Tennis,France,FR,FRA,0,0,0,1,1
+Table Tennis,Germany,DE,GER,0,2,3,1,5
+Table Tennis,Great Britain,GB,GBR,0,0,0,0,0
+Table Tennis,"Hong Kong, China",HK,HKG,0,0,1,0,5
+Table Tennis,Japan,JP,JPN,1,2,4,1,4
+Table Tennis,Netherlands,NL,NED,0,0,0,0,0
+Table Tennis,Nigeria,NG,NGR,0,0,0,0,0
+Table Tennis,People's Republic of China,CN,CHN,11,6,0,0,0
+Table Tennis,Portugal,PT,POR,0,0,0,0,1
+Table Tennis,Republic of Korea,KR,KOR,0,0,0,2,6
+Table Tennis,Romania,RO,ROU,0,0,0,0,3
+Table Tennis,Singapore,SG,SGP,0,0,1,2,3
+Table Tennis,Slovenia,SI,SLO,0,0,0,0,1
+Table Tennis,Sweden,SE,SWE,0,0,0,0,2
+Taekwondo,Afghanistan,AF,AFG,0,0,0,0,0
+Taekwondo,Argentina,AR,ARG,0,0,0,0,1
+Taekwondo,Armenia,AM,ARM,0,0,0,0,0
+Taekwondo,Australia,AU,AUS,0,0,0,0,0
+Taekwondo,Azerbaijan,AZ,AZE,0,0,1,0,0
+Taekwondo,Belgium,BE,BEL,0,0,0,0,1
+Taekwondo,Bosnia and Herzegovina,BA,BIH,0,0,0,0,1
+Taekwondo,Brazil,BR,BRA,0,0,0,0,1
+Taekwondo,Chinese Taipei,TW,TPE,0,0,1,0,0
+Taekwondo,Colombia,CO,COL,0,0,0,0,0
+Taekwondo,Croatia,HR,CRO,1,0,1,0,0
+Taekwondo,Cuba,CU,CUB,0,0,1,0,0
+Taekwondo,Côte d'Ivoire,CI,CIV,0,0,1,0,1
+Taekwondo,Dominican Republic,DO,DOM,0,0,0,0,0
+Taekwondo,Egypt,EG,EGY,0,0,3,0,0
+Taekwondo,Finland,FI,FIN,0,0,0,0,0
+Taekwondo,France,FR,FRA,0,1,1,0,1
+Taekwondo,Gabon,GA,GAB,0,0,0,0,0
+Taekwondo,Germany,DE,GER,0,0,0,0,0
+Taekwondo,Great Britain,GB,GBR,1,3,2,0,1
+Taekwondo,Guatemala,GT,GUA,0,0,0,0,0
+Taekwondo,Hungary,HU,HUN,0,0,0,0,1
+Taekwondo,Islamic Republic of Iran,IR,IRI,0,0,0,0,0
+Taekwondo,Israel,IL,ISR,0,0,1,0,0
+Taekwondo,Italy,IT,ITA,1,0,0,0,0
+Taekwondo,Ivory Coast,CI,CIV,0,0,0,0,0
+Taekwondo,Japan,JP,JPN,0,0,0,0,1
+Taekwondo,Jordan,JO,JOR,0,1,0,0,0
+Taekwondo,Mali,ML,MLI,0,0,0,0,0
+Taekwondo,Mexico,MX,MEX,0,0,0,0,2
+Taekwondo,Morocco,MA,MAR,0,0,0,0,0
+Taekwondo,Niger,NE,NIG,0,0,0,0,1
+Taekwondo,North Macedonia,MK,MKD,0,1,0,0,0
+Taekwondo,Norway,NO,NOR,0,0,0,0,1
+Taekwondo,People's Republic of China,CN,CHN,1,0,1,0,1
+Taekwondo,Poland,PL,POL,0,0,0,0,2
+Taekwondo,ROC,ROC,ROC,3,1,1,0,0
+Taekwondo,Republic of Korea,KR,KOR,2,2,5,0,2
+Taekwondo,Russian Federation,RU,RUS,0,0,0,0,0
+Taekwondo,Serbia,RS,SRB,2,0,1,0,0
+Taekwondo,Slovenia,SI,SLO,0,0,0,0,1
+Taekwondo,Spain,ES,ESP,0,3,0,0,1
+Taekwondo,Sweden,SE,SWE,0,0,0,0,0
+Taekwondo,Thailand,TH,THA,1,0,1,0,0
+Taekwondo,Tunisia,TN,TUN,0,1,0,0,0
+Taekwondo,Turkey,TR,TUR,0,0,3,0,2
+Taekwondo,United States of America,US,USA,1,0,1,0,2
+Taekwondo,Uzbekistan,UZ,UZB,1,0,0,0,2
+Taekwondo,Venezuela,VE,VEN,0,0,0,0,0
+Tennis,Argentina,AR,ARG,0,0,0,0,0
+Tennis,Australia,AU,AUS,0,0,1,0,3
+Tennis,Austria,AT,AUT,0,0,0,0,0
+Tennis,Belarus,BY,BLR,0,0,0,0,0
+Tennis,Belgium,BE,BEL,0,0,0,0,0
+Tennis,Brazil,BR,BRA,0,0,1,0,2
+Tennis,Canada,CA,CAN,0,0,0,0,0
+Tennis,Chinese Taipei,TW,TPE,0,0,0,0,1
+Tennis,Colombia,CO,COL,0,0,0,0,1
+Tennis,Croatia,HR,CRO,1,1,0,0,0
+Tennis,Czech Republic,CZ,CZE,1,2,2,0,0
+Tennis,Denmark,DK,DEN,0,0,0,0,0
+Tennis,France,FR,FRA,0,0,0,0,4
+Tennis,Germany,DE,GER,1,0,0,0,4
+Tennis,Great Britain,GB,GBR,1,0,0,0,2
+Tennis,Greece,GR,GRE,0,0,0,0,1
+Tennis,India,IN,IND,0,0,0,0,0
+Tennis,Israel,IL,ISR,0,0,0,0,0
+Tennis,Italy,IT,ITA,0,0,0,0,4
+Tennis,Japan,JP,JPN,0,0,0,0,4
+Tennis,Kazakhstan,KZ,KAZ,0,0,0,1,0
+Tennis,New Zealand,NZ,NZL,0,0,1,0,0
+Tennis,People's Republic of China,CN,CHN,0,0,0,0,0
+Tennis,Poland,PL,POL,0,0,0,0,1
+Tennis,Puerto Rico,PR,PUR,0,0,0,0,0
+Tennis,ROC,ROC,ROC,1,2,0,1,3
+Tennis,Romania,RO,ROU,0,0,0,0,0
+Tennis,Russian Federation,RU,RUS,0,0,0,0,1
+Tennis,Serbia,RS,SRB,0,0,0,3,0
+Tennis,Spain,ES,ESP,0,0,1,1,5
+Tennis,Switzerland,CH,SUI,1,2,0,0,0
+Tennis,Ukraine,UA,UKR,0,0,1,0,2
+Tennis,United States of America,US,USA,2,0,1,2,2
+Trampoline,Belarus,BY,BLR,0,0,0,0,1
+Trampoline,Canada,CA,CAN,1,0,0,0,0
+Trampoline,Great Britain,GB,GBR,0,0,0,0,0
+Trampoline,Japan,JP,JPN,0,0,0,1,0
+Trampoline,People's Republic of China,CN,CHN,0,1,2,0,0
+Trampoline,Russian Federation,RU,RUS,0,0,0,0,0
+Trampoline Gymnastics,Belarus,BY,BLR,1,0,0,1,0
+Trampoline Gymnastics,Canada,CA,CAN,0,0,0,1,0
+Trampoline Gymnastics,Great Britain,GB,GBR,0,0,1,0,0
+Trampoline Gymnastics,Japan,JP,JPN,0,0,0,0,1
+Trampoline Gymnastics,New Zealand,NZ,NZL,0,0,1,0,0
+Trampoline Gymnastics,People's Republic of China,CN,CHN,1,2,0,0,0
+Trampoline Gymnastics,ROC,ROC,ROC,0,0,0,0,1
+Triathlon,Australia,AU,AUS,0,0,0,0,0
+Triathlon,Belgium,BE,BEL,0,0,0,1,1
+Triathlon,Bermuda,BM,BER,1,0,0,0,0
+Triathlon,Chile,CL,CHI,0,0,0,0,0
+Triathlon,France,FR,FRA,0,0,1,0,2
+Triathlon,Great Britain,GB,GBR,3,3,1,0,2
+Triathlon,Netherlands,NL,NED,0,0,0,2,0
+Triathlon,New Zealand,NZ,NZL,0,0,1,0,0
+Triathlon,Norway,NO,NOR,1,0,0,0,0
+Triathlon,Portugal,PT,POR,0,0,0,0,0
+Triathlon,South Africa,ZA,RSA,0,0,0,0,0
+Triathlon,Spain,ES,ESP,0,0,0,0,0
+Triathlon,Sweden,SE,SWE,0,0,0,0,0
+Triathlon,Switzerland,CH,SUI,0,0,0,0,0
+Triathlon,United States of America,US,USA,0,1,1,0,0
+Volleyball,Argentina,AR,ARG,0,0,1,0,1
+Volleyball,Brazil,BR,BRA,1,1,0,1,0
+Volleyball,Bulgaria,BG,BUL,0,0,0,0,0
+Volleyball,Canada,CA,CAN,0,0,0,0,0
+Volleyball,Dominican Republic,DO,DOM,0,0,0,0,0
+Volleyball,France,FR,FRA,1,0,0,0,0
+Volleyball,Germany,DE,GER,0,0,0,0,0
+Volleyball,Islamic Republic of Iran,IR,IRI,0,0,0,0,0
+Volleyball,Italy,IT,ITA,0,0,0,0,0
+Volleyball,Japan,JP,JPN,0,0,0,0,0
+Volleyball,Netherlands,NL,NED,0,0,0,0,0
+Volleyball,People's Republic of China,CN,CHN,0,0,0,0,0
+Volleyball,Poland,PL,POL,0,0,0,0,2
+Volleyball,ROC,ROC,ROC,0,1,0,0,0
+Volleyball,Republic of Korea,KR,KOR,0,0,0,1,0
+Volleyball,Russian Federation,RU,RUS,0,0,0,0,1
+Volleyball,Serbia,RS,SRB,0,0,1,0,0
+Volleyball,Turkey,TR,TUR,0,0,0,0,1
+Volleyball,United States of America,US,USA,1,0,1,0,0
+Water Polo,Australia,AU,AUS,0,0,0,0,1
+Water Polo,Croatia,HR,CRO,0,0,0,0,1
+Water Polo,Greece,GR,GRE,0,1,0,0,0
+Water Polo,Hungary,HU,HUN,0,0,2,1,1
+Water Polo,Italy,IT,ITA,0,1,0,0,0
+Water Polo,Montenegro,ME,MNE,0,0,0,1,0
+Water Polo,People's Republic of China,CN,CHN,0,0,0,0,0
+Water Polo,ROC,ROC,ROC,0,0,0,1,0
+Water Polo,Russian Federation,RU,RUS,0,0,0,0,0
+Water Polo,Serbia,RS,SRB,2,0,0,0,0
+Water Polo,Spain,ES,ESP,0,1,0,1,0
+Water Polo,United States of America,US,USA,2,0,0,0,0
+Weightlifting,Albania,AL,ALB,0,0,0,1,0
+Weightlifting,Armenia,AM,ARM,0,2,0,0,0
+Weightlifting,Australia,AU,AUS,0,0,0,0,0
+Weightlifting,Azerbaijan,AZ,AZE,0,0,0,0,0
+Weightlifting,Belarus,BY,BLR,0,1,0,0,2
+Weightlifting,Belgium,BE,BEL,0,0,0,0,1
+Weightlifting,Brazil,BR,BRA,0,0,0,0,1
+Weightlifting,Bulgaria,BG,BUL,0,0,0,0,2
+Weightlifting,Cameroon,CM,CMR,0,0,0,0,0
+Weightlifting,Canada,CA,CAN,2,0,0,1,0
+Weightlifting,Chinese Taipei,TW,TPE,2,0,2,1,2
+Weightlifting,Colombia,CO,COL,1,2,1,4,1
+Weightlifting,Cuba,CU,CUB,0,0,0,0,0
+Weightlifting,Democratic People's Republic of Korea,KP,PRK,2,2,0,1,0
+Weightlifting,Dominican Republic,DO,DOM,0,1,1,0,0
+Weightlifting,Ecuador,EC,ECU,1,1,0,0,0
+Weightlifting,Egypt,EG,EGY,0,0,2,1,2
+Weightlifting,Fiji,FJ,FIJ,0,0,0,0,0
+Weightlifting,France,FR,FRA,0,0,0,1,1
+Weightlifting,Georgia,GE,GEO,2,0,2,0,0
+Weightlifting,Great Britain,GB,GBR,0,1,0,0,1
+Weightlifting,India,IN,IND,0,1,0,0,0
+Weightlifting,Indonesia,ID,INA,0,3,3,0,2
+Weightlifting,Islamic Republic of Iran,IR,IRI,3,2,0,0,0
+Weightlifting,Italy,IT,ITA,0,1,2,0,0
+Weightlifting,Japan,JP,JPN,0,0,2,2,0
+Weightlifting,Kazakhstan,KZ,KAZ,0,1,6,0,1
+Weightlifting,Latvia,LV,LAT,0,0,1,0,0
+Weightlifting,Lithuania,LT,LTU,0,0,0,0,0
+Weightlifting,Mexico,MX,MEX,0,0,1,0,0
+Weightlifting,Mongolia,MN,MGL,0,0,0,1,0
+Weightlifting,New Zealand,NZ,NZL,0,0,0,0,1
+Weightlifting,Pakistan,PK,PAK,0,0,0,0,1
+Weightlifting,People's Republic of China,CN,CHN,17,4,0,1,0
+Weightlifting,Philippines,PH,PHI,1,0,0,0,0
+Weightlifting,Poland,PL,POL,0,0,0,0,0
+Weightlifting,Qatar,QA,QAT,1,0,0,0,0
+Weightlifting,ROC,ROC,ROC,0,0,0,1,0
+Weightlifting,Republic of Korea,KR,KOR,0,0,1,3,0
+Weightlifting,Republic of Moldova,MD,MDA,0,0,0,0,0
+Weightlifting,Romania,RO,ROU,0,0,0,0,0
+Weightlifting,Russian Federation,RU,RUS,0,0,0,0,0
+Weightlifting,Samoa,WS,SAM,0,0,0,0,0
+Weightlifting,Saudi Arabia,SA,KSA,0,0,0,0,1
+Weightlifting,Spain,ES,ESP,0,0,0,0,0
+Weightlifting,Sweden,SE,SWE,0,0,0,1,0
+Weightlifting,Syrian Arab Republic,SY,SYR,0,0,1,0,0
+Weightlifting,Thailand,TH,THA,1,1,1,2,0
+Weightlifting,Turkey,TR,TUR,0,0,0,0,1
+Weightlifting,Turkmenistan,TM,TKM,0,1,0,1,0
+Weightlifting,Ukraine,UA,UKR,0,0,0,0,2
+Weightlifting,United States of America,US,USA,0,1,2,1,0
+Weightlifting,Uzbekistan,UZ,UZB,2,0,0,1,0
+Weightlifting,Venezuela,VE,VEN,0,2,0,0,0
+Weightlifting,Vietnam,VN,VIE,0,0,0,0,2
+Wrestling,Argentina,AR,ARG,0,0,0,0,0
+Wrestling,Armenia,AM,ARM,0,2,0,0,2
+Wrestling,Azerbaijan,AZ,AZE,1,5,8,0,4
+Wrestling,Belarus,BY,BLR,0,3,3,0,3
+Wrestling,Bulgaria,BG,BUL,0,0,3,0,3
+Wrestling,Cameroon,CM,CMR,0,0,0,0,2
+Wrestling,Canada,CA,CAN,0,0,0,0,1
+Wrestling,Chile,CL,CHI,0,0,0,0,1
+Wrestling,Colombia,CO,COL,0,0,0,0,0
+Wrestling,Croatia,HR,CRO,0,0,0,0,2
+Wrestling,Cuba,CU,CUB,4,0,2,0,2
+Wrestling,Democratic People's Republic of Korea,KP,PRK,0,0,0,0,0
+Wrestling,Denmark,DK,DEN,0,0,0,0,1
+Wrestling,Egypt,EG,EGY,0,0,1,0,2
+Wrestling,Estonia,EE,EST,0,0,0,0,0
+Wrestling,Finland,FI,FIN,0,0,0,0,1
+Wrestling,France,FR,FRA,0,0,0,0,0
+Wrestling,Georgia,GE,GEO,1,3,3,0,3
+Wrestling,Germany,DE,GER,1,0,3,0,1
+Wrestling,Hungary,HU,HUN,1,2,1,0,4
+Wrestling,India,IN,IND,0,2,2,0,1
+Wrestling,Islamic Republic of Iran,IR,IRI,4,3,5,0,5
+Wrestling,Italy,IT,ITA,0,0,2,0,1
+Wrestling,Japan,JP,JPN,12,4,2,0,4
+Wrestling,Kazakhstan,KZ,KAZ,0,1,4,0,5
+Wrestling,Kyrgyzstan,KG,KGZ,0,2,1,0,3
+Wrestling,Latvia,LV,LAT,0,0,0,0,1
+Wrestling,Lithuania,LT,LTU,0,0,0,0,0
+Wrestling,Mongolia,MN,MGL,0,0,2,0,6
+Wrestling,Nigeria,NG,NGR,0,1,0,0,0
+Wrestling,Norway,NO,NOR,0,0,0,0,0
+Wrestling,People's Republic of China,CN,CHN,0,3,4,0,3
+Wrestling,Poland,PL,POL,0,0,2,0,0
+Wrestling,Puerto Rico,PR,PUR,0,0,0,0,0
+Wrestling,ROC,ROC,ROC,5,0,5,0,4
+Wrestling,Republic of Korea,KR,KOR,0,0,0,0,1
+Wrestling,Republic of Moldova,MD,MDA,0,0,0,0,1
+Wrestling,Romania,RO,ROU,0,0,0,0,0
+Wrestling,Russian Federation,RU,RUS,5,3,3,0,1
+Wrestling,San Marino,SM,SMR,0,0,1,0,0
+Wrestling,Senegal,SN,SEN,0,0,0,0,0
+Wrestling,Serbia,RS,SRB,0,0,1,0,0
+Wrestling,Spain,ES,ESP,0,0,0,0,0
+Wrestling,Sweden,SE,SWE,0,0,2,0,0
+Wrestling,Tunisia,TN,TUN,0,0,0,0,0
+Wrestling,Turkey,TR,TUR,0,1,6,0,2
+Wrestling,Ukraine,UA,UKR,1,2,3,0,4
+Wrestling,United States of America,US,USA,7,3,8,0,4
+Wrestling,Uzbekistan,UZ,UZB,0,0,3,0,2
+Wrestling,Venezuela,VE,VEN,0,0,0,0,1
